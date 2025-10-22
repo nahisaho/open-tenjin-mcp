@@ -1,0 +1,4195 @@
+[
+  {
+    "id": "elementary_japanese_2024",
+    "title": "小学校学習指導要領（平成29年告示）国語",
+    "educationStage": "elementary",
+    "subject": "japanese",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 306,
+      "grade2": 315,
+      "grade3": 245,
+      "grade4": 245,
+      "grade5": 175,
+      "grade6": 175
+    },
+    "units": [
+      {
+        "id": "elem_jp_grade1_speaking_listening",
+        "title": "話すこと・聞くこと",
+        "educationStage": "elementary",
+        "subject": "japanese",
+        "grade": [
+          "elementary_1"
+        ],
+        "allocatedHours": 30,
+        "goals": [
+          "身近なことや経験したことなどから話題を決め，伝え合うために必要な事柄を選んで話すこと",
+          "相手を見て話したり聞いたりするとともに，言葉の抑揚や強弱，間の取り方などに注意して話すこと"
+        ],
+        "contents": [
+          {
+            "id": "elem_jp_1_speaking_1",
+            "level": "content",
+            "title": "身近なことや経験したことなどから話題を決め，必要な事柄を思い出すこと",
+            "description": "日常生活の体験を基に話題を選択し，話すための準備を行う",
+            "objectives": [
+              "身近な出来事や体験から話題を見つけること",
+              "話すために必要な事柄を思い出すこと",
+              "相手や場に応じて声の大きさや話す速さを調節すること"
+            ],
+            "keywords": [
+              "話題選択",
+              "体験",
+              "相手意識",
+              "話し方"
+            ],
+            "bloomsTaxonomy": [
+              "remember",
+              "understand",
+              "apply"
+            ],
+            "crossCurricularLinks": [
+              "生活科",
+              "道徳"
+            ],
+            "assessmentCriteria": [
+              "適切な話題を選択できる",
+              "相手を意識して話すことができる",
+              "必要な事柄を整理して話すことができる"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "話題に沿って話すことができる",
+          "相手を見て話すことができる",
+          "適切な声の大きさで話すことができる"
+        ],
+        "keywords": [
+          "話すこと",
+          "聞くこと",
+          "体験",
+          "相手意識"
+        ],
+        "practicalExamples": [
+          "朝の会での一日の予定発表",
+          "友達との会話練習",
+          "家族への報告活動"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "日常生活に必要な国語について，その特質を理解し適切に使うことができるようにする",
+      "日常生活における人との関わりの中で伝え合う力を高め，思考力や想像力を養う",
+      "言葉がもつよさを認識するとともに，言語感覚を養い，国語の大切さを自覚し，国語を尊重してその能力の向上を図る態度を養う"
+    ],
+    "overallGoals": [
+      "言葉による見方・考え方を働かせ，言語活動を通して，国語で正確に理解し適切に表現する資質・能力を育成することを目指す"
+    ],
+    "threePillars": {
+      "knowledgeSkills": "日常生活に必要な国語の知識や技能を身に付けるとともに，我が国の言語文化に親しむことができるようにする",
+      "thinkingJudgingExpressing": "順序立てて考える力や感じたり想像したりする力を養い，日常生活における人との関わりの中で伝え合う力を高める",
+      "learningHumanity": "言葉がもつよさを感じるとともに，楽しんで読書をし，国語を大切にして，思いや考えを伝え合おうとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "elementary_arithmetic_2024",
+    "title": "小学校学習指導要領（平成29年告示）算数",
+    "educationStage": "elementary",
+    "subject": "arithmetic",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 136,
+      "grade2": 175,
+      "grade3": 175,
+      "grade4": 175,
+      "grade5": 175,
+      "grade6": 175
+    },
+    "units": [
+      {
+        "id": "elem_math_grade1_numbers",
+        "title": "数と計算",
+        "educationStage": "elementary",
+        "subject": "arithmetic",
+        "grade": [
+          "elementary_1"
+        ],
+        "allocatedHours": 114,
+        "goals": [
+          "数の概念とその表し方について理解すること",
+          "加法及び減法の意味について理解し，それらを用いることができること"
+        ],
+        "contents": [
+          {
+            "id": "elem_math_1_numbers_1",
+            "level": "content",
+            "title": "ものの個数を数えたり，順番を表したりすることについて理解し，数の概念の基礎を身に付ける",
+            "description": "身の回りのものを数えることを通して，数の概念を理解する",
+            "objectives": [
+              "ものの個数を，一つ，二つなどと数えること",
+              "10までの数について，個数や順番を正しく数えたり表したりすること",
+              "一つの数をほかの数の和や差として表すこと"
+            ],
+            "keywords": [
+              "数",
+              "個数",
+              "順序",
+              "10までの数"
+            ],
+            "bloomsTaxonomy": [
+              "remember",
+              "understand"
+            ],
+            "crossCurricularLinks": [
+              "生活科",
+              "音楽",
+              "図画工作"
+            ],
+            "assessmentCriteria": [
+              "10までの数を正確に数えることができる",
+              "数の順序を理解している",
+              "数の合成・分解ができる"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "数の概念について理解している",
+          "加法・減法の意味を理解し，計算ができる"
+        ],
+        "keywords": [
+          "数と計算",
+          "10までの数",
+          "加法",
+          "減法"
+        ],
+        "practicalExamples": [
+          "おはじきを使った数の学習",
+          "買い物ごっこでの計算練習",
+          "数え歌を使った数の理解"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "数量や図形などについての基礎的・基本的な知識及び技能を身に付けるようにする",
+      "日常の事象を数理的に処理する技能を身に付けるようにする",
+      "数学的な見方・考え方を働かせ，論理的に考える力を身に付けるようにする"
+    ],
+    "overallGoals": [
+      "数学的活動を通して，数量や図形などについての感覚を豊かにする",
+      "表現する力，考える力などを育てる",
+      "算数の学習に主体的に取り組む態度を育てる"
+    ],
+    "threePillars": {
+      "knowledgeSkills": "数量や図形などについての基礎的・基本的な知識及び技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "日常の事象を数理的に処理する技能を身に付けるとともに，数学的な見方・考え方を働かせ，論理的に考える力を身に付けるようにする",
+      "learningHumanity": "数学のよさに気付き，学習を振り返ってよりよく問題解決しようとする態度，算数で学んだことを生活や学習に活用しようとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "elementary_science_2024",
+    "title": "小学校学習指導要領（平成29年告示）理科",
+    "educationStage": "elementary",
+    "subject": "science",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade3": 90,
+      "grade4": 105,
+      "grade5": 105,
+      "grade6": 105
+    },
+    "units": [
+      {
+        "id": "elem_sci_grade3_life",
+        "title": "身の回りの生物",
+        "educationStage": "elementary",
+        "subject": "science",
+        "grade": [
+          "elementary_3"
+        ],
+        "allocatedHours": 30,
+        "goals": [
+          "昆虫と植物を探したり育てたりして，成長の過程や体のつくりを調べ，それらの成長のきまりや体のつくりについて理解すること",
+          "昆虫と植物の成長には一定の順序があることや，昆虫の体は頭，胸，腹からできていることを理解すること"
+        ],
+        "contents": [
+          {
+            "id": "elem_sci_3_life_1",
+            "level": "content",
+            "title": "昆虫と植物",
+            "description": "身近な昆虫や植物の観察を通して，生物の成長と体のつくりを理解する",
+            "objectives": [
+              "昆虫の成長には一定の順序があることを理解すること",
+              "昆虫の体は頭，胸，腹からできていることを理解すること",
+              "植物の成長には一定の順序があることを理解すること"
+            ],
+            "keywords": [
+              "昆虫",
+              "植物",
+              "成長",
+              "体のつくり",
+              "観察"
+            ],
+            "bloomsTaxonomy": [
+              "observe",
+              "understand",
+              "analyze"
+            ],
+            "crossCurricularLinks": [
+              "国語",
+              "図画工作"
+            ],
+            "assessmentCriteria": [
+              "昆虫の成長の順序を理解している",
+              "昆虫の体のつくりを理解している",
+              "植物の成長を観察し記録できる"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "昆虫と植物の成長について理解している",
+          "観察の技能を身に付けている"
+        ],
+        "keywords": [
+          "生物",
+          "観察",
+          "成長",
+          "体のつくり"
+        ],
+        "practicalExamples": [
+          "校庭での昆虫採集と観察",
+          "アサガオ・ホウセンカの栽培",
+          "観察カードの記録活動"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "自然に親しみ，理科の見方・考え方を働かせ，見通しをもって観察，実験を行うことなどを通して，自然の事物・現象についての理解を図り，観察，実験などに関する基本的な技能を身に付けるようにする",
+      "観察，実験などを行い，科学的に探究する力を養う",
+      "自然を愛する心情や主体的に問題解決しようとする態度を養う"
+    ],
+    "overallGoals": [
+      "自然に親しみ，理科の見方・考え方を働かせ，見通しをもって観察，実験を行うことなどを通して，自然の事物・現象を科学的に探究するために必要な資質・能力を育成することを目指す"
+    ],
+    "threePillars": {
+      "knowledgeSkills": "自然の事物・現象についての理解を図り，観察，実験などに関する基本的な技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "観察，実験などを行い，科学的に探究する力を養う",
+      "learningHumanity": "自然を愛する心情や主体的に問題解決しようとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "junior_high_japanese_2024",
+    "title": "中学校学習指導要領（平成29年告示）国語",
+    "educationStage": "junior_high",
+    "subject": "japanese",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 140,
+      "grade2": 140,
+      "grade3": 105
+    },
+    "units": [
+      {
+        "id": "jh_jp_grade1_speaking_listening",
+        "title": "話すこと・聞くこと",
+        "educationStage": "junior_high",
+        "subject": "japanese",
+        "grade": [
+          "junior_high_1"
+        ],
+        "allocatedHours": 35,
+        "goals": [
+          "目的や場面に応じて，日常生活の中から話題を決め，集めた材料を整理し，伝え合う内容を検討すること",
+          "相手の立場や考えを尊重し，目的や場面に応じて質問したり相づちを打ったりしながら話の内容を捉えること"
+        ],
+        "contents": [
+          {
+            "id": "jh_jp_1_speaking_1",
+            "level": "content",
+            "title": "目的や場面に応じて，社会生活の中から話題を決め，異なる立場や考えを想定しながら集めた材料を整理し，伝え合う内容を検討すること",
+            "description": "多様な立場や考えを踏まえた話し合い活動を通して思考力・判断力を育成する",
+            "objectives": [
+              "社会生活の中から適切な話題を選択すること",
+              "多様な立場や考えを理解すること",
+              "話し合いの目的に応じて内容を整理すること"
+            ],
+            "keywords": [
+              "話題選択",
+              "多様な立場",
+              "材料整理",
+              "話し合い"
+            ],
+            "bloomsTaxonomy": [
+              "analyze",
+              "evaluate",
+              "create"
+            ],
+            "crossCurricularLinks": [
+              "社会科",
+              "道徳",
+              "総合的な学習の時間"
+            ],
+            "assessmentCriteria": [
+              "適切な話題を選択できる",
+              "多様な立場や考えを理解できる",
+              "目的に応じて内容を整理できる"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "目的や場面に応じて話題を選択し，内容を検討できる",
+          "相手の立場や考えを尊重して話を聞くことができる"
+        ],
+        "keywords": [
+          "話すこと",
+          "聞くこと",
+          "話し合い",
+          "相手意識"
+        ],
+        "practicalExamples": [
+          "学級会での議論活動",
+          "プレゼンテーション発表",
+          "ディベート活動"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "社会生活に必要な国語について，その特質を理解し適切に使うことができるようにする",
+      "社会生活における人との関わりの中で伝え合う力を高め，思考力や想像力を養う",
+      "言葉がもつ価値を認識するとともに，言語感覚を豊かにし，我が国の言語文化に関わり，国語を尊重してその能力の向上を図る態度を養う"
+    ],
+    "overallGoals": [
+      "言葉による見方・考え方を働かせ，言語活動を通して，国語で正確に理解し適切に表現する資質・能力を育成することを目指す"
+    ],
+    "threePillars": {
+      "knowledgeSkills": "社会生活に必要な国語の知識や技能を身に付けるとともに，我が国の言語文化に親しむことができるようにする",
+      "thinkingJudgingExpressing": "論理的に考える力や深く共感したり豊かに想像したりする力を養い，社会生活における人との関わりの中で伝え合う力を高める",
+      "learningHumanity": "言葉がもつ価値を認識するとともに，読書を生活に役立て，我が国の言語文化を大切にして，思いや考えを伝え合おうとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_4.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示",
+      "category": "secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "junior_high_mathematics_2024",
+    "title": "中学校学習指導要領（平成29年告示）数学",
+    "educationStage": "junior_high",
+    "subject": "mathematics",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 140,
+      "grade2": 105,
+      "grade3": 140
+    },
+    "units": [
+      {
+        "id": "jh_math_grade1_algebra",
+        "title": "数と式",
+        "educationStage": "junior_high",
+        "subject": "mathematics",
+        "grade": [
+          "junior_high_1"
+        ],
+        "allocatedHours": 45,
+        "goals": [
+          "正の数と負の数について理解し，その四則計算ができるようにするとともに，数を正の数と負の数まで拡張する意味を理解すること",
+          "文字を用いて数量の関係や法則を式に表すことができるようにするとともに，式の意味を読み取ることができるようにすること"
+        ],
+        "contents": [
+          {
+            "id": "jh_math_1_algebra_1",
+            "level": "content",
+            "title": "正の数と負の数",
+            "description": "正の数と負の数の概念とその四則計算について学習する",
+            "objectives": [
+              "正の数と負の数の必要性と意味を理解すること",
+              "数の大小関係を数直線上で表すこと",
+              "正の数と負の数の四則計算ができること"
+            ],
+            "keywords": [
+              "正の数",
+              "負の数",
+              "数直線",
+              "四則計算",
+              "絶対値"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "analyze"
+            ],
+            "crossCurricularLinks": [
+              "理科",
+              "社会科"
+            ],
+            "assessmentCriteria": [
+              "正の数と負の数の概念を理解している",
+              "数直線を使って数の大小を表すことができる",
+              "正確に四則計算ができる"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "正の数と負の数の概念を理解し，計算ができる",
+          "文字を用いて数量の関係を表すことができる"
+        ],
+        "keywords": [
+          "数と式",
+          "正負の数",
+          "文字式",
+          "等式"
+        ],
+        "practicalExamples": [
+          "気温の変化を正負の数で表現",
+          "距離・速さ・時間の関係を文字式で表現",
+          "図形の面積・周囲の長さの一般化"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "数量や図形などについての基礎的な概念や原理・法則の理解を深め，数学的な表現や処理の仕方を習得し，事象を数理的に捉え論理的に考える力を培う",
+      "数学的活動を通して，数学的に考え表現することの良さに気付き，それらを積極的に活用して数学的論拠に基づいて判断する態度を育てる",
+      "問題解決の過程を振り返って検討し統合的・発展的に考える態度を育てる"
+    ],
+    "overallGoals": [
+      "数学的な見方・考え方を働かせ，数学的活動を通して，数学的に考える資質・能力を育成することを目指す"
+    ],
+    "threePillars": {
+      "knowledgeSkills": "数量や図形などについての基礎的な概念や原理・法則などを理解するとともに，事象を数学化したり，数学的に解釈したり，数学的に表現・処理したりする技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "数学を活用して事象を論理的に考察する力，数量や図形などの性質を見いだし統合的・発展的に考察する力，数学的な表現を用いて事象を簡潔・明瞭・的確に表現する力を養う",
+      "learningHumanity": "数学的活動の楽しさや数学のよさを実感して粘り強く考え，数学を生活や学習に生かそうとする態度，問題解決の過程を振り返って評価・改善しようとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_4.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示",
+      "category": "secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "senior_high_japanese_2024",
+    "title": "高等学校学習指導要領（平成30年告示）国語",
+    "educationStage": "senior_high",
+    "subject": "japanese",
+    "version": "2024",
+    "publishedDate": "2018-03-30T00:00:00.000Z",
+    "effectiveDate": "2022-04-01T00:00:00.000Z",
+    "subjects": [
+      {
+        "id": "sh_jp_gendai_no_kokugo",
+        "title": "現代の国語",
+        "credits": 2,
+        "category": "required",
+        "description": "実社会に必要な国語の知識や技能を身に付けるとともに，論理的に考える力や共感し合う力を養い，社会生活における様々な場面で適切かつ効果的に国語を使おうとする態度を養う。"
+      },
+      {
+        "id": "sh_jp_gengo_bunka",
+        "title": "言語文化",
+        "credits": 2,
+        "category": "required",
+        "description": "生涯にわたる社会生活に必要な国語の知識や技能を身に付けるとともに，我が国の言語文化に対する理解を深めることができるようにする。"
+      },
+      {
+        "id": "sh_jp_ronrigokokugo",
+        "title": "論理国語",
+        "credits": 4,
+        "category": "elective",
+        "description": "論理的に考える力や表現する力を身に付け，実社会や実生活における様々な場面での言語活動に生かすことができるようにする。"
+      }
+    ],
+    "units": [
+      {
+        "id": "sh_jp_gendai_speaking",
+        "title": "話すこと・聞くこと",
+        "educationStage": "senior_high",
+        "subject": "japanese",
+        "subjectName": "現代の国語",
+        "grade": [
+          "senior_high_1"
+        ],
+        "goals": [
+          "目的や場面に応じて，実社会の中から適切な話題を決め，様々な観点から情報を収集，整理して，伝え合う内容を検討すること",
+          "相手の立場や考えを尊重し，言葉の特徴やものの見方，感じ方の違いを意識して，建設的に質問や提案をすること"
+        ],
+        "contents": [
+          {
+            "id": "sh_jp_gendai_speaking_1",
+            "level": "content",
+            "title": "目的や場面に応じて，実社会の中から適切な話題を決め，多様な観点から情報を収集，整理して，伝え合う内容を検討すること",
+            "description": "実社会での様々な言語活動に対応できる話し合いの力を育成する",
+            "objectives": [
+              "実社会の問題から適切な話題を選択すること",
+              "多様な観点から情報を収集・整理すること",
+              "建設的な話し合いができること"
+            ],
+            "keywords": [
+              "実社会",
+              "多様な観点",
+              "情報収集",
+              "建設的対話"
+            ],
+            "bloomsTaxonomy": [
+              "analyze",
+              "evaluate",
+              "create"
+            ],
+            "crossCurricularLinks": [
+              "現代社会",
+              "政治・経済",
+              "総合的な探究の時間"
+            ],
+            "assessmentCriteria": [
+              "実社会から適切な話題を選択できる",
+              "多様な観点から情報を整理できる",
+              "建設的に話し合うことができる"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "目的や場面に応じて適切に話すことができる",
+          "相手の立場を尊重して建設的に話し合うことができる"
+        ],
+        "keywords": [
+          "話すこと",
+          "聞くこと",
+          "実社会",
+          "建設的対話"
+        ],
+        "practicalExamples": [
+          "社会問題についてのディベート",
+          "企業への提案プレゼンテーション",
+          "地域課題解決のための話し合い"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "生涯にわたる社会生活に必要な国語について，その特質を理解し適切に使うことができるようにする",
+      "生涯にわたる社会生活における他者との関わりの中で伝え合う力を高め，思考力や想像力を養う",
+      "言葉のもつ価値への認識を深めるとともに，言語感覚を磨き，我が国の言語文化の担い手としての自覚をもち，生涯にわたり国語を尊重してその能力の向上を図る態度を養う"
+    ],
+    "overallGoals": [
+      "言葉による見方・考え方を働かせ，言語活動を通して，国語で的確に理解し効果的に表現する資質・能力を育成することを目指す"
+    ],
+    "threePillars": {
+      "knowledgeSkills": "生涯にわたる社会生活に必要な国語の知識や技能を身に付けるとともに，我が国の言語文化に対する理解を深めることができるようにする",
+      "thinkingJudgingExpressing": "論理的に考える力や深く共感したり豊かに想像したりする力を養い，他者との関わりの中で伝え合う力を高め，自分の思いや考えを広げたり深めたりすることができるようにする",
+      "learningHumanity": "言葉がもつ価値への認識を深めるとともに，生涯にわたって読書に親しみ自己を向上させ，我が国の言語文化の担い手としての自覚をもち，言葉を通して他者や社会に関わろうとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/1384661_6_1_3.pdf",
+      "officialCode": "文部科学省告示第六十八号",
+      "revision": "平成30年3月30日告示",
+      "category": "upper_secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "special_needs_elementary_2024",
+    "title": "特別支援学校小学部・中学部学習指導要領（平成29年告示）",
+    "educationStage": "special_needs",
+    "subject": "self_reliance_activities",
+    "schoolSection": [
+      "elementary",
+      "junior_high"
+    ],
+    "disabilityTypes": [
+      "intellectual",
+      "physical",
+      "health_impairment",
+      "visual",
+      "hearing"
+    ],
+    "version": "2024",
+    "publishedDate": "2017-04-28T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "specialCharacteristics": {
+      "individualization": "各児童生徒の障害の状態，特性及び心身の発達の段階等を十分考慮した指導を行う",
+      "socialParticipation": "将来の社会参加に向けた自立した生活に必要な知識，技能，態度及び習慣を養う",
+      "selfRealization": "障害による学習上又は生活上の困難を主体的に改善・克服する意欲を高める"
+    },
+    "units": [
+      {
+        "id": "sn_self_activities",
+        "title": "自立活動",
+        "educationStage": "special_needs",
+        "schoolSection": [
+          "elementary",
+          "junior_high"
+        ],
+        "disabilityType": "all",
+        "subject": "self_reliance_activities",
+        "description": "個々の児童生徒が自立を目指し，障害による学習上又は生活上の困難を主体的に改善・克服するために必要な知識，技能，態度及び習慣を養い，もって心身の調和的発達の基盤を培う",
+        "sixAreas": [
+          {
+            "id": "health_maintenance",
+            "title": "健康の保持",
+            "contents": [
+              "生活のリズムや生活習慣の形成",
+              "病気の状態の理解と生活管理",
+              "身体各部の状態の理解と養護",
+              "障害の特性の理解と生活環境の調整",
+              "健康状態の維持・改善"
+            ]
+          },
+          {
+            "id": "psychological_stability",
+            "title": "心理的な安定",
+            "contents": [
+              "情緒の安定",
+              "状況の理解と変化への対応",
+              "障害による学習上又は生活上の困難を改善・克服する意欲",
+              "自己のよさの気付きと自信の回復，自己肯定感の向上",
+              "適切な自己理解"
+            ]
+          },
+          {
+            "id": "human_relationships",
+            "title": "人間関係の形成",
+            "contents": [
+              "他者とのかかわりの基礎",
+              "他者の意図や感情の理解",
+              "自己の理解と行動の調整",
+              "集団への参加の基礎"
+            ]
+          },
+          {
+            "id": "environment_grasp",
+            "title": "環境の把握",
+            "contents": [
+              "保有する感覚の活用",
+              "感覚や認知の特性についての理解と対応",
+              "感覚の補助及び代行手段の活用",
+              "感覚を総合的に活用した周囲の状況についての把握と状況に応じた行動",
+              "認知や行動の手掛かりとなる概念の形成"
+            ]
+          },
+          {
+            "id": "body_movement",
+            "title": "身体の動き",
+            "contents": [
+              "姿勢と運動・動作の基本的技能",
+              "姿勢保持と運動・動作の補助的手段の活用",
+              "日常生活に必要な基本動作",
+              "身体の移動能力",
+              "作業に必要な動作と円滑な遂行"
+            ]
+          },
+          {
+            "id": "communication",
+            "title": "コミュニケーション",
+            "contents": [
+              "コミュニケーションの基礎的能力",
+              "言語の受容と表出",
+              "言語の形成と活用",
+              "コミュニケーション手段の選択と活用",
+              "状況に応じたコミュニケーション"
+            ]
+          }
+        ],
+        "individualPlan": {
+          "assessment": "実態把握に基づく詳細なアセスメント",
+          "goalSetting": "長期目標・短期目標の設定",
+          "contentSelection": "６区分27項目からの内容選定",
+          "methodSelection": "個に応じた指導方法の選択",
+          "evaluation": "継続的な評価と計画の見直し"
+        },
+        "keywords": [
+          "自立活動",
+          "個別指導計画",
+          "６区分",
+          "27項目"
+        ],
+        "practicalExamples": [
+          "感覚統合を取り入れた運動プログラム",
+          "コミュニケーション支援機器の活用",
+          "日常生活動作の段階的指導"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "幼稚園，小学校，中学校又は高等学校に準ずる教育を施すとともに，障害による学習上又は生活上の困難を改善・克服し自立を図るために必要な知識技能を授け，その心身の調和的発達を図る"
+    ],
+    "overallGoals": [
+      "児童生徒一人一人の教育的ニーズに対応した適切な指導及び必要な支援を行うことにより，障害による学習上又は生活上の困難を改善・克服し，将来の自立と社会参加に向けた資質・能力を育成する"
+    ],
+    "threePillars": {
+      "knowledgeSkills": "各教科等の学習を通して基礎的・基本的な知識及び技能を確実に習得できるようにするとともに，自立活動における個別の指導計画に基づいた専門的な指導により，障害による学習上又は生活上の困難の改善・克服に必要な知識，技能等を身に付けられるようにする",
+      "thinkingJudgingExpressing": "児童生徒が各教科等の特質に応じた見方・考え方を働かせて，知識を相互に関連付けてより深く理解したり，情報を精査して考えを形成したり，問題を見いだして解決策を考えたり，思いや考えを基に創造したりする力を養う",
+      "learningHumanity": "各教科等の学びを人生や社会に生かそうとする学びに向かう力・人間性等を養うとともに，自立活動における学習を通して，障害による学習上又は生活上の困難を主体的に改善・克服しようとする意欲を高める"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/02/04/1399950_3.pdf",
+      "officialCode": "文部科学省告示第七十三号",
+      "revision": "平成29年4月28日告示",
+      "category": "special_needs_education",
+      "schoolType": "special_needs_school"
+    }
+  },
+  {
+    "id": "senior_high_mathematics_2024",
+    "title": "高等学校学習指導要領（平成30年告示）数学",
+    "educationStage": "senior_high",
+    "subject": "mathematics",
+    "version": "2024",
+    "publishedDate": "2018-03-30T00:00:00.000Z",
+    "effectiveDate": "2022-04-01T00:00:00.000Z",
+    "subjects": [
+      {
+        "id": "sh_math_i",
+        "title": "数学Ⅰ",
+        "credits": 3,
+        "category": "required",
+        "description": "数と式，図形と計量，二次関数及びデータの分析について理解させ，基礎的な知識の習得と技能の習熟を図り，事象を数学的に考察する能力を培い，数学のよさを認識できるようにする。"
+      },
+      {
+        "id": "sh_math_ii",
+        "title": "数学Ⅱ",
+        "credits": 4,
+        "category": "elective",
+        "description": "いろいろな式，図形と方程式，指数関数・対数関数，三角関数及び微分・積分の考えについて理解させ，基礎的な知識の習得と技能の習熟を図り，事象を数学的に考察する能力を培う。"
+      },
+      {
+        "id": "sh_math_iii",
+        "title": "数学Ⅲ",
+        "credits": 3,
+        "category": "elective",
+        "description": "平面上の曲線と複素数平面，極限，微分法，積分法について理解させ，知識の習得と技能の習熟を図り，事象を数学的に考察し表現する能力を高める。"
+      },
+      {
+        "id": "sh_math_a",
+        "title": "数学A",
+        "credits": 2,
+        "category": "elective",
+        "description": "図形の性質，場合の数と確率について理解させ，知識の習得と技能の習熟を図り，事象を数学的に考察する能力を培う。"
+      },
+      {
+        "id": "sh_math_b",
+        "title": "数学B",
+        "credits": 2,
+        "category": "elective",
+        "description": "数列，統計的な推測について理解させ，知識の習得と技能の習熟を図り，事象を数学的に考察し表現する能力を高める。"
+      },
+      {
+        "id": "sh_math_c",
+        "title": "数学C",
+        "credits": 2,
+        "category": "elective",
+        "description": "ベクトル，平面上の曲線と複素数平面について理解させ，知識の習得と技能の習熟を図り，事象を数学的に考察し表現する能力を高める。"
+      }
+    ],
+    "units": [
+      {
+        "id": "sh_math_i_quadratic",
+        "title": "二次関数",
+        "educationStage": "senior_high",
+        "subject": "mathematics",
+        "subjectName": "数学Ⅰ",
+        "grade": [
+          "senior_high_1"
+        ],
+        "goals": [
+          "二次関数について理解し，二次関数を用いて事象を数学的に考察し表現することができるようにする",
+          "二次関数の値の変化やグラフの特徴について理解する"
+        ],
+        "contents": [
+          {
+            "id": "sh_math_i_quadratic_1",
+            "level": "content",
+            "title": "二次関数のグラフ",
+            "description": "二次関数のグラフの性質を理解し，最大値・最小値を求めることができる",
+            "objectives": [
+              "二次関数のグラフをかくことができること",
+              "二次関数の最大値・最小値を求めることができること",
+              "二次関数を用いて具体的な事象を考察できること"
+            ],
+            "keywords": [
+              "二次関数",
+              "グラフ",
+              "最大値",
+              "最小値",
+              "頂点"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "analyze"
+            ],
+            "crossCurricularLinks": [
+              "物理",
+              "情報",
+              "総合的な探究の時間"
+            ],
+            "assessmentCriteria": [
+              "二次関数のグラフを正確にかくことができる",
+              "最大値・最小値を求めることができる",
+              "具体的な問題に応用できる"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "二次関数の性質を理解している",
+          "グラフを用いて問題を解決できる"
+        ],
+        "keywords": [
+          "二次関数",
+          "グラフ",
+          "最大値",
+          "最小値"
+        ],
+        "practicalExamples": [
+          "放物線運動の軌跡分析",
+          "利益の最大化問題",
+          "建築物の設計における最適化"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "数学における基本的な概念や原理・法則を体系的に理解するとともに，事象を数学化したり，数学的に解釈したり，数学的に表現・処理したりする技能を身に付けるようにする",
+      "数学を活用して事象を論理的に考察する力，事象の本質や他の事象との関係を認識し統合的・発展的に考察する力，数学的な表現を用いて事象を簡潔・明瞭・的確に表現する力を養う",
+      "数学のよさを認識し積極的に数学を活用しようとする態度，粘り強く考え数学的論拠に基づいて判断しようとする態度，問題解決の過程を振り返って考察を深めたり，評価・改善したりしようとする態度や創造性の基礎を養う"
+    ],
+    "overallGoals": [
+      "数学的な見方・考え方を働かせ，数学的活動を通して，数学的に考える資質・能力を育成することを目指す"
+    ],
+    "threePillars": {
+      "knowledgeSkills": "数学における基本的な概念や原理・法則を体系的に理解するとともに，事象を数学化したり，数学的に解釈したり，数学的に表現・処理したりする技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "数学を活用して事象を論理的に考察する力，事象の本質や他の事象との関係を認識し統合的・発展的に考察する力，数学的な表現を用いて事象を簡潔・明瞭・的確に表現する力を養う",
+      "learningHumanity": "数学のよさを認識し積極的に数学を活用しようとする態度，粘り強く考え数学的論拠に基づいて判断しようとする態度，問題解決の過程を振り返って考察を深めたり，評価・改善したりしようとする態度や創造性の基礎を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/1384661_6_1_3.pdf",
+      "officialCode": "文部科学省告示第六十八号",
+      "revision": "平成30年3月30日告示",
+      "category": "upper_secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "junior_high_science_2024",
+    "title": "中学校学習指導要領（平成29年告示）理科",
+    "educationStage": "junior_high",
+    "subject": "science",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 105,
+      "grade2": 140,
+      "grade3": 140
+    },
+    "units": [
+      {
+        "id": "jh_science_grade1_physics",
+        "title": "光・音・力",
+        "educationStage": "junior_high",
+        "subject": "science",
+        "grade": [
+          "junior_high_1"
+        ],
+        "allocatedHours": 35,
+        "goals": [
+          "光と音の性質，力の働きについて理解すること",
+          "観察，実験などを行い，科学的に探究する能力を身に付けること"
+        ],
+        "contents": [
+          {
+            "id": "jh_science_1_physics_1",
+            "level": "content",
+            "title": "光と音",
+            "description": "光と音の基本的な性質について学習する",
+            "objectives": [
+              "光の直進，反射及び屈折の実験を行い，光の性質を理解すること",
+              "音の性質を調べる実験を行い，音の伝わり方と大小，高低について理解すること"
+            ],
+            "keywords": [
+              "光",
+              "音",
+              "直進",
+              "反射",
+              "屈折",
+              "振動"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "analyze"
+            ],
+            "crossCurricularLinks": [
+              "数学",
+              "技術・家庭科"
+            ],
+            "assessmentCriteria": [
+              "光の性質について理解している",
+              "音の性質について理解している",
+              "観察・実験の技能を身に付けている"
+            ]
+          },
+          {
+            "id": "jh_science_1_physics_2",
+            "level": "content",
+            "title": "力の働き",
+            "description": "力の基本的な性質と働きについて学習する",
+            "objectives": [
+              "物体に力を加える実験を行い，物体の形や運動の様子が変わることを見いだすこと",
+              "重さと質量の違いを理解すること"
+            ],
+            "keywords": [
+              "力",
+              "重力",
+              "質量",
+              "重さ",
+              "弾性力"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "analyze"
+            ],
+            "crossCurricularLinks": [
+              "数学",
+              "保健体育"
+            ],
+            "assessmentCriteria": [
+              "力の働きについて理解している",
+              "重さと質量の違いを理解している",
+              "実験結果を適切に考察できる"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "光と音の性質について理解している",
+          "力の働きについて理解している",
+          "観察・実験の技能を身に付けている"
+        ],
+        "keywords": [
+          "物理",
+          "光",
+          "音",
+          "力",
+          "観察",
+          "実験"
+        ],
+        "practicalExamples": [
+          "鏡を使った光の反射実験",
+          "オシロスコープによる音の観察",
+          "ばねばかりを使った力の測定"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      },
+      {
+        "id": "jh_science_grade1_biology",
+        "title": "植物の生活と種類",
+        "educationStage": "junior_high",
+        "subject": "science",
+        "grade": [
+          "junior_high_1"
+        ],
+        "allocatedHours": 35,
+        "goals": [
+          "植物の体のつくりと働きについて理解すること",
+          "植物の生活と環境との関わりについて理解すること"
+        ],
+        "contents": [
+          {
+            "id": "jh_science_1_biology_1",
+            "level": "content",
+            "title": "植物の体のつくりと働き",
+            "description": "植物の基本的な体のつくりと各部分の働きについて学習する",
+            "objectives": [
+              "花のつくりを観察し，その働きを理解すること",
+              "葉・茎・根の働きを理解すること",
+              "光合成と呼吸について理解すること"
+            ],
+            "keywords": [
+              "植物",
+              "花",
+              "葉",
+              "茎",
+              "根",
+              "光合成",
+              "呼吸"
+            ],
+            "bloomsTaxonomy": [
+              "observe",
+              "understand",
+              "analyze"
+            ],
+            "crossCurricularLinks": [
+              "国語",
+              "美術"
+            ],
+            "assessmentCriteria": [
+              "植物の体のつくりを理解している",
+              "光合成と呼吸について説明できる",
+              "観察技能を身に付けている"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "植物の体のつくりと働きについて理解している",
+          "植物と環境の関わりについて理解している"
+        ],
+        "keywords": [
+          "生物",
+          "植物",
+          "光合成",
+          "呼吸",
+          "観察"
+        ],
+        "practicalExamples": [
+          "顕微鏡による葉の断面観察",
+          "光合成の実験（酸素の発生）",
+          "植物の分類と標本作成"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "自然の事物・現象についての理解を深め，科学的に探究するために必要な観察，実験などに関する基本的な技能を身に付けるようにする",
+      "観察，実験などを行い，科学的に探究する力を養う",
+      "自然の事物・現象に進んで関わり，科学的に探究しようとする態度を養う"
+    ],
+    "overallGoals": [
+      "自然の事物・現象に関わり，理科の見方・考え方を働かせ，見通しをもって観察，実験を行うことなどを通して，自然の事物・現象を科学的に探究するために必要な資質・能力を育成することを目指す"
+    ],
+    "threePillars": {
+      "knowledgeSkills": "自然の事物・現象についての理解を深め，科学的に探究するために必要な観察，実験などに関する基本的な技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "観察，実験などを行い，科学的に探究する力を養う",
+      "learningHumanity": "自然の事物・現象に進んで関わり，科学的に探究しようとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_4.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示",
+      "category": "secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "elementary_social_studies_2024",
+    "title": "小学校学習指導要領（平成29年告示）社会",
+    "educationStage": "elementary",
+    "subject": "social_studies",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade3": 70,
+      "grade4": 90,
+      "grade5": 100,
+      "grade6": 105
+    },
+    "units": [
+      {
+        "id": "elem_social_grade3_local",
+        "title": "身近な地域や市の様子",
+        "educationStage": "elementary",
+        "subject": "social_studies",
+        "grade": [
+          "elementary_3"
+        ],
+        "allocatedHours": 35,
+        "goals": [
+          "身近な地域や市の地理的環境，人々の生活の変化や地域の発展に尽くした先人の働きについて，学習の問題を追究・解決する活動を通して，次の事項を身に付けることができるよう指導する"
+        ],
+        "contents": [
+          {
+            "id": "elem_social_3_local_1",
+            "level": "content",
+            "title": "身近な地域や市の様子",
+            "description": "自分たちの住んでいる身近な地域や市について調べる活動を通して，地域の様子を理解する",
+            "objectives": [
+              "身近な地域や市の地形や土地利用，交通の様子，公共施設などの配置と特色を理解すること",
+              "地域における社会的事象の特色や相互の関連などについて考える力，問題を解決する力を身に付けること"
+            ],
+            "keywords": [
+              "地域",
+              "地形",
+              "土地利用",
+              "交通",
+              "公共施設"
+            ],
+            "bloomsTaxonomy": [
+              "observe",
+              "understand",
+              "analyze"
+            ],
+            "crossCurricularLinks": [
+              "国語",
+              "算数",
+              "理科",
+              "総合的な学習の時間"
+            ],
+            "assessmentCriteria": [
+              "地域の地理的特色を理解している",
+              "地域の施設や交通について説明できる",
+              "調査活動に主体的に取り組むことができる"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "身近な地域の様子について理解している",
+          "調査活動の技能を身に付けている",
+          "地域社会に関心を持っている"
+        ],
+        "keywords": [
+          "地域学習",
+          "地理",
+          "調査活動",
+          "公共施設"
+        ],
+        "practicalExamples": [
+          "学校周辺の地図作成",
+          "市役所・図書館等の施設見学",
+          "地域の人へのインタビュー活動"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "社会的な見方・考え方を働かせ，課題を追究したり解決したりする活動を通して，グローバル化する国際社会に主体的に生きる平和で民主的な国家及び社会の形成者に必要な公民としての資質・能力の基礎を育成することを目指す"
+    ],
+    "overallGoals": [
+      "地域や我が国の国土の地理的環境，現代社会の仕組みや働き，地域や我が国の歴史や伝統と文化を通して社会生活について理解するとともに，様々な資料や調査活動を通して情報を適切に調べまとめる技能を身に付けるようにする"
+    ],
+    "threePillars": {
+      "knowledgeSkills": "地域や我が国の国土の地理的環境，現代社会の仕組みや働き，地域や我が国の歴史や伝統と文化を通して社会生活について理解するとともに，様々な資料や調査活動を通して情報を適切に調べまとめる技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "社会的事象の特色や相互の関連，意味を多角的に考える力，社会に見られる課題を把握して，その解決に向けて社会への関わり方を選択・判断する力，考えたことや選択・判断したことを適切に表現する力を養う",
+      "learningHumanity": "社会的事象について，よりよい社会を考え学習したことを社会生活に生かそうとする態度を養うとともに，多角的な思考や理解を通して，地域社会に対する誇りと愛情，地域社会の一員としての自覚，我が国の国土と歴史に対する愛情，我が国の将来を担う国民としての自覚，世界の国々の人々と共に生きていくことの大切さについての自覚などを養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "elementary_life_studies_2024",
+    "title": "小学校学習指導要領（平成29年告示）生活",
+    "educationStage": "elementary",
+    "subject": "life_studies",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 102,
+      "grade2": 105
+    },
+    "units": [
+      {
+        "id": "elem_life_grade1_school_life",
+        "title": "学校生活に慣れ親しみ，安全で適切な行動をする",
+        "educationStage": "elementary",
+        "subject": "life_studies",
+        "grade": [
+          "elementary_1"
+        ],
+        "allocatedHours": 25,
+        "goals": [
+          "学校生活を支えている人々や友達のことが分かり，楽しく安心して遊びや生活をする",
+          "学校生活での出来事を振り返り，楽しかったことや驚いたことなどについて，言葉，絵，動作，劇化などの方法により表現する"
+        ],
+        "contents": [
+          {
+            "id": "elem_life_1_school_1",
+            "level": "content",
+            "title": "学校の施設の様子及び学校生活を支えている人々や友達のこと",
+            "description": "学校の中を探検し，学校の施設の配置や様子，学校生活を支えている人々や友達について関心をもって調べる活動",
+            "objectives": [
+              "学校の施設の配置や様子を知る",
+              "学校生活を支える人々の存在に気付く",
+              "友達との関わりを通して学校生活の楽しさを感じる"
+            ],
+            "keywords": [
+              "学校探検",
+              "施設",
+              "支援者",
+              "友達関係"
+            ],
+            "bloomsTaxonomy": [
+              "remember",
+              "understand",
+              "apply"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "学校の施設や学校生活を支えている人々，友達について分かる",
+              "thinkingJudgingExpressing": "学校での生活や出来事の楽しさを実感し，安全で適切な行動を考える",
+              "learningHumanity": "学校生活に慣れ親しみ，安全に気を付けて生活しようとする"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "special_activities",
+          "moral"
+        ],
+        "practicalExamples": [
+          {
+            "title": "学校探検活動",
+            "description": "上級生と一緒に学校内を探検し，各教室や施設の役割を学ぶ活動",
+            "duration": "4時間",
+            "materials": [
+              "探検カード",
+              "校内案内図",
+              "デジタルカメラ"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "elem_life_grade2_community_exploration",
+        "title": "地域の人々の生活に関心をもち，自分たちの生活や地域の出来事を大切にする",
+        "educationStage": "elementary",
+        "subject": "life_studies",
+        "grade": [
+          "elementary_2"
+        ],
+        "allocatedHours": 30,
+        "goals": [
+          "自分たちの生活は地域の人々の様々な活動に支えられていることが分かり，それらの人々に親しみをもち，地域に愛着をもつ",
+          "地域の人々の生活や地域の出来事を取材し，分かったことや考えたことを相手や目的に応じて適切に表現する"
+        ],
+        "contents": [
+          {
+            "id": "elem_life_2_community_1",
+            "level": "content",
+            "title": "地域の人々の生活や出来事と自分たちの関わり",
+            "description": "地域で生活したり働いたりしている人々と触れ合い，地域の人々の生活や地域の出来事について調べる活動",
+            "objectives": [
+              "地域の人々の生活の様子や思いを知る",
+              "地域の出来事や季節の変化に関心をもつ",
+              "自分たちの生活と地域との関わりに気付く"
+            ],
+            "keywords": [
+              "地域探検",
+              "働く人",
+              "地域行事",
+              "季節"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "analyze"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "地域の人々の生活や地域の出来事について分かる",
+              "thinkingJudgingExpressing": "地域の人々の思いや願いを考え，自分たちにできることを考える",
+              "learningHumanity": "地域の人々に親しみをもち，地域の一員としての自覚をもとうとする"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "social_studies",
+          "japanese",
+          "special_activities"
+        ],
+        "practicalExamples": [
+          {
+            "title": "町探検・お店調べ",
+            "description": "近所の商店街を探検し，お店の人にインタビューして地域の人々の働きを知る活動",
+            "duration": "6時間",
+            "materials": [
+              "インタビューカード",
+              "地域地図",
+              "メモ帳"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "活動や体験の過程において，自分自身，身近な人々，社会及び自然の特徴やよさ，それらの関わり等に気付くとともに，生活上必要な習慣や技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "身近な人々，社会及び自然を自分との関わりで捉え，自分自身や自分の生活について考え，表現することができるようにする",
+      "learningHumanity": "身近な人々，社会及び自然に自ら働きかけ，意欲や自信をもって学んだり生活を豊かにしたりしようとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "elementary_music_2024",
+    "title": "小学校学習指導要領（平成29年告示）音楽",
+    "educationStage": "elementary",
+    "subject": "music",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 68,
+      "grade2": 70,
+      "grade3": 60,
+      "grade4": 60,
+      "grade5": 50,
+      "grade6": 50
+    },
+    "units": [
+      {
+        "id": "elem_music_grade1_expression",
+        "title": "表現活動を通して音楽の楽しさを感じ取る",
+        "educationStage": "elementary",
+        "subject": "music",
+        "grade": [
+          "elementary_1"
+        ],
+        "allocatedHours": 34,
+        "goals": [
+          "楽しく音楽活動をし，音楽に対する興味・関心をもつ",
+          "音楽の美しさやよさを感じ取って聴く"
+        ],
+        "contents": [
+          {
+            "id": "elem_music_1_singing_1",
+            "level": "content",
+            "title": "歌唱表現",
+            "description": "範唱を聞いて歌ったり，階名で模唱したりして，自然で無理のない歌い方で歌う",
+            "objectives": [
+              "自然で無理のない発声で歌う",
+              "拍の流れに合わせて歌う",
+              "友達と一緒に歌う楽しさを味わう"
+            ],
+            "keywords": [
+              "歌唱",
+              "発声",
+              "拍感",
+              "合唱"
+            ],
+            "bloomsTaxonomy": [
+              "apply",
+              "create"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "歌声や楽器の音，身の回りの音の特徴について，それらの音の響きの特徴を感じ取る",
+              "thinkingJudgingExpressing": "音楽を形づくっている要素を聴き取り，それらの働きが生み出すよさや面白さ，美しさを感じ取りながら表現を工夫し，どのように歌うかについて思いをもつ",
+              "learningHumanity": "音や音楽に親しむとともに，楽しく表現活動に取り組み，音楽活動を楽しむ"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "japanese",
+          "special_activities"
+        ],
+        "practicalExamples": [
+          {
+            "title": "季節の歌を歌おう",
+            "description": "春夏秋冬の季節に合わせた童謡や唱歌を歌い，季節感を味わう活動",
+            "duration": "4時間",
+            "materials": [
+              "楽譜",
+              "ピアノ",
+              "季節の絵カード"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "曲想と音楽の構造などとの関わりについて理解するとともに，表現に関する技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "音楽表現を工夫することや，音楽を味わって聴くことができるようにする",
+      "learningHumanity": "音楽活動の楽しさを体験することを通して，音楽を愛好する心情と音楽に対する感性を育むとともに，音楽に親しむ態度を養い，豊かな情操を培う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "elementary_arts_crafts_2024",
+    "title": "小学校学習指導要領（平成29年告示）図画工作",
+    "educationStage": "elementary",
+    "subject": "arts_crafts",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 68,
+      "grade2": 70,
+      "grade3": 60,
+      "grade4": 60,
+      "grade5": 50,
+      "grade6": 50
+    },
+    "units": [
+      {
+        "id": "elem_arts_grade1_expression",
+        "title": "身近な材料や用具を使って表現する",
+        "educationStage": "elementary",
+        "subject": "arts_crafts",
+        "grade": [
+          "elementary_1"
+        ],
+        "allocatedHours": 50,
+        "goals": [
+          "身近な材料や用具を使い，造形遊びをしたり，表したいことを絵や立体，工作に表したりする",
+          "身の回りの作品を見たり，作品に関わる活動をしたりして，よさや美しさを感じ取る"
+        ],
+        "contents": [
+          {
+            "id": "elem_arts_1_modeling_play",
+            "level": "content",
+            "title": "造形遊び",
+            "description": "身近な材料を基に，感覚や気持ちを生かしながら，楽しく造形活動に取り組む",
+            "objectives": [
+              "材料の形や色，手触りなどを基に発想する",
+              "感覚や気持ちを生かしながら形や色を工夫して表現する",
+              "身近な材料や場所などを基に楽しく発想する"
+            ],
+            "keywords": [
+              "造形遊び",
+              "材料",
+              "発想",
+              "表現"
+            ],
+            "bloomsTaxonomy": [
+              "create",
+              "apply"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "材料や用具の使い方に慣れ親しむとともに，手や体全体を十分に働かせ，表現に関する技能を身に付ける",
+              "thinkingJudgingExpressing": "造形的な活動を思い付き，感覚や気持ちを生かしながら，どのように活動するかについて考える",
+              "learningHumanity": "つくりだすことの楽しさを味わうとともに，感性を働かせながら，つくりだす活動に取り組み，つくりだすことを楽しむ"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "life_studies",
+          "music"
+        ],
+        "practicalExamples": [
+          {
+            "title": "粘土で遊ぼう",
+            "description": "粘土の感触を楽しみながら，自由に形を作って造形遊びを行う活動",
+            "duration": "2時間",
+            "materials": [
+              "粘土",
+              "粘土板",
+              "へら"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "対象や事象を捉える造形的な視点について自分の感覚や行為を通して理解するとともに，材料や用具を使い，表現方法を工夫して創造的につくったり表したりすることができるようにする",
+      "thinkingJudgingExpressing": "造形的なよさや美しさ，表したいこと，表し方などについて考え，創造的な発想をし，構想を練ったり，親しみのある作品などからよさや美しさを感じ取ったりすることができるようにする",
+      "learningHumanity": "つくりだすことの楽しさを味わうとともに，感性を働かせ，つくったり見たりする活動に取り組み，豊かな情操を培う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "elementary_pe_2024",
+    "title": "小学校学習指導要領（平成29年告示）体育",
+    "educationStage": "elementary",
+    "subject": "pe",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 102,
+      "grade2": 105,
+      "grade3": 105,
+      "grade4": 105,
+      "grade5": 90,
+      "grade6": 90
+    },
+    "units": [
+      {
+        "id": "elem_pe_grade1_basic_movement",
+        "title": "体つくりの運動遊び",
+        "educationStage": "elementary",
+        "subject": "pe",
+        "grade": [
+          "elementary_1"
+        ],
+        "allocatedHours": 20,
+        "goals": [
+          "体を動かす楽しさや心地よさを味わい，体の基本的な動きを身に付ける",
+          "簡単な運動を楽しく行い，健康や体力の向上を図る"
+        ],
+        "contents": [
+          {
+            "id": "elem_pe_1_body_building",
+            "level": "content",
+            "title": "体ほぐしの運動遊び",
+            "description": "手軽な運動遊びを行い，体を動かす楽しさや心地よさを味わう",
+            "objectives": [
+              "体を動かす楽しさや心地よさを味わう",
+              "友達と関わって運動することの楽しさを知る",
+              "体の変化に気付く"
+            ],
+            "keywords": [
+              "体ほぐし",
+              "運動遊び",
+              "心地よさ",
+              "仲間づくり"
+            ],
+            "bloomsTaxonomy": [
+              "apply",
+              "understand"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "体の基本的な動きや体の変化，体力の向上の仕方について理解するとともに，基本的な動きや運動の技能を身に付ける",
+              "thinkingJudgingExpressing": "自己の体の状態や体力に応じて，運動の行い方を工夫するとともに，自己や仲間の考えたことを他者に伝える",
+              "learningHumanity": "運動に進んで取り組み，約束を守り助け合って運動をしたり，健康・安全に気を付けたりし，意欲的に運動に取り組む"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "special_activities",
+          "life_studies"
+        ],
+        "practicalExamples": [
+          {
+            "title": "みんなで楽しく体ほぐし",
+            "description": "音楽に合わせて友達と一緒に体を動かし，体ほぐしの楽しさを味わう活動",
+            "duration": "1時間",
+            "materials": [
+              "音楽プレーヤー",
+              "体育館",
+              "マット"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "各種の運動の楽しさや喜びを味わうことができるよう，その特性に応じた技能等を身に付けるようにする",
+      "thinkingJudgingExpressing": "各種の運動に積極的に取り組み，約束を守り助け合って運動をしたり，安全に気を付けたりし，自己の最善を尽くして運動する態度を養う",
+      "learningHumanity": "健康・安全について理解するとともに，基本的な技能を身に付けるようにする"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "elementary_moral_2024",
+    "title": "小学校学習指導要領（平成29年告示）特別の教科 道徳",
+    "educationStage": "elementary",
+    "subject": "moral",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 34,
+      "grade2": 35,
+      "grade3": 35,
+      "grade4": 35,
+      "grade5": 35,
+      "grade6": 35
+    },
+    "units": [
+      {
+        "id": "elem_moral_grade1_kindness",
+        "title": "親切，思いやり",
+        "educationStage": "elementary",
+        "subject": "moral",
+        "grade": [
+          "elementary_1"
+        ],
+        "allocatedHours": 6,
+        "goals": [
+          "身近にいる人に温かい心で接し，親切にする",
+          "相手のことを思いやり，進んで親切にする"
+        ],
+        "contents": [
+          {
+            "id": "elem_moral_1_kindness_1",
+            "level": "content",
+            "title": "身近な人への親切",
+            "description": "家族や友達，近所の人など身近な人に親切にし，温かい心で接することの大切さを学ぶ",
+            "objectives": [
+              "身近な人への親切な気持ちをもつ",
+              "相手の気持ちを考えて行動する",
+              "思いやりの心を育む"
+            ],
+            "keywords": [
+              "親切",
+              "思いやり",
+              "温かい心",
+              "相手の気持ち"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "evaluate"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "道徳的諸価値について理解する",
+              "thinkingJudgingExpressing": "自分との関わりで道徳的価値を理解し，自分なりに考え，話し合う",
+              "learningHumanity": "道徳的価値を自分なりに発見し，よりよい生き方についての考えを深め，判断し，表現する力を育てる"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "life_studies",
+          "special_activities"
+        ],
+        "practicalExamples": [
+          {
+            "title": "やさしいこころ",
+            "description": "絵本や体験談を通して，身近な人への親切や思いやりについて考える授業",
+            "duration": "1時間",
+            "materials": [
+              "道徳教材",
+              "絵本",
+              "ワークシート"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "道徳的諸価値についての理解を基に，自己を見つめ，物事を多面的・多角的に考え，自己の生き方についての考えを深める学習を通して，道徳的な判断力，心情，実践意欲と態度を育てる",
+      "thinkingJudgingExpressing": "道徳的価値について自分との関わりで考えることを通して，これからの生き方の課題と目標を見付け，道徳的価値を実現するための判断力を身に付ける",
+      "learningHumanity": "道徳的諸価値に基づいた人間としての生き方を考え，主体的な判断の下に行動し，自立した人間として他者と共によりよく生きるための基盤となる道徳性を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "elementary_foreign_language_activities_2024",
+    "title": "小学校学習指導要領（平成29年告示）外国語活動",
+    "educationStage": "elementary",
+    "subject": "foreign_language_activities",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade3": 35,
+      "grade4": 35
+    },
+    "units": [
+      {
+        "id": "elem_foreign_activities_grade3_communication",
+        "title": "外国語によるコミュニケーションにおける見方・考え方を働かせる",
+        "educationStage": "elementary",
+        "subject": "foreign_language_activities",
+        "grade": [
+          "elementary_3"
+        ],
+        "allocatedHours": 35,
+        "goals": [
+          "外国語によるコミュニケーションにおける見方・考え方を働かせ，外国語や外国の文化に慣れ親しむとともに，コミュニケーションを図る素地となる資質・能力を育成する",
+          "音声を中心とした外国語に慣れ親しませながら，コミュニケーションの素地を養う"
+        ],
+        "contents": [
+          {
+            "id": "elem_foreign_activities_3_listening_1",
+            "level": "content",
+            "title": "聞くこと",
+            "description": "簡単な語句や基本的な表現について，ゆっくりはっきりと話された会話や説明を聞いて，内容を理解する",
+            "objectives": [
+              "文字や符号を見ながら音声を聞いて内容を理解する",
+              "簡単な語句や基本的な表現を聞いて，話し手の意向を理解する",
+              "簡単な語句や基本的な表現で話される短い会話や説明を聞いて，概要を理解する"
+            ],
+            "keywords": [
+              "聞き取り",
+              "音声認識",
+              "簡単な語句",
+              "基本表現"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "外国語を通して，言語やその背景にある文化に対する理解を深め，日本語と外国語の音声の違いなどに気付くとともに，外国語の音声や基本的な表現に慣れ親しむ",
+              "thinkingJudgingExpressing": "身近で簡単な事柄について，外国語で聞いたり話したりして自分の考えや気持ちなどを伝え合う",
+              "learningHumanity": "外国語を通して，言語やその背景にある文化に対する理解を深め，相手に配慮しながら，主体的に外国語を用いてコミュニケーションを図ろうとする態度を養う"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "japanese",
+          "social_studies"
+        ],
+        "practicalExamples": [
+          {
+            "title": "Hello, friends!",
+            "description": "簡単な挨拶や自己紹介を通して，外国語でのコミュニケーションに慣れ親しむ活動",
+            "duration": "4時間",
+            "materials": [
+              "ALTとの協力",
+              "音声教材",
+              "絵カード"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "外国語を通して，言語やその背景にある文化に対する理解を深め，日本語と外国語の音声の違いなどに気付くとともに，外国語の音声や基本的な表現に慣れ親しむようにする",
+      "thinkingJudgingExpressing": "身近で簡単な事柄について，外国語で聞いたり話したりして自分の考えや気持ちなどを伝え合う基礎的な力を養う",
+      "learningHumanity": "外国語を通して，言語やその背景にある文化に対する理解を深め，相手に配慮しながら，主体的に外国語を用いてコミュニケーションを図ろうとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "elementary_foreign_language_2024",
+    "title": "小学校学習指導要領（平成29年告示）外国語",
+    "educationStage": "elementary",
+    "subject": "foreign_language",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade5": 70,
+      "grade6": 70
+    },
+    "units": [
+      {
+        "id": "elem_foreign_grade5_communication",
+        "title": "コミュニケーションを図る基礎となる資質・能力を育成する",
+        "educationStage": "elementary",
+        "subject": "foreign_language",
+        "grade": [
+          "elementary_5"
+        ],
+        "allocatedHours": 70,
+        "goals": [
+          "外国語による聞くこと，読むこと，話すこと，書くことの言語活動を通して，コミュニケーションを図る基礎となる資質・能力を育成する",
+          "外国語を通して，言語やその背景にある文化に対する理解を深め，相手に配慮しながら，主体的に外国語を用いてコミュニケーションを図ろうとする態度を養う"
+        ],
+        "contents": [
+          {
+            "id": "elem_foreign_5_listening_1",
+            "level": "content",
+            "title": "聞くこと",
+            "description": "ゆっくりはっきりと話された日常生活に関する身近で簡単な事柄について，聞き取る",
+            "objectives": [
+              "文字や符号を見ながら音声を聞いて内容を理解する",
+              "日常生活に関する身近で簡単な事柄について，自分のことや身の回りの物事に関する短い話を聞いて，必要な情報を聞き取る",
+              "日常生活に関する身近で簡単な事柄について，短い話の概要を捉える"
+            ],
+            "keywords": [
+              "聞き取り",
+              "音声認識",
+              "内容理解",
+              "情報収集"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "外国語の音声や文字，語彙，表現，文構造，言語の働きなどについて，日本語と外国語との違いに気付き，これらの知識を理解している",
+              "thinkingJudgingExpressing": "コミュニケーションを行う目的や場面，状況などに応じて，身近で簡単な事柄について，聞いたり話したりして，自分の考えや気持ちなどを伝え合っている",
+              "learningHumanity": "外国語の背景にある文化に対する理解を深め，他者に配慮しながら，主体的に外国語を用いてコミュニケーションを図ろうとしている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "japanese",
+          "social_studies",
+          "integrated_studies"
+        ],
+        "practicalExamples": [
+          {
+            "title": "自己紹介をしよう",
+            "description": "英語で名前や好きなものを紹介し合う活動を通して，基本的なコミュニケーション能力を育成",
+            "duration": "4時間",
+            "materials": [
+              "ALTとの協力",
+              "絵カード",
+              "音声教材"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "外国語の音声や文字，語彙，表現，文構造，言語の働きなどについて，日本語と外国語との違いに気付き，これらの知識を理解するとともに，読むこと，書くことに慣れ親しみ，聞くこと，読むこと，話すこと，書くことによる実際のコミュニケーションにおいて活用できる基礎的な技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "コミュニケーションを行う目的や場面，状況などに応じて，身近で簡単な事柄について，聞いたり話したりするとともに，音声で十分に慣れ親しんだ外国語の語彙や基本的な表現を推測しながら読んだり，語順を意識しながら書いたりして，自分の考えや気持ちなどを伝え合うことができる基礎的な力を養う",
+      "learningHumanity": "外国語の背景にある文化に対する理解を深め，他者に配慮しながら，主体的に外国語を用いてコミュニケーションを図ろうとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "elementary_integrated_studies_2024",
+    "title": "小学校学習指導要領（平成29年告示）総合的な学習の時間",
+    "educationStage": "elementary",
+    "subject": "integrated_studies",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade3": 70,
+      "grade4": 70,
+      "grade5": 70,
+      "grade6": 70
+    },
+    "units": [
+      {
+        "id": "elem_integrated_grade3_inquiry",
+        "title": "探究的な見方・考え方を働かせて学習を進める",
+        "educationStage": "elementary",
+        "subject": "integrated_studies",
+        "grade": [
+          "elementary_3"
+        ],
+        "allocatedHours": 70,
+        "goals": [
+          "探究的な見方・考え方を働かせ，横断的・総合的な学習を行うことを通して，よりよく課題を解決し，自己の生き方を考えていくための資質・能力を育成する",
+          "実際の問題や現象から学習課題を見いだし，解決に向けて情報を収集・整理・分析したり，周囲の人と意見交換・協働したりして，学習の成果をまとめ・表現し，そこから新たな課題を見つけて，主体的に学習する"
+        ],
+        "contents": [
+          {
+            "id": "elem_integrated_3_inquiry_1",
+            "level": "content",
+            "title": "課題の設定",
+            "description": "体験活動などを通して，課題を見付け，その解決に向けて学習課題を設定する",
+            "objectives": [
+              "実社会や実生活の中から問いを見いだす",
+              "自分にとって価値のある課題として設定する",
+              "解決の見通しをもって学習計画を立てる"
+            ],
+            "keywords": [
+              "課題設定",
+              "問いの発見",
+              "学習計画",
+              "見通し"
+            ],
+            "bloomsTaxonomy": [
+              "analyze",
+              "create"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "探究的な学習の過程において，課題の解決に必要な知識及び技能を身に付け，課題に関わる概念を形成し，探究的な学習のよさを理解している",
+              "thinkingJudgingExpressing": "実社会や実生活の中から問いを見いだし，自分で課題を立て，情報を集め，整理・分析して，まとめ・表現している",
+              "learningHumanity": "探究的な学習に主体的・協働的に取り組むとともに，互いのよさを生かしながら，積極的に社会に参画しようとしている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "social_studies",
+          "science",
+          "japanese"
+        ],
+        "practicalExamples": [
+          {
+            "title": "私たちの町調べ",
+            "description": "地域の特色ある場所や人について調査し，町の魅力を発見・発信する探究活動",
+            "duration": "20時間",
+            "materials": [
+              "調査用具",
+              "カメラ",
+              "発表用資料"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "探究的な学習の過程において，課題の解決に必要な知識及び技能を身に付け，課題に関わる概念を形成し，探究的な学習のよさを理解するようにする",
+      "thinkingJudgingExpressing": "実社会や実生活の中から問いを見いだし，自分で課題を立て，情報を集め，整理・分析して，まとめ・表現することができるようにする",
+      "learningHumanity": "探究的な学習に主体的・協働的に取り組むとともに，互いのよさを生かしながら，積極的に社会に参画しようとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "elementary_special_activities_2024",
+    "title": "小学校学習指導要領（平成29年告示）特別活動",
+    "educationStage": "elementary",
+    "subject": "special_activities",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 34,
+      "grade2": 35,
+      "grade3": 35,
+      "grade4": 35,
+      "grade5": 35,
+      "grade6": 35
+    },
+    "units": [
+      {
+        "id": "elem_special_grade1_class_activities",
+        "title": "学級活動",
+        "educationStage": "elementary",
+        "subject": "special_activities",
+        "grade": [
+          "elementary_1"
+        ],
+        "allocatedHours": 30,
+        "goals": [
+          "学級や学校での生活をよりよくするための課題を見付け，解決するために話し合い，合意形成し，役割を分担して協力して実践する",
+          "日常の生活や学習への適応と自己の成長及び健康安全について理解し，よりよい生活を送る"
+        ],
+        "contents": [
+          {
+            "id": "elem_special_1_class_1",
+            "level": "content",
+            "title": "学級や学校における生活づくりへの参画",
+            "description": "学級や学校における生活上の諸問題を話し合って解決することや他者と協働して取り組むことの大切さを知り，主体的に参画する",
+            "objectives": [
+              "学級生活の充実や向上のため，問題を見付ける",
+              "解決方法について話し合い，合意形成を図る",
+              "協力して実践し，振り返って改善を図る"
+            ],
+            "keywords": [
+              "学級活動",
+              "話し合い",
+              "合意形成",
+              "協働",
+              "実践"
+            ],
+            "bloomsTaxonomy": [
+              "apply",
+              "analyze",
+              "create"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "多様な他者と協働する様々な集団活動の意義や，活動を行う上で必要となることについて理解し，行動の仕方を身に付けている",
+              "thinkingJudgingExpressing": "集団や自己の生活，人間関係の課題を見付け，解決するために話し合い，合意形成を図ったり，意思決定をしたりしている",
+              "learningHumanity": "集団活動に自主的，実践的に取り組み，互いのよさや可能性を発揮しながら集団や自己の生活上の課題を解決しようとしている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "moral",
+          "life_studies"
+        ],
+        "practicalExamples": [
+          {
+            "title": "係活動を決めよう",
+            "description": "学級での係活動について話し合い，みんなが楽しく過ごせる学級を作るために必要な係を決める活動",
+            "duration": "2時間",
+            "materials": [
+              "話し合いカード",
+              "模造紙",
+              "マーカー"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "多様な他者と協働する様々な集団活動の意義や活動を行う上で必要となることについて理解し，行動の仕方を身に付けるようにする",
+      "thinkingJudgingExpressing": "集団や自己の生活，人間関係の課題を見付け，解決するために話し合い，合意形成を図ったり，意思決定をしたりすることができるようにする",
+      "learningHumanity": "自主的，実践的な集団活動を通して身に付けたことを生かして，集団や社会における生活及び人間関係をよりよく形成するとともに，自己の生き方についての考えを深め，自己実現を図ろうとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "junior_high_social_studies_2024",
+    "title": "中学校学習指導要領（平成29年告示）社会",
+    "educationStage": "junior_high",
+    "subject": "social_studies",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 105,
+      "grade2": 105,
+      "grade3": 140
+    },
+    "units": [
+      {
+        "id": "jr_social_grade1_geography",
+        "title": "地理的分野",
+        "educationStage": "junior_high",
+        "subject": "social_studies",
+        "grade": [
+          "junior_high_1"
+        ],
+        "allocatedHours": 115,
+        "goals": [
+          "我が国の国土及び世界の諸地域に関して，位置や分布，場所の特徴，人々の活動や環境との関わりなどに着目して，主題を設けて多面的・多角的に考察し，表現する力を養う",
+          "社会的事象の地理的な見方・考え方を働かせ，課題を追究したり解決したりする活動を通して，広い視野に立ち，グローバル化する国際社会に主体的に生きる平和で民主的な国家及び社会の形成者に必要な公民としての資質・能力の基礎を育成する"
+        ],
+        "contents": [
+          {
+            "id": "jr_social_1_geography_1",
+            "level": "content",
+            "title": "世界の様々な地域",
+            "description": "世界の地域構成を大観し，地域の区分の方法や意味などについて理解する",
+            "objectives": [
+              "世界の地域構成を大観し，地域の区分の方法や意味などについて理解する",
+              "球面上の世界と平面上の世界の違いについて理解する",
+              "緯度と経度，大陸と海洋の分布，主な国々の名称と位置などについて理解する"
+            ],
+            "keywords": [
+              "世界地理",
+              "地域区分",
+              "緯度経度",
+              "国際理解"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "analyze"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "位置や分布，場所の特徴，人々の活動や環境との関わりなどに関する理解を身に付けている",
+              "thinkingJudgingExpressing": "地理的な見方・考え方を働かせて，地理的事象から課題を見いだし，多面的・多角的に考察し表現している",
+              "learningHumanity": "地理的事象について，よりよい社会の実現を視野にそこで見られる課題を主体的に追究，解決しようとする態度を身に付けている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "japanese",
+          "integrated_studies"
+        ],
+        "practicalExamples": [
+          {
+            "title": "世界の国々調べ",
+            "description": "世界地図を活用して，各大陸の国々の位置や特色を調べ，発表する活動",
+            "duration": "8時間",
+            "materials": [
+              "世界地図",
+              "地図帳",
+              "タブレット"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "我が国の国土及び世界の諸地域に関して，位置や分布，場所の特徴，人々の活動や環境との関わりなどについて理解するとともに，調査や諸資料から地理に関する様々な情報を効果的に調べまとめる技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "地理的な見方・考え方を働かせ，課題を追究したり解決したりする活動を通して，広い視野に立ち，グローバル化する国際社会に主体的に生きる平和で民主的な国家及び社会の形成者に必要な公民としての資質・能力を育てる",
+      "learningHumanity": "地理的事象について，よりよい社会の実現を視野にそこで見られる課題を主体的に追究，解決しようとする態度を養うとともに，多面的・多角的な考察や深い理解を通して涵養される我が国の国土に対する愛情，世界の諸地域に対する理解と関心を深める"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_02.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示",
+      "category": "secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "junior_high_music_2024",
+    "title": "中学校学習指導要領（平成29年告示）音楽",
+    "educationStage": "junior_high",
+    "subject": "music",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 45,
+      "grade2": 35,
+      "grade3": 35
+    },
+    "units": [
+      {
+        "id": "jr_music_grade1_expression",
+        "title": "表現活動",
+        "educationStage": "junior_high",
+        "subject": "music",
+        "grade": [
+          "junior_high_1"
+        ],
+        "allocatedHours": 30,
+        "goals": [
+          "音楽を愛好する心情を育てるとともに，音楽に対する感性を豊かにし，音楽活動の基礎的な能力を伸ばし，音楽文化についての理解を深める",
+          "表現及び鑑賞の幅広い活動を通して，音楽を愛好する心情を育てるとともに，音楽に対する感性を豊かにし，音楽活動の基礎的な能力を伸ばす"
+        ],
+        "contents": [
+          {
+            "id": "jr_music_1_singing_1",
+            "level": "content",
+            "title": "歌唱",
+            "description": "曲想と音楽の構造や歌詞の内容及び曲の背景との関わりを理解して歌う",
+            "objectives": [
+              "曲想と音楽の構造や歌詞の内容との関わりを理解する",
+              "声の音色や響きと言葉の特性を生かして歌う",
+              "歌詞の内容や曲想を味わい，曲にふさわしい表現を工夫して歌う"
+            ],
+            "keywords": [
+              "歌唱表現",
+              "曲想理解",
+              "言葉と音楽",
+              "表現の工夫"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "create"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "曲想と音楽の構造などとの関わりについて理解するとともに，表現に関する技能を身に付ける",
+              "thinkingJudgingExpressing": "音楽表現を工夫することや，音楽を味わって聴くことができる",
+              "learningHumanity": "音楽活動の楽しさを体験することを通して，音楽を愛好する心情と音楽に対する感性を育むとともに，音楽に親しむ態度を養い，豊かな情操を培う"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "japanese",
+          "special_activities"
+        ],
+        "practicalExamples": [
+          {
+            "title": "合唱祭への取り組み",
+            "description": "学級合唱を通して，ハーモニーの美しさと協働の大切さを学ぶ活動",
+            "duration": "10時間",
+            "materials": [
+              "楽譜",
+              "ピアノ",
+              "音響設備"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "曲想と音楽の構造などとの関わりについて理解するとともに，表現に関する技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "音楽表現を工夫することや，音楽を味わって聴くことができるようにする",
+      "learningHumanity": "音楽活動の楽しさを体験することを通して，音楽を愛好する心情と音楽に対する感性を育むとともに，音楽に親しむ態度を養い，豊かな情操を培う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_02.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示",
+      "category": "secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "junior_high_arts_2024",
+    "title": "中学校学習指導要領（平成29年告示）美術",
+    "educationStage": "junior_high",
+    "subject": "arts",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 45,
+      "grade2": 35,
+      "grade3": 35
+    },
+    "units": [
+      {
+        "id": "jr_arts_grade1_expression",
+        "title": "表現",
+        "educationStage": "junior_high",
+        "subject": "arts",
+        "grade": [
+          "junior_high_1"
+        ],
+        "allocatedHours": 30,
+        "goals": [
+          "表現及び鑑賞の幅広い活動を通して，美術の創造活動の喜びを味わい美術を愛好する心情を育てるとともに，感性を豊かにし，美術の基礎的な能力を伸ばし，美術の文化についての理解を深める",
+          "創造的な表現の能力を伸ばすとともに美術を愛好する心情を育てる"
+        ],
+        "contents": [
+          {
+            "id": "jr_arts_1_drawing_painting",
+            "level": "content",
+            "title": "絵画・彫刻など",
+            "description": "感じ取ったことや考えたこと，夢や想像などから主題を生み出し，創造的な絵画や彫刻などの表現の構想を練る",
+            "objectives": [
+              "対象を深く見つめ感じ取ったことや考えたことなどを基に主題を生み出す",
+              "創造的な表現の構想を練る",
+              "材料や用具の特性を生かし表現方法を工夫して表現する"
+            ],
+            "keywords": [
+              "絵画表現",
+              "主題設定",
+              "材料研究",
+              "創造性"
+            ],
+            "bloomsTaxonomy": [
+              "create",
+              "analyze",
+              "evaluate"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "対象や事象を捉える造形的な視点について理解するとともに，意図に応じて表現方法を創意工夫し，創造的に表すことができる",
+              "thinkingJudgingExpressing": "造形的なよさや美しさ，表現の意図と工夫，美術の働きなどについて考え，主題を生み出し豊かに発想し構想を練ったり，美術や美術文化に対する見方や感じ方を深めたりすることができる",
+              "learningHumanity": "美術の創造活動の喜びを味わい主体的に表現や鑑賞の学習活動に取り組み，生涯にわたり美術を愛好する心情を育むとともに，美術を通して心豊かな生活を創造していく態度を養う"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "japanese",
+          "social_studies"
+        ],
+        "practicalExamples": [
+          {
+            "title": "私の心象風景",
+            "description": "自分の感情や印象を色彩と形で表現する絵画制作活動",
+            "duration": "8時間",
+            "materials": [
+              "絵の具",
+              "キャンバス",
+              "筆"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "対象や事象を捉える造形的な視点について理解するとともに，意図に応じて表現方法を創意工夫し，創造的に表すことができるようにする",
+      "thinkingJudgingExpressing": "造形的なよさや美しさ，表現の意図と工夫，美術の働きなどについて考え，主題を生み出し豊かに発想し構想を練ったり，美術や美術文化に対する見方や感じ方を深めたりすることができるようにする",
+      "learningHumanity": "美術の創造活動の喜びを味わい主体的に表現や鑑賞の学習活動に取り組み，生涯にわたり美術を愛好する心情を育むとともに，美術を通して心豊かな生活を創造していく態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_02.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示",
+      "category": "secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "junior_high_pe_2024",
+    "title": "中学校学習指導要領（平成29年告示）保健体育",
+    "educationStage": "junior_high",
+    "subject": "pe",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 105,
+      "grade2": 105,
+      "grade3": 105
+    },
+    "units": [
+      {
+        "id": "jr_pe_grade1_body_fitness",
+        "title": "体つくり運動",
+        "educationStage": "junior_high",
+        "subject": "pe",
+        "grade": [
+          "junior_high_1"
+        ],
+        "allocatedHours": 15,
+        "goals": [
+          "心と体を一体として捉え，生涯にわたって心身の健康を保持増進し豊かなスポーツライフを実現するための資質・能力を育成する",
+          "各種の運動の楽しさや喜びを味わい，運動を豊かに実践することができるようにする"
+        ],
+        "contents": [
+          {
+            "id": "jr_pe_1_fitness_1",
+            "level": "content",
+            "title": "体ほぐしの運動",
+            "description": "心と体の関係に気付き，体の調子を整え，仲間と豊かに関わる",
+            "objectives": [
+              "心と体は互いに影響し合うことを理解する",
+              "手軽な運動を行い，心と体の状態に気付き，体の調子を整える",
+              "仲間と協力したり励まし合ったりして運動を行う"
+            ],
+            "keywords": [
+              "体ほぐし",
+              "心身の関係",
+              "仲間づくり",
+              "体調管理"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "運動の楽しさや喜びを味わうことができるよう，運動の特性や成り立ち，技の名称や行い方，その運動に関連して高まる体力などについて理解するとともに，基本的な技能を身に付ける",
+              "thinkingJudgingExpressing": "運動についての自己や仲間の課題を発見し，合理的な解決に向けて運動の取り組み方を工夫するとともに，自己の考えたことを他者に伝える",
+              "learningHumanity": "運動に積極的に取り組むとともに，フェアなプレイを大切にし，仲間の学習を援助し，健康・安全に気を配り，運動の楽しさや喜びを味わおうとする"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "special_activities",
+          "moral"
+        ],
+        "practicalExamples": [
+          {
+            "title": "チームビルディング運動",
+            "description": "チームで協力して課題を解決する運動を通して，仲間との絆を深める活動",
+            "duration": "3時間",
+            "materials": [
+              "体育館",
+              "ボール",
+              "マット"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "各種の運動の楽しさや喜びを味わうことができるよう，その特性に応じた技能等を身に付けるようにする",
+      "thinkingJudgingExpressing": "運動についての自己や仲間の課題を発見し，合理的な解決に向けて思考し判断するとともに，他者に伝える力を養う",
+      "learningHumanity": "生涯にわたって運動に親しむとともに健康の保持増進と体力の向上を目指し，明るく豊かな生活を営む態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_02.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示",
+      "category": "secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "junior_high_technology_home_economics_2024",
+    "title": "中学校学習指導要領（平成29年告示）技術・家庭",
+    "educationStage": "junior_high",
+    "subject": "technology_home_economics",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 70,
+      "grade2": 70,
+      "grade3": 35
+    },
+    "units": [
+      {
+        "id": "jr_tech_grade1_materials_processing",
+        "title": "材料と加工の技術",
+        "educationStage": "junior_high",
+        "subject": "technology_home_economics",
+        "grade": [
+          "junior_high_1"
+        ],
+        "allocatedHours": 35,
+        "goals": [
+          "生活の営みに係る見方・考え方や技術の見方・考え方を働かせ，生活や技術について理解し技能を身に付けるとともに，生活や社会の中から問題を見付けて課題を設定し，解決策を構想し，実践を評価・改善し，課題の解決に向かう過程を通して，生活を豊かにしたり，技術によってよりよい社会を構築したりする力を養う",
+          "よりよい生活の実現や持続可能な社会の構築に向けて，生活を工夫し創造しようとする実践的な態度を養う"
+        ],
+        "contents": [
+          {
+            "id": "jr_tech_1_materials_1",
+            "level": "content",
+            "title": "材料の特性と加工法",
+            "description": "材料の特性や材料に適した加工法等を理解し，製作品の設計・制作に関する技能を身に付ける",
+            "objectives": [
+              "材料の特性や材料に適した加工法等について理解する",
+              "製作品の設計・制作に関する技能を身に付ける",
+              "材料と加工の技術の適切な評価・活用について考える"
+            ],
+            "keywords": [
+              "材料特性",
+              "加工技術",
+              "設計製図",
+              "ものづくり"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "create"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "生活と技術について理解し，それらに係る技能を身に付ける",
+              "thinkingJudgingExpressing": "生活や社会の中から問題を見付けて課題を設定し，解決策を構想し，実践を評価・改善し，表現する",
+              "learningHumanity": "よりよい生活の実現や持続可能な社会の構築に向けて，課題の解決に主体的に取り組んだり，振り返って改善したりして，生活を工夫し創造し，実践しようとする"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "mathematics",
+          "science"
+        ],
+        "practicalExamples": [
+          {
+            "title": "木材を使った小物入れ制作",
+            "description": "木材の特性を理解し，設計図に基づいて小物入れを制作する活動",
+            "duration": "12時間",
+            "materials": [
+              "木材",
+              "工具",
+              "設計用紙"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "生活と技術について理解し，それらに係る技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "生活や社会の中から問題を見付けて課題を設定し，解決策を構想し，実践を評価・改善し，表現することができるようにする",
+      "learningHumanity": "よりよい生活の実現や持続可能な社会の構築に向けて，課題の解決に主体的に取り組んだり，振り返って改善したりして，生活を工夫し創造し，実践しようとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_02.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示",
+      "category": "secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "junior_high_foreign_language_2024",
+    "title": "中学校学習指導要領（平成29年告示）外国語",
+    "educationStage": "junior_high",
+    "subject": "foreign_language",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 140,
+      "grade2": 140,
+      "grade3": 140
+    },
+    "units": [
+      {
+        "id": "jr_foreign_grade1_communication",
+        "title": "聞くこと，読むこと，話すこと，書くこと",
+        "educationStage": "junior_high",
+        "subject": "foreign_language",
+        "grade": [
+          "junior_high_1"
+        ],
+        "allocatedHours": 140,
+        "goals": [
+          "外国語によるコミュニケーションにおける見方・考え方を働かせ，外国語による聞くこと，読むこと，話すこと，書くことの言語活動を通して，簡単な情報や考えなどを理解したり表現したり伝え合ったりするコミュニケーションを図る資質・能力を育成する",
+          "外国語の背景にある文化に対する理解を深め，他者に配慮しながら，主体的に外国語を用いてコミュニケーションを図ろうとする態度を養う"
+        ],
+        "contents": [
+          {
+            "id": "jr_foreign_1_listening_1",
+            "level": "content",
+            "title": "聞くこと",
+            "description": "日常的な話題について，話される速さや，使用される語句や文，情報量などにおいて，多くの支援を活用すれば，必要な情報を聞き取ることができる",
+            "objectives": [
+              "はっきりと話されれば，日常的な話題について，短い話の概要を捉えることができる",
+              "ゆっくりはっきりと話されれば，日常的な話題について，事実関係を聞き取ることができる",
+              "短い話であれば，情報を正確に聞き取ることができる"
+            ],
+            "keywords": [
+              "リスニング",
+              "音声理解",
+              "情報収集",
+              "コミュニケーション"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "外国語の音声や語彙，表現，文法，言語の働きなどについて理解を深めるとともに，これらの知識を聞くこと，読むこと，話すこと，書くことによる実際のコミュニケーションにおいて，目的や場面，状況などに応じて適切に活用できる技能を身に付ける",
+              "thinkingJudgingExpressing": "コミュニケーションを行う目的や場面，状況などに応じて，日常的な話題や社会的な話題について，外国語で簡単な情報や考えなどを理解したり，これらを活用して表現したり伝え合ったりすることができる",
+              "learningHumanity": "外国語の背景にある文化に対する理解を深め，他者に配慮しながら，主体的に外国語を用いてコミュニケーションを図ろうとする態度を養う"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "japanese",
+          "social_studies",
+          "integrated_studies"
+        ],
+        "practicalExamples": [
+          {
+            "title": "英語でプレゼンテーション",
+            "description": "身近な話題について英語で調べ，クラスメイトに発表する活動",
+            "duration": "10時間",
+            "materials": [
+              "プレゼンテーション用スライド",
+              "電子辞書",
+              "音声教材"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "外国語の音声や語彙，表現，文法，言語の働きなどについて理解を深めるとともに，これらの知識を聞くこと，読むこと，話すこと，書くことによる実際のコミュニケーションにおいて，目的や場面，状況などに応じて適切に活用できる技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "コミュニケーションを行う目的や場面，状況などに応じて，日常的な話題や社会的な話題について，外国語で簡単な情報や考えなどを理解したり，これらを活用して表現したり伝え合ったりすることができるようにする",
+      "learningHumanity": "外国語の背景にある文化に対する理解を深め，他者に配慮しながら，主体的に外国語を用いてコミュニケーションを図ろうとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_02.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示",
+      "category": "secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "junior_high_moral_2024",
+    "title": "中学校学習指導要領（平成29年告示）特別の教科 道徳",
+    "educationStage": "junior_high",
+    "subject": "moral",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 35,
+      "grade2": 35,
+      "grade3": 35
+    },
+    "units": [
+      {
+        "id": "jr_moral_grade1_respect_life",
+        "title": "生命の尊さ",
+        "educationStage": "junior_high",
+        "subject": "moral",
+        "grade": [
+          "junior_high_1"
+        ],
+        "allocatedHours": 4,
+        "goals": [
+          "道徳的諸価値についての理解を基に，自己を見つめ，物事を広い視野から多面的・多角的に考え，人間としての生き方についての考えを深める学習を通して，道徳的な判断力，心情，実践意欲と態度を育てる",
+          "自他の生命を尊重する精神と態度を育てる"
+        ],
+        "contents": [
+          {
+            "id": "jr_moral_1_life_1",
+            "level": "content",
+            "title": "生命の尊重",
+            "description": "生命の尊さについて，その連続性や有限性なども含めて理解し，かけがえのない生命を尊重する",
+            "objectives": [
+              "生命の尊さを理解し，生命あるすべてのものを大切にする",
+              "生命の連続性や有限性を理解する",
+              "かけがえのない自他の生命を尊重する態度を養う"
+            ],
+            "keywords": [
+              "生命尊重",
+              "かけがえのなさ",
+              "有限性",
+              "連続性"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "evaluate",
+              "create"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "道徳的諸価値について理解する",
+              "thinkingJudgingExpressing": "自己を見つめ，物事を広い視野から多面的・多角的に考え，人間としての生き方について考える",
+              "learningHumanity": "道徳的諸価値についての理解を基に，自己を見つめ，物事を広い視野から多面的・多角的に考え，人間としての生き方についての考えを深める学習を通して，道徳的な判断力，心情，実践意欲と態度を育てる"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "japanese",
+          "social_studies",
+          "science"
+        ],
+        "practicalExamples": [
+          {
+            "title": "いのちについて考える",
+            "description": "生命の大切さについて，様々な資料を通して深く考える授業",
+            "duration": "1時間",
+            "materials": [
+              "道徳教材",
+              "映像資料",
+              "ワークシート"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "道徳的諸価値についての理解を基に，自己を見つめ，物事を広い視野から多面的・多角的に考え，人間としての生き方についての考えを深める学習を通して，道徳的な判断力，心情，実践意欲と態度を育てる",
+      "thinkingJudgingExpressing": "道徳的価値について自分との関わりで考えることを通して，これからの生き方の課題と目標を見付け，道徳的価値を実現するための判断力を身に付ける",
+      "learningHumanity": "道徳的諸価値に基づいた人間としての生き方を考え，主体的な判断の下に行動し，自立した人間として他者と共によりよく生きるための基盤となる道徳性を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_02.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示",
+      "category": "secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "junior_high_integrated_studies_2024",
+    "title": "中学校学習指導要領（平成29年告示）総合的な学習の時間",
+    "educationStage": "junior_high",
+    "subject": "integrated_studies",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 50,
+      "grade2": 70,
+      "grade3": 70
+    },
+    "units": [
+      {
+        "id": "jr_integrated_grade1_inquiry",
+        "title": "探究的な見方・考え方を働かせる学習",
+        "educationStage": "junior_high",
+        "subject": "integrated_studies",
+        "grade": [
+          "junior_high_1"
+        ],
+        "allocatedHours": 50,
+        "goals": [
+          "探究的な見方・考え方を働かせ，横断的・総合的な学習を行うことを通して，よりよく課題を解決し，自己の在り方生き方を考えていくための資質・能力を育成する",
+          "実社会や実生活の中から問いを見いだし，自分で課題を立て，情報を集め，整理・分析して，まとめ・表現することができるようにする"
+        ],
+        "contents": [
+          {
+            "id": "jr_integrated_1_inquiry_1",
+            "level": "content",
+            "title": "課題の設定",
+            "description": "体験活動などを通して，課題を見付け，その解決に向けて探究的に学習する",
+            "objectives": [
+              "実社会や実生活の中から問いを見いだし，自分で課題を立てる",
+              "解決の見通しをもって学習計画を立てる",
+              "多様な情報源から必要な情報を収集する"
+            ],
+            "keywords": [
+              "課題設定",
+              "探究活動",
+              "情報収集",
+              "問題解決"
+            ],
+            "bloomsTaxonomy": [
+              "analyze",
+              "create",
+              "evaluate"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "探究的な学習の過程において，課題の解決に必要な知識及び技能を身に付け，課題に関わる概念を形成し，探究的な学習のよさを理解している",
+              "thinkingJudgingExpressing": "実社会や実生活の中から問いを見いだし，自分で課題を立て，情報を集め，整理・分析して，まとめ・表現している",
+              "learningHumanity": "探究的な学習に主体的・協働的に取り組むとともに，互いのよさを生かしながら，積極的に社会に参画しようとしている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "social_studies",
+          "science",
+          "japanese"
+        ],
+        "practicalExamples": [
+          {
+            "title": "地域の環境問題を考える",
+            "description": "地域の環境問題について調査し，解決策を提案する探究活動",
+            "duration": "15時間",
+            "materials": [
+              "調査用具",
+              "発表用資料",
+              "コンピュータ"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "探究的な学習の過程において，課題の解決に必要な知識及び技能を身に付け，課題に関わる概念を形成し，探究的な学習のよさを理解するようにする",
+      "thinkingJudgingExpressing": "実社会や実生活の中から問いを見いだし，自分で課題を立て，情報を集め，整理・分析して，まとめ・表現することができるようにする",
+      "learningHumanity": "探究的な学習に主体的・協働的に取り組むとともに，互いのよさを生かしながら，積極的に社会に参画しようとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_02.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示",
+      "category": "secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "junior_high_special_activities_2024",
+    "title": "中学校学習指導要領（平成29年告示）特別活動",
+    "educationStage": "junior_high",
+    "subject": "special_activities",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 35,
+      "grade2": 35,
+      "grade3": 35
+    },
+    "units": [
+      {
+        "id": "jr_special_grade1_class_activities",
+        "title": "学級活動",
+        "educationStage": "junior_high",
+        "subject": "special_activities",
+        "grade": [
+          "junior_high_1"
+        ],
+        "allocatedHours": 25,
+        "goals": [
+          "集団や社会の形成者としての見方・考え方を働かせ，様々な集団活動に自主的，実践的に取り組み，互いのよさや可能性を発揮しながら集団や自己の生活上の課題を解決することを通して，次のとおり資質・能力を育成する",
+          "多様な他者と協働する様々な集団活動の意義や活動を行う上で必要となることについて理解し，行動の仕方を身に付ける"
+        ],
+        "contents": [
+          {
+            "id": "jr_special_1_class_1",
+            "level": "content",
+            "title": "学級や学校における生活づくりへの参画",
+            "description": "学級や学校における生活上の諸問題を話し合って解決することや他者と協働して取り組むことの大切さを理解し，主体的に参画する",
+            "objectives": [
+              "学級生活の充実や向上のため，問題を見付け，解決方法について話し合い，合意形成を図る",
+              "協力して実践し，一人一人のよさを生かした集団として活動する",
+              "振り返って改善を図り，次の活動に生かす"
+            ],
+            "keywords": [
+              "学級活動",
+              "話し合い",
+              "合意形成",
+              "協働",
+              "自治活動"
+            ],
+            "bloomsTaxonomy": [
+              "analyze",
+              "create",
+              "evaluate"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "多様な他者と協働する様々な集団活動の意義や活動を行う上で必要となることについて理解し，行動の仕方を身に付けている",
+              "thinkingJudgingExpressing": "集団や自己の生活，人間関係の課題を見付け，解決するために話し合い，合意形成を図ったり，意思決定をしたりしている",
+              "learningHumanity": "集団活動に自主的，実践的に取り組み，互いのよさや可能性を発揮しながら集団や自己の生活上の課題を解決しようとしている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "moral",
+          "integrated_studies"
+        ],
+        "practicalExamples": [
+          {
+            "title": "学級目標の設定と実践",
+            "description": "学級全体で話し合って学級目標を決め，その達成に向けて協力して取り組む活動",
+            "duration": "3時間",
+            "materials": [
+              "話し合い用シート",
+              "模造紙",
+              "マーカー"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "多様な他者と協働する様々な集団活動の意義や活動を行う上で必要となることについて理解し，行動の仕方を身に付けるようにする",
+      "thinkingJudgingExpressing": "集団や自己の生活，人間関係の課題を見付け，解決するために話し合い，合意形成を図ったり，意思決定をしたりすることができるようにする",
+      "learningHumanity": "自主的，実践的な集団活動を通して身に付けたことを生かして，集団や社会における生活及び人間関係をよりよく形成するとともに，自己の在り方生き方についての考えを深め，自己実現を図ろうとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_02.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示",
+      "category": "secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "high_school_japanese_2024",
+    "title": "高等学校学習指導要領（平成30年告示）国語",
+    "educationStage": "high_school",
+    "subject": "japanese",
+    "version": "2024",
+    "publishedDate": "2018-03-30T00:00:00.000Z",
+    "effectiveDate": "2022-04-01T00:00:00.000Z",
+    "standardUnits": {
+      "modern_japanese": 2,
+      "language_culture": 2,
+      "logical_japanese": 4,
+      "literary_japanese": 4,
+      "japanese_expression": 4,
+      "classical_exploration": 4
+    },
+    "units": [
+      {
+        "id": "hs_jp_modern_japanese",
+        "title": "現代の国語",
+        "educationStage": "high_school",
+        "subject": "japanese",
+        "grade": ["high_school_1"],
+        "standardUnits": 2,
+        "isCompulsory": true,
+        "goals": [
+          "実社会に必要な国語の知識や技能を身に付けるとともに，我が国の言語文化に対する理解を深めること",
+          "論理的に考える力や深く共感したり豊かに想像したりする力を伸ばし，他者との関わりの中で伝え合う力を高めること",
+          "言葉がもつ価値への認識を深めるとともに，生涯にわたって読書に親しみ自己を向上させ，我が国の言語文化の担い手としての自覚をもち，生涯にわたり国語を尊重してその能力の向上を図る態度を養うこと"
+        ],
+        "contents": [
+          {
+            "id": "hs_jp_modern_reading",
+            "level": "content",
+            "title": "実用的な文章の読解",
+            "description": "論理的な文章や実用的な文章を的確に読み取り，内容や構成，論理の展開などを客観的に捉える",
+            "objectives": [
+              "文章の種類を踏まえて，内容や構成，展開，描写の仕方などを的確に捉えること",
+              "文章に含まれている情報を相互に関係付けながら，内容を解釈すること",
+              "文章の構成や論理の展開，表現の仕方について評価すること"
+            ],
+            "keywords": [
+              "論理的思考",
+              "情報処理",
+              "批判的読解",
+              "構成把握"
+            ],
+            "bloomsTaxonomy": [
+              "analyze",
+              "evaluate",
+              "create"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "実社会に必要な国語の知識や技能を身に付けている",
+              "thinkingJudgingExpressing": "情報を的確に理解し効果的に表現している",
+              "learningHumanity": "言葉を通じて他者や社会に関わろうとしている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "social_studies",
+          "integrated_inquiry"
+        ],
+        "practicalExamples": [
+          {
+            "title": "新聞の社説分析",
+            "description": "新聞の社説を読み，論理構成や論証の方法を分析し評価する活動",
+            "duration": "4時間",
+            "materials": [
+              "新聞記事",
+              "分析シート",
+              "プレゼンテーション資料"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hs_jp_language_culture",
+        "title": "言語文化",
+        "educationStage": "high_school",
+        "subject": "japanese",
+        "grade": ["high_school_1"],
+        "standardUnits": 2,
+        "isCompulsory": true,
+        "goals": [
+          "生涯にわたる社会生活に必要な国語について，その特質を理解し適切に使うことができるようにする",
+          "生涯にわたる社会生活における他者との関わりの中で伝え合う力を高め，思考力や想像力を伸ばす",
+          "言葉のもつ価値への認識を深めるとともに，言語感覚を豊かにし，我が国の言語文化に関わり，これを継承・発展させる態度を養う"
+        ],
+        "contents": [
+          {
+            "id": "hs_jp_classical_literature",
+            "level": "content", 
+            "title": "古典作品の読解と鑑賞",
+            "description": "古典の世界に親しむために，古典を読むために必要な文語のきまりや訓読のきまりを理解し，古典特有の表現に注意して内容を読み味わう",
+            "objectives": [
+              "古典特有の表現に注意して内容を読み味わうこと",
+              "作品や文章に表れているものの見方，感じ方，考え方を捉えること",
+              "作品の成立した背景や他の作品との関係を踏まえ，内容を解釈すること"
+            ],
+            "keywords": [
+              "古典文学",
+              "文語文法",
+              "文化的背景",
+              "作品鑑賞"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "analyze",
+              "evaluate"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "我が国の言語文化に関する理解を深めている",
+              "thinkingJudgingExpressing": "古典を通して思考力や想像力を働かせている",
+              "learningHumanity": "言語文化を継承・発展させようとする態度を身に付けている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "social_studies",
+          "arts"
+        ],
+        "practicalExamples": [
+          {
+            "title": "源氏物語の現代語訳と鑑賞",
+            "description": "源氏物語の一部を現代語訳し，登場人物の心情や作品の文学的価値について考察する",
+            "duration": "6時間",
+            "materials": [
+              "古典作品原文",
+              "現代語訳",
+              "文学史資料"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "生涯にわたる社会生活に必要な国語の知識や技能を身に付けるとともに，我が国の言語文化に対する理解を深める",
+      "thinkingJudgingExpressing": "論理的に考える力や深く共感したり豊かに想像したりする力を伸ばし，他者との関わりの中で伝え合う力を高める",
+      "learningHumanity": "言葉のもつ価値への認識を深めるとともに，生涯にわたって読書に親しみ自己を向上させ，我が国の言語文化の担い手としての自覚をもち，生涯にわたり国語を尊重してその能力の向上を図る態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_03.pdf",
+      "officialCode": "文部科学省告示第六十八号",
+      "revision": "平成30年3月30日告示",
+      "category": "upper_secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "high_school_geography_history_2024",
+    "title": "高等学校学習指導要領（平成30年告示）地理歴史",
+    "educationStage": "high_school",
+    "subject": "geography_history",
+    "version": "2024",
+    "publishedDate": "2018-03-30T00:00:00.000Z",
+    "effectiveDate": "2022-04-01T00:00:00.000Z",
+    "standardUnits": {
+      "geography_comprehensive": 2,
+      "geography_inquiry": 3,
+      "history_comprehensive": 2,
+      "japanese_history_inquiry": 3,
+      "world_history_inquiry": 3
+    },
+    "units": [
+      {
+        "id": "hs_geo_comprehensive",
+        "title": "地理総合",
+        "educationStage": "high_school",
+        "subject": "geography_history",
+        "grade": ["high_school_1"],
+        "standardUnits": 2,
+        "isCompulsory": true,
+        "goals": [
+          "地理に関わる事象の意味や意義，特色や相互の関連を，位置や分布，場所，人間と自然環境との相互依存関係，空間的相互依存作用，地域などに着目して，概念などを活用して多面的・多角的に考察し，表現する力を養う",
+          "地理に関わる諸事象について，よりよい社会の実現を視野にそこで見られる課題を主体的に探究しようとする態度を養う"
+        ],
+        "contents": [
+          {
+            "id": "hs_geo_spatial_recognition",
+            "level": "content",
+            "title": "地図と地理情報システム",
+            "description": "地図や地理情報システム（GIS）などを用いて，必要な情報を適切かつ効果的に調べまとめる技能を身に付ける",
+            "objectives": [
+              "地図の読図と作図，景観写真の読み取りなどの地理的技能を身に付けること",
+              "地理情報システム（GIS）などの地理的な情報手段を活用して，調査や諸資料から地理に関する情報を効果的に収集し，読み取り，まとめること"
+            ],
+            "keywords": [
+              "地図",
+              "GIS",
+              "空間認識",
+              "地理的技能",
+              "情報処理"
+            ],
+            "bloomsTaxonomy": [
+              "apply",
+              "analyze",
+              "create"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "地図や地理情報システムなどについて理解し，調査や諸資料から地理に関する情報を効果的に調べまとめる技能を身に付けている",
+              "thinkingJudgingExpressing": "地理に関わる事象の意味や意義，特色や相互の関連を多面的・多角的に考察し，表現している",
+              "learningHumanity": "地理に関わる諸事象について，主体的に課題を探究しようとしている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "mathematics",
+          "science",
+          "information"
+        ],
+        "practicalExamples": [
+          {
+            "title": "地域の防災マップ作成",
+            "description": "GISを活用して地域の災害リスクを調査し，防災マップを作成する活動",
+            "duration": "8時間",
+            "materials": [
+              "地理情報システム",
+              "地形図",
+              "統計資料"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hs_history_comprehensive",
+        "title": "歴史総合",
+        "educationStage": "high_school",
+        "subject": "geography_history",
+        "grade": ["high_school_1"],
+        "standardUnits": 2,
+        "isCompulsory": true,
+        "goals": [
+          "近現代の歴史の変化に関わる諸事象について，世界とその中の日本を広く相互的な視野から捉え，現代的な諸課題の形成に関わる近現代の歴史を理解する",
+          "近現代の歴史の変化に関わる事象の意味や意義，特色などを，時期や年代，推移，変化，継続，相互の関連や現在とのつながりなどに着目して，概念などを活用して多面的・多角的に考察し，表現する力を養う",
+          "近現代の歴史に関わる諸事象について，よりよい社会の実現を視野に課題を主体的に探究する態度を養う"
+        ],
+        "contents": [
+          {
+            "id": "hs_history_modern_formation",
+            "level": "content",
+            "title": "近代化と私たち",
+            "description": "18世紀後半以降の近代化について，日本及び世界の動向を関連させて理解し，現代的な諸課題の形成の背景を考察する",
+            "objectives": [
+              "産業革命や市民革命などを基に，近代化について理解すること",
+              "明治維新や大日本帝国憲法の制定などを基に，日本の近代化の特色について考察すること",
+              "帝国主義政策とアジア諸国の対応について理解し，現在の国際関係に与えた影響について考察すること"
+            ],
+            "keywords": [
+              "産業革命",
+              "市民革命",
+              "明治維新",
+              "帝国主義",
+              "近代国家"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "analyze",
+              "evaluate"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "近現代の歴史の変化に関わる諸事象について，世界とその中の日本を広く相互的な視野から捉え，現代的な諸課題の形成に関わる近現代の歴史を理解している",
+              "thinkingJudgingExpressing": "近現代の歴史の変化に関わる事象の意味や意義，特色などを多面的・多角的に考察し，表現している",
+              "learningHumanity": "近現代の歴史に関わる諸事象について，よりよい社会の実現を視野に課題を主体的に探究しようとしている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "civic_studies",
+          "integrated_inquiry"
+        ],
+        "practicalExamples": [
+          {
+            "title": "明治維新の国際比較",
+            "description": "日本の明治維新と同時期の世界の政治変革を比較し，近代化の特色について考察する",
+            "duration": "6時間",
+            "materials": [
+              "歴史資料集",
+              "年表",
+              "比較分析シート"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "地理や歴史に関わる諸事象について，世界の生活文化の多様性や，我が国の国土及び歴史に対する理解と愛情を深める",
+      "thinkingJudgingExpressing": "社会的事象の意味や意義，特色や相互の関連を多面的・多角的に考察し，表現する力を養う",
+      "learningHumanity": "社会的事象について，よりよい社会の実現を視野に課題を主体的に探究する態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_03.pdf",
+      "officialCode": "文部科学省告示第六十八号",
+      "revision": "平成30年3月30日告示",
+      "category": "upper_secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "high_school_civic_studies_2024",
+    "title": "高等学校学習指導要領（平成30年告示）公民",
+    "educationStage": "high_school",
+    "subject": "civic_studies",
+    "version": "2024",
+    "publishedDate": "2018-03-30T00:00:00.000Z",
+    "effectiveDate": "2022-04-01T00:00:00.000Z",
+    "standardUnits": {
+      "public": 2,
+      "ethics": 2,
+      "politics_economics": 2
+    },
+    "units": [
+      {
+        "id": "hs_civic_public",
+        "title": "公共",
+        "educationStage": "high_school",
+        "subject": "civic_studies",
+        "grade": ["high_school_1"],
+        "standardUnits": 2,
+        "isCompulsory": true,
+        "goals": [
+          "人間と社会の在り方についての見方・考え方を働かせ，現代の諸課題を追究したり解決したりする活動を通して，広い視野に立ち，グローバル化する国際社会に主体的に生きる平和で民主的な国家及び社会の有為な形成者に必要な公民としての資質・能力を育成することを目指す"
+        ],
+        "contents": [
+          {
+            "id": "hs_civic_democratic_society",
+            "level": "content",
+            "title": "民主主義と法の支配",
+            "description": "民主主義の意義や法の支配について理解し，現代社会における政治参加の在り方について考察する",
+            "objectives": [
+              "民主主義の意義や法の支配について理解すること",
+              "基本的人権の保障と法の支配について理解すること",
+              "政治参加と選挙の意義について考察すること"
+            ],
+            "keywords": [
+              "民主主義",
+              "法の支配",
+              "基本的人権",
+              "政治参加",
+              "選挙制度"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "analyze",
+              "evaluate"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "人間と社会の在り方についての基本的な概念や理論，社会の仕組みについて理解している",
+              "thinkingJudgingExpressing": "現代の諸課題について多面的・多角的に考察し，表現している",
+              "learningHumanity": "平和で民主的な社会の実現に向けて，公共的な事柄に自ら参画しようとする態度を身に付けている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "geography_history",
+          "integrated_inquiry"
+        ],
+        "practicalExamples": [
+          {
+            "title": "模擬選挙の実施",
+            "description": "実際の選挙制度に基づいた模擬選挙を実施し，政治参加の意義について考察する",
+            "duration": "4時間",
+            "materials": [
+              "投票用紙",
+              "候補者情報",
+              "選挙制度資料"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "現代の諸課題を捉え考察し，選択・判断するための手掛かりとなる概念や理論について理解する",
+      "thinkingJudgingExpressing": "現代の諸課題について，事実を基に多面的・多角的に考察し公正に判断する力や，合意形成や社会参画を視野に入れながら構想したことを議論し表現する力を養う",
+      "learningHumanity": "よりよい社会の実現を視野に，現代の諸課題を主体的に解決しようとする態度を養うとともに，多面的・多角的な考察や深い理解を通して涵養される，人間としての在り方生き方についての自覚や，公共的な事柄に自ら参画しようとする意欲や態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_03.pdf",
+      "officialCode": "文部科学省告示第六十八号",
+      "revision": "平成30年3月30日告示",
+      "category": "upper_secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "high_school_mathematics_2024",
+    "title": "高等学校学習指導要領（平成30年告示）数学",
+    "educationStage": "high_school",
+    "subject": "mathematics",
+    "version": "2024",
+    "publishedDate": "2018-03-30T00:00:00.000Z",
+    "effectiveDate": "2022-04-01T00:00:00.000Z",
+    "standardUnits": {
+      "mathematics_1": 3,
+      "mathematics_2": 4,
+      "mathematics_3": 3,
+      "mathematics_a": 2,
+      "mathematics_b": 2,
+      "mathematics_c": 2
+    },
+    "units": [
+      {
+        "id": "hs_math_1",
+        "title": "数学Ⅰ",
+        "educationStage": "high_school",
+        "subject": "mathematics",
+        "grade": ["high_school_1"],
+        "standardUnits": 3,
+        "isCompulsory": true,
+        "goals": [
+          "数と式，図形と計量，２次関数及びデータの分析について理解させ，基礎的な知識の習得と技能の習熟を図り，事象を数学的に考察する能力を培い，数学のよさを認識できるようにするとともに，それらを活用する態度を育てる"
+        ],
+        "contents": [
+          {
+            "id": "hs_math_1_quadratic_function",
+            "level": "content",
+            "title": "２次関数",
+            "description": "２次関数について理解し，２次関数を用いて数量の関係や変化を表現することの有用性を認識するとともに，それらを事象の考察に活用できるようにする",
+            "objectives": [
+              "２次関数の値の変化やグラフの特徴について理解すること",
+              "２次関数の最大値・最小値を求めること",
+              "２次方程式・２次不等式について理解し，それらを解くこと"
+            ],
+            "keywords": [
+              "２次関数",
+              "グラフ",
+              "最大値・最小値",
+              "２次方程式",
+              "２次不等式"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "analyze"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "２次関数について理解し，技能を身に付けている",
+              "thinkingJudgingExpressing": "２次関数について数学的に表現・処理し，考察している",
+              "learningHumanity": "２次関数を活用した問題解決に主体的に取り組んでいる"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "science",
+          "information"
+        ],
+        "practicalExamples": [
+          {
+            "title": "投げ上げた物体の運動",
+            "description": "物体を投げ上げたときの高さの変化を２次関数で表現し，最高点の高さや時間を求める",
+            "duration": "3時間",
+            "materials": [
+              "グラフ用紙",
+              "関数電卓",
+              "実験用ボール"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hs_math_a",
+        "title": "数学A",
+        "educationStage": "high_school",
+        "subject": "mathematics",
+        "grade": ["high_school_1"],
+        "standardUnits": 2,
+        "isCompulsory": false,
+        "goals": [
+          "図形の性質，場合の数と確率について理解させ，知識の習得と技能の習熟を図り，事象を数学的に考察する能力を培い，数学のよさを認識できるようにするとともに，それらを活用する態度を育てる"
+        ],
+        "contents": [
+          {
+            "id": "hs_math_a_probability",
+            "level": "content",
+            "title": "場合の数と確率",
+            "description": "場合の数を求めるときの基本的な考え方について理解し，確率の意味や基本的な法則について理解する",
+            "objectives": [
+              "順列・組合せの意味を理解し，それらの総数を求めること",
+              "確率の意味と基本的な法則について理解すること",
+              "独立な試行や反復試行の確率を求めること"
+            ],
+            "keywords": [
+              "順列",
+              "組合せ",
+              "確率",
+              "独立試行",
+              "反復試行"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "analyze"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "場合の数と確率について理解し，技能を身に付けている",
+              "thinkingJudgingExpressing": "確率について数学的に表現・処理し，考察している",
+              "learningHumanity": "確率を活用した問題解決に主体的に取り組んでいる"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "information",
+          "civic_studies"
+        ],
+        "practicalExamples": [
+          {
+            "title": "くじ引きの公平性",
+            "description": "くじ引きの順番による当選確率の違いを計算し，公平性について考察する",
+            "duration": "2時間",
+            "materials": [
+              "くじ引き教材",
+              "計算用紙"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "数学における基本的な概念や原理・法則を体系的に理解するとともに，事象を数学化したり，数学的に解釈したり，数学的に表現・処理したりする技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "数学を活用して事象を論理的に考察する力，事象の本質や他の事象との関係を認識し統合的・発展的に考察する力，数学的な表現を用いて事象を簡潔・明瞭・的確に表現する力を養う",
+      "learningHumanity": "数学のよさを認識し積極的に数学を活用しようとする態度，粘り強く考え数学的論拠に基づいて判断しようとする態度，問題解決の過程を振り返って考察を深めたり，評価・改善したりしようとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_03.pdf",
+      "officialCode": "文部科学省告示第六十八号",
+      "revision": "平成30年3月30日告示",
+      "category": "upper_secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "high_school_science_2024",
+    "title": "高等学校学習指導要領（平成30年告示）理科",
+    "educationStage": "high_school",
+    "subject": "science",
+    "version": "2024",
+    "publishedDate": "2018-03-30T00:00:00.000Z",
+    "effectiveDate": "2022-04-01T00:00:00.000Z",
+    "standardUnits": {
+      "science_and_human_life": 2,
+      "physics_foundation": 2,
+      "physics": 4,
+      "chemistry_foundation": 2,
+      "chemistry": 4,
+      "biology_foundation": 2,
+      "biology": 4,
+      "earth_science_foundation": 2,
+      "earth_science": 4
+    },
+    "units": [
+      {
+        "id": "hs_science_human_life",
+        "title": "科学と人間生活",
+        "educationStage": "high_school",
+        "subject": "science",
+        "grade": ["high_school_1"],
+        "standardUnits": 2,
+        "isCompulsory": false,
+        "goals": [
+          "自然と人間生活との関わり及び科学技術が人間生活に果たしている役割について，身近な事物・現象に関する観察，実験などを通して理解させ，科学的な見方や考え方を養うとともに，科学に対する興味・関心を高める"
+        ],
+        "contents": [
+          {
+            "id": "hs_science_daily_life",
+            "level": "content",
+            "title": "科学技術の発展",
+            "description": "科学技術の発展が人間生活に果たしてきた役割について，身近な事物・現象と関連付けて理解する",
+            "objectives": [
+              "衣料と食品などの科学について理解すること",
+              "住居とエネルギーについて理解すること",
+              "医療と科学について理解すること"
+            ],
+            "keywords": [
+              "科学技術",
+              "日常生活",
+              "エネルギー",
+              "医療",
+              "環境"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "analyze"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "自然の事物・現象についての理解を深め，科学的に探究するために必要な観察，実験などに関する基本的な技能を身に付けている",
+              "thinkingJudgingExpressing": "自然の事物・現象の中に問題を見いだし，見通しをもって観察，実験などを行い，科学的に考察し表現している",
+              "learningHumanity": "自然の事物・現象に主体的に関わり，科学的に探究しようとしている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "mathematics",
+          "civic_studies"
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "自然の事物・現象についての理解を深め，科学的に探究するために必要な観察，実験などに関する技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "観察，実験などを行い，科学的に考察し表現する力を養う",
+      "learningHumanity": "自然の事物・現象に主体的に関わり，科学的に探究しようとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_03.pdf",
+      "officialCode": "文部科学省告示第六十八号",
+      "revision": "平成30年3月30日告示",
+      "category": "upper_secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "high_school_pe_health_2024",
+    "title": "高等学校学習指導要領（平成30年告示）保健体育",
+    "educationStage": "high_school",
+    "subject": "pe_health",
+    "version": "2024",
+    "publishedDate": "2018-03-30T00:00:00.000Z",
+    "effectiveDate": "2022-04-01T00:00:00.000Z",
+    "standardUnits": {
+      "physical_education": "7-8",
+      "health": 2
+    },
+    "units": [
+      {
+        "id": "hs_pe_physical_education",
+        "title": "体育",
+        "educationStage": "high_school",
+        "subject": "pe_health",
+        "grade": ["high_school_1", "high_school_2", "high_school_3"],
+        "standardUnits": "7-8",
+        "isCompulsory": true,
+        "goals": [
+          "体育や保健の見方・考え方を働かせ，課題を発見し，合理的・計画的な解決に向けた主体的・協働的な学習過程を通して，心と体を一体として捉え，生涯にわたって心身の健康を保持増進し豊かなスポーツライフを継続するための資質・能力を育成する"
+        ],
+        "contents": [
+          {
+            "id": "hs_pe_sports_activities",
+            "level": "content",
+            "title": "球技",
+            "description": "球技について，勝敗を競う楽しさや喜びを味わい，技術の名称や行い方，体力の高め方，課題解決の方法，競技会の仕方などを理解する",
+            "objectives": [
+              "球技の各種目において用いられる技能を身に付けること",
+              "攻守における連携した動きや作戦を身に付けること",
+              "ゲームや試合において，基本的な技能や仲間と連携した動きでゲームを展開すること"
+            ],
+            "keywords": [
+              "球技",
+              "技能",
+              "戦術",
+              "連携",
+              "競技"
+            ],
+            "bloomsTaxonomy": [
+              "apply",
+              "analyze",
+              "create"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "運動の合理的・計画的な実践を通して，運動の楽しさや喜びを深く味わい，生涯にわたって運動を継続するとともに，現代的な諸課題に対応した健康の保持増進のための実践力を身に付けている",
+              "thinkingJudgingExpressing": "運動や健康についての自他や社会の課題を発見し，合理的・計画的な解決に向けて思考し判断するとともに，他者に伝える力を養っている",
+              "learningHumanity": "生涯にわたって継続して運動に親しむとともに健康の保持増進と体力の向上を目指し，明るく豊かで活力ある生活を営む態度を養っている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "health",
+          "moral"
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "運動の合理的・計画的な実践を通して，運動の楽しさや喜びを深く味わい，生涯にわたって運動を継続するとともに，現代的な諸課題に対応した健康の保持増進のための実践力を身に付けるようにする",
+      "thinkingJudgingExpressing": "運動や健康についての自他や社会の課題を発見し，合理的・計画的な解決に向けて思考し判断するとともに，他者に伝える力を養う",
+      "learningHumanity": "生涯にわたって継続して運動に親しむとともに健康の保持増進と体力の向上を目指し，明るく豊かで活力ある生活を営む態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_03.pdf",
+      "officialCode": "文部科学省告示第六十八号",
+      "revision": "平成30年3月30日告示",
+      "category": "upper_secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "high_school_foreign_language_2024",
+    "title": "高等学校学習指導要領（平成30年告示）外国語",
+    "educationStage": "high_school",
+    "subject": "foreign_language",
+    "version": "2024",
+    "publishedDate": "2018-03-30T00:00:00.000Z",
+    "effectiveDate": "2022-04-01T00:00:00.000Z",
+    "standardUnits": {
+      "english_communication_1": 3,
+      "english_communication_2": 4,
+      "english_communication_3": 4,
+      "logic_expression_1": 2,
+      "logic_expression_2": 2,
+      "logic_expression_3": 2
+    },
+    "units": [
+      {
+        "id": "hs_fl_english_communication_1",
+        "title": "英語コミュニケーションⅠ",
+        "educationStage": "high_school",
+        "subject": "foreign_language",
+        "grade": ["high_school_1"],
+        "standardUnits": 3,
+        "isCompulsory": true,
+        "goals": [
+          "外国語によるコミュニケーションにおける見方・考え方を働かせ，外国語による聞くこと，読むこと，話すこと，書くことの言語活動及びこれらを結び付けた統合的な言語活動を通して，情報や考えなどを的確に理解したり適切に表現したり伝え合ったりするコミュニケーションを図る資質・能力を育成する"
+        ],
+        "contents": [
+          {
+            "id": "hs_fl_listening_reading",
+            "level": "content",
+            "title": "聞くこと・読むこと",
+            "description": "日常的な話題について，話される英語を聞いて，情報や考えなどを理解したり，読んだりすることができるようにする",
+            "objectives": [
+              "日常的な話題について，英語を聞いて必要な情報を聞き取ること",
+              "日常的な話題について，英語を読んで必要な情報を読み取ること",
+              "聞いたり読んだりしたことを基に，情報や考えなどをまとめること"
+            ],
+            "keywords": [
+              "英語コミュニケーション",
+              "聞く",
+              "読む",
+              "情報理解",
+              "語彙"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "analyze"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "外国語の音声や語彙，表現，文法，言語の働きなどの理解を深めるとともに，これらの知識を，聞くこと，読むこと，話すこと，書くことによる実際のコミュニケーションにおいて，目的や場面，状況などに応じて適切に活用できる技能を身に付けている",
+              "thinkingJudgingExpressing": "コミュニケーションを行う目的や場面，状況などに応じて，日常的な話題や社会的な話題について，外国語で情報や考えなどの概要や要点，詳細，話し手や書き手の意図などを的確に理解したり，これらを活用して適切に表現したり伝え合ったりしている",
+              "learningHumanity": "外国語の背景にある文化に対する理解を深め，聞き手，読み手，話し手，書き手に配慮しながら，主体的，自律的に外国語を用いてコミュニケーションを図ろうとしている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "japanese",
+          "geography_history"
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "外国語の音声や語彙，表現，文法，言語の働きなどについて理解を深めるとともに，これらの知識を，聞くこと，読むこと，話すこと，書くことによる実際のコミュニケーションにおいて，目的や場面，状況などに応じて適切に活用できる技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "コミュニケーションを行う目的や場面，状況などに応じて，日常的な話題や社会的な話題について，外国語で情報や考えなどの概要や要点，詳細，話し手や書き手の意図などを的確に理解したり，これらを活用して適切に表現したり伝え合ったりすることができるようにする",
+      "learningHumanity": "外国語の背景にある文化に対する理解を深め，聞き手，読み手，話し手，書き手に配慮しながら，主体的，自律的に外国語を用いてコミュニケーションを図ろうとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_03.pdf",
+      "officialCode": "文部科学省告示第六十八号",
+      "revision": "平成30年3月30日告示",
+      "category": "upper_secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "high_school_information_2024",
+    "title": "高等学校学習指導要領（平成30年告示）情報",
+    "educationStage": "high_school",
+    "subject": "information",
+    "version": "2024",
+    "publishedDate": "2018-03-30T00:00:00.000Z",
+    "effectiveDate": "2022-04-01T00:00:00.000Z",
+    "standardUnits": {
+      "information_1": 2,
+      "information_2": 2
+    },
+    "units": [
+      {
+        "id": "hs_info_information_1",
+        "title": "情報Ⅰ",
+        "educationStage": "high_school",
+        "subject": "information",
+        "grade": ["high_school_1"],
+        "standardUnits": 2,
+        "isCompulsory": true,
+        "goals": [
+          "情報に関する科学的な見方・考え方を働かせ，情報技術を活用して問題の発見・解決を行う学習活動を通して，問題の発見・解決に向けて情報と情報技術を適切かつ効果的に活用し，情報社会に主体的に参画するための資質・能力を育成する"
+        ],
+        "contents": [
+          {
+            "id": "hs_info_programming",
+            "level": "content",
+            "title": "プログラミング",
+            "description": "コンピュータの仕組みを理解し，プログラミングによってコンピュータを活用する方法について理解し技能を身に付ける",
+            "objectives": [
+              "アルゴリズムを表現する手段，プログラミングによってコンピュータや情報システムを活用する方法について理解すること",
+              "目的に応じてアルゴリズムを考え適切な方法で表現し，プログラミングによりコンピュータや情報システムを活用すること",
+              "自分の考えたアルゴリズムと他者のアルゴリズムを比較し，適切なアルゴリズムについて考えること"
+            ],
+            "keywords": [
+              "プログラミング",
+              "アルゴリズム",
+              "コンピュータ",
+              "情報システム",
+              "問題解決"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "create"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "情報と情報技術及びこれらを活用した問題の発見・解決の方法について理解し技能を身に付けている",
+              "thinkingJudgingExpressing": "事象を情報とその結び付きとして捉え，問題の発見・解決に向けて情報と情報技術を適切かつ効果的に活用している",
+              "learningHumanity": "情報と情報技術を適切に活用するとともに，情報社会に主体的に参画する態度を身に付けている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "mathematics",
+          "science"
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "情報と情報技術及びこれらを活用した問題の発見・解決の方法について理解し技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "事象を情報とその結び付きとして捉え，問題の発見・解決に向けて情報と情報技術を適切かつ効果的に活用する力を養う",
+      "learningHumanity": "情報と情報技術を適切に活用するとともに，情報社会に主体的に参画する態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_03.pdf",
+      "officialCode": "文部科学省告示第六十八号",
+      "revision": "平成30年3月30日告示",
+      "category": "upper_secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "special_needs_kindergarten_2024",
+    "title": "特別支援学校幼稚部教育要領（平成29年告示）",
+    "educationStage": "special_needs",
+    "subject": "kindergarten_curriculum",
+    "version": "2024",
+    "publishedDate": "2017-04-01T00:00:00.000Z",
+    "effectiveDate": "2018-04-01T00:00:00.000Z",
+    "units": [
+      {
+        "id": "special_needs_kg_health",
+        "title": "健康",
+        "educationStage": "special_needs",
+        "subject": "kindergarten_curriculum",
+        "grade": ["kindergarten"],
+        "goals": [
+          "明るく伸び伸びと行動し，充実感を味わう",
+          "自分の体を十分に動かし，進んで運動しようとする",
+          "健康，安全な生活に必要な習慣や態度を身に付け，見通しをもって行動する"
+        ],
+        "contents": [
+          {
+            "id": "special_kg_health_basic_habits",
+            "level": "content",
+            "title": "基本的生活習慣の確立",
+            "description": "幼児の障害の状態や特性及び発達の程度等に配慮しながら，健康で安全な生活に必要な基本的習慣や態度を身に付ける",
+            "objectives": [
+              "先生や友達と親しみ，支え合って生活するために必要な習慣や態度を身に付けること",
+              "健康な心と体を育て，自ら健康で安全な生活をつくり出す力を養うこと",
+              "幼児の障害による学習上又は生活上の困難を改善・克服すること"
+            ],
+            "keywords": [
+              "基本的生活習慣",
+              "健康管理",
+              "安全指導",
+              "障害特性",
+              "個別支援"
+            ],
+            "bloomsTaxonomy": [
+              "remember",
+              "understand",
+              "apply"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "健康で安全な生活に必要な習慣や態度を身に付けている",
+              "thinkingJudgingExpressing": "自分の体の変化に気付き，健康について考えている",
+              "learningHumanity": "明るく伸び伸びと行動し，充実感を味わおうとしている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "self_reliance_activities",
+          "human_relations"
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "豊かな体験を通じて，感じたり，気付いたり，分かったり，できるようになったりする",
+      "thinkingJudgingExpressing": "気付いたことや，できるようになったことなどを使い，考えたり，試したり，工夫したり，表現したりする",
+      "learningHumanity": "心情，意欲，態度が育つ中で，よりよい生活を営もうとする"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20200407-mxt_tokubetu01-100002983_1.pdf",
+      "officialCode": "文部科学省告示第七十二号",
+      "revision": "平成29年4月告示",
+      "category": "special_needs_education",
+      "schoolType": "special_needs_school"
+    }
+  },
+  {
+    "id": "special_needs_intellectual_disability_elementary_2024",
+    "title": "特別支援学校小学部・中学部学習指導要領（知的障害者）",
+    "educationStage": "special_needs",
+    "subject": "intellectual_disability_curriculum",
+    "version": "2024",
+    "publishedDate": "2017-04-01T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "units": [
+      {
+        "id": "special_needs_life_unit_learning",
+        "title": "生活単元学習",
+        "educationStage": "special_needs",
+        "subject": "intellectual_disability_curriculum",
+        "grade": ["elementary_1", "elementary_2", "elementary_3", "elementary_4", "elementary_5", "elementary_6"],
+        "goals": [
+          "児童が生活上の目標を達成したり課題を解決したりするために，一連の活動を組織的・体験的に学習することによって，自立し社会参加するための基礎的な資質・能力を育成する"
+        ],
+        "contents": [
+          {
+            "id": "special_life_unit_daily_activities",
+            "level": "content",
+            "title": "日常生活の指導",
+            "description": "児童の日常生活が充実し高まるよう，日常生活の諸活動を適切に指導するもの",
+            "objectives": [
+              "基本的生活習慣の確立を図ること",
+              "望ましい人間関係の育成に努めること",
+              "健康・安全で幸福な生活への意欲を高めること"
+            ],
+            "keywords": [
+              "生活単元学習",
+              "日常生活指導",
+              "実践的学習",
+              "体験学習",
+              "社会参加"
+            ],
+            "bloomsTaxonomy": [
+              "apply",
+              "analyze",
+              "create"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "生活に必要な事柄を実際の場面と結び付けて理解し，技能を身に付けている",
+              "thinkingJudgingExpressing": "身近な生活の課題について考え，工夫して取り組んでいる",
+              "learningHumanity": "よりよい生活の実現に向けて，進んで取り組もうとしている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "self_reliance_activities",
+          "work_learning"
+        ]
+      },
+      {
+        "id": "special_needs_work_learning",
+        "title": "作業学習",
+        "educationStage": "special_needs",
+        "subject": "intellectual_disability_curriculum",
+        "grade": ["elementary_4", "elementary_5", "elementary_6", "junior_high_1", "junior_high_2", "junior_high_3"],
+        "goals": [
+          "作業活動を学習活動の中心にして，児童生徒の働く意欲を培い，将来の職業生活や社会自立に必要な事柄を総合的に学習するもの"
+        ],
+        "contents": [
+          {
+            "id": "special_work_vocational_preparation",
+            "level": "content",
+            "title": "職業準備性の育成",
+            "description": "様々な作業活動を通して，働くことの意義や喜びを理解し，将来の職業生活に必要な基礎的な知識・技能・態度を育てる",
+            "objectives": [
+              "働くことの意義を理解し，意欲や関心をもつこと",
+              "作業に必要な基礎的技能を身に付けること",
+              "協働して作業する態度を身に付けること"
+            ],
+            "keywords": [
+              "作業学習",
+              "職業準備",
+              "働く意欲",
+              "基礎技能",
+              "協働性"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "create"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "作業に関する基礎的な知識・技能を身に付けている",
+              "thinkingJudgingExpressing": "作業の課題を見付け，解決に向けて考え工夫している",
+              "learningHumanity": "進んで作業に取り組み，働くことに意欲をもっている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "self_reliance_activities",
+          "life_unit_learning"
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "知的障害の特性を踏まえ，各教科等の内容を基にして，実際の生活場面での活用を重視した実践的な内容を取り扱う",
+      "thinkingJudgingExpressing": "体験的な活動を通して，思考力，判断力，表現力等を育成する",
+      "learningHumanity": "自立し社会参加するために必要な「生きる力」を培う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20200407-mxt_tokubetu01-100002983_1.pdf", 
+      "officialCode": "文部科学省告示第七十三号",
+      "revision": "平成29年4月告示",
+      "category": "special_needs_education",
+      "schoolType": "special_needs_school"
+    }
+  },
+  {
+    "id": "special_needs_visual_impairment_2024",
+    "title": "特別支援学校学習指導要領（視覚障害者）",
+    "educationStage": "special_needs",
+    "subject": "visual_impairment_curriculum",
+    "version": "2024", 
+    "publishedDate": "2017-04-01T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "units": [
+      {
+        "id": "special_visual_mobility",
+        "title": "歩行",
+        "educationStage": "special_needs",
+        "subject": "visual_impairment_curriculum",
+        "grade": ["elementary_1", "elementary_2", "elementary_3", "elementary_4", "elementary_5", "elementary_6"],
+        "goals": [
+          "歩行に必要な基本的技能を身に付け，安全かつ能率的に歩行できるようにするとともに，歩行への意欲を高める"
+        ],
+        "contents": [
+          {
+            "id": "special_visual_orientation_mobility",
+            "level": "content",
+            "title": "歩行指導",
+            "description": "視覚障害による移動や歩行の困難を改善・克服し，安全で効率的な歩行技能を身に付ける",
+            "objectives": [
+              "基本的な歩行技能を身に付けること",
+              "白杖の適切な使用方法を習得すること",
+              "安全な移動のための環境認知能力を高めること"
+            ],
+            "keywords": [
+              "歩行指導",
+              "白杖",
+              "方向定位",
+              "安全確認",
+              "環境認知"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "analyze"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "歩行に必要な基本的技能と安全に関する知識を身に付けている",
+              "thinkingJudgingExpressing": "歩行環境を適切に判断し，安全な歩行方法を選択している",
+              "learningHumanity": "積極的に歩行に取り組み，移動への意欲を高めている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "self_reliance_activities",
+          "pe_health"
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "視覚障害による学習上又は生活上の困難を改善・克服するために必要な知識，技能，態度及び習慣を身に付ける",
+      "thinkingJudgingExpressing": "障害による困難を主体的に改善・克服し，よりよい生活環境の実現に向けて思考し判断する力を養う",
+      "learningHumanity": "自立し社会参加するために必要な態度や習慣の形成を図り，もって心身の調和的発達の基盤を培う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20200407-mxt_tokubetu01-100002983_1.pdf",
+      "officialCode": "文部科学省告示第七十三号",
+      "revision": "平成29年4月告示",
+      "category": "special_needs_education",
+      "schoolType": "special_needs_school"
+    }
+  },
+  {
+    "id": "special_needs_hearing_impairment_2024",
+    "title": "特別支援学校学習指導要領（聴覚障害者）",
+    "educationStage": "special_needs",
+    "subject": "hearing_impairment_curriculum",
+    "version": "2024",
+    "publishedDate": "2017-04-01T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "units": [
+      {
+        "id": "special_hearing_communication",
+        "title": "言語指導",
+        "educationStage": "special_needs",
+        "subject": "hearing_impairment_curriculum", 
+        "grade": ["elementary_1", "elementary_2", "elementary_3", "elementary_4", "elementary_5", "elementary_6"],
+        "goals": [
+          "聴覚障害による言語発達やコミュニケーションの困難を改善・克服し，豊かな言語活動ができるようにする"
+        ],
+        "contents": [
+          {
+            "id": "special_hearing_language_development",
+            "level": "content",
+            "title": "コミュニケーション手段の活用",
+            "description": "聴覚活用，発音・発語，手話，指文字，文字等を活用し，場に応じた適切なコミュニケーション手段を選択・活用する能力を育てる",
+            "objectives": [
+              "残存聴力を最大限に活用すること",
+              "発音・発語の技能を身に付けること",
+              "手話や指文字等の技能を身に付けること",
+              "場に応じたコミュニケーション手段を選択できること"
+            ],
+            "keywords": [
+              "言語指導",
+              "聴覚活用",
+              "発音指導",
+              "手話",
+              "コミュニケーション"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "analyze"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "聴覚障害に配慮したコミュニケーション手段に関する知識・技能を身に付けている",
+              "thinkingJudgingExpressing": "場面や相手に応じて適切なコミュニケーション手段を選択し，表現している",
+              "learningHumanity": "積極的にコミュニケーションを図ろうとする態度を身に付けている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "self_reliance_activities",
+          "japanese"
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "聴覚障害による学習上又は生活上の困難を改善・克服するために必要な知識，技能，態度及び習慣を身に付ける",
+      "thinkingJudgingExpressing": "聴覚を補う手段やコミュニケーション手段を適切に選択・活用し，思考力・判断力・表現力等を身に付ける",
+      "learningHumanity": "豊かなコミュニケーションを通して，人間関係を形成し，社会参加への意欲を高める"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20200407-mxt_tokubetu01-100002983_1.pdf",
+      "officialCode": "文部科学省告示第七十三号",
+      "revision": "平成29年4月告示",
+      "category": "special_needs_education",
+      "schoolType": "special_needs_school"
+    }
+  },
+  {
+    "id": "special_needs_comprehensive_self_reliance_2024",
+    "title": "特別支援学校学習指導要領 自立活動（包括版）",
+    "educationStage": "special_needs",
+    "subject": "comprehensive_self_reliance_activities",
+    "version": "2024",
+    "publishedDate": "2017-04-01T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "units": [
+      {
+        "id": "special_self_reliance_six_areas",
+        "title": "自立活動の6区分",
+        "educationStage": "special_needs",
+        "subject": "comprehensive_self_reliance_activities",
+        "grade": ["kindergarten", "elementary_1", "elementary_2", "elementary_3", "elementary_4", "elementary_5", "elementary_6", "junior_high_1", "junior_high_2", "junior_high_3", "high_school_1", "high_school_2", "high_school_3"],
+        "goals": [
+          "個々の児童生徒等が自立を目指し，障害による学習上又は生活上の困難を主体的に改善・克服するために必要な知識，技能，態度及び習慣を養い，もって心身の調和的発達の基盤を培う"
+        ],
+        "contents": [
+          {
+            "id": "special_self_health_management",
+            "level": "content",
+            "title": "健康の保持",
+            "description": "生命を維持し，日常生活を行うために必要な健康状態の維持・改善を図る",
+            "objectives": [
+              "生活のリズムや生活習慣の形成に関すること",
+              "病気の状態の理解と生活管理に関すること",
+              "健康状態の維持・改善に関すること"
+            ],
+            "keywords": [
+              "健康保持",
+              "生活リズム",
+              "生活習慣",
+              "病気理解",
+              "健康管理"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "analyze"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "自分の健康状態について理解し，健康保持に必要な技能を身に付けている", 
+              "thinkingJudgingExpressing": "健康状態を適切に判断し，必要な対応を考えている",
+              "learningHumanity": "健康の保持・改善に主体的に取り組もうとしている"
+            }
+          },
+          {
+            "id": "special_self_psychology_stability",
+            "level": "content",
+            "title": "心理的な安定",
+            "description": "情緒の安定を図ることを中心として，障害による学習上又は生活上の困難を改善・克服する意欲の向上，自己肯定感の育成等を図る",
+            "objectives": [
+              "情緒の安定に関すること",
+              "状況の理解と変化への対応に関すること",
+              "障害による学習上又は生活上の困難を改善・克服する意欲に関すること"
+            ],
+            "keywords": [
+              "心理的安定",
+              "情緒安定",
+              "自己肯定感",
+              "意欲向上",
+              "変化対応"
+            ],
+            "bloomsTaxonomy": [
+              "understand",
+              "apply",
+              "evaluate"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "自分の感情や心理状態について理解している",
+              "thinkingJudgingExpressing": "様々な状況を理解し，適切に対応を判断している",
+              "learningHumanity": "困難な状況でも前向きに取り組もうとする意欲をもっている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "japanese",
+          "mathematics",
+          "life_unit_learning",
+          "work_learning"
+        ],
+        "practicalExamples": [
+          {
+            "title": "個別の指導計画に基づく自立活動",
+            "description": "児童生徒一人一人の障害の状態や発達段階等に応じて，個別に指導目標を設定し，系統的な指導を行う",
+            "duration": "週2-3時間",
+            "materials": [
+              "個別の指導計画",
+              "記録シート",
+              "評価表"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "個々の児童生徒等が自立を目指し，障害による学習上又は生活上の困難を主体的に改善・克服するために必要な知識，技能，態度及び習慣を養う",
+      "thinkingJudgingExpressing": "障害の状態，発達や経験の程度，興味・関心，学習スタイル等の個人差を踏まえた指導を行う",
+      "learningHumanity": "心身の調和的発達の基盤を培い，自立と社会参加に向けた主体的な取組を促す"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20200407-mxt_tokubetu01-100002983_1.pdf",
+      "officialCode": "文部科学省告示第七十二号・七十三号・七十四号",
+      "revision": "平成29年4月告示",
+      "category": "special_needs_education",
+      "schoolType": "special_needs_school"
+    }
+  },
+  {
+    "id": "high_school_integrated_inquiry_2024",
+    "title": "高等学校学習指導要領（平成30年告示）総合的な探究の時間",
+    "educationStage": "high_school",
+    "subject": "integrated_inquiry",
+    "version": "2024",
+    "publishedDate": "2018-03-30T00:00:00.000Z",
+    "effectiveDate": "2022-04-01T00:00:00.000Z",
+    "standardUnits": {
+      "integrated_inquiry": "3-6"
+    },
+    "units": [
+      {
+        "id": "hs_integrated_inquiry",
+        "title": "総合的な探究の時間",
+        "educationStage": "high_school",
+        "subject": "integrated_inquiry",
+        "grade": ["high_school_1", "high_school_2", "high_school_3"],
+        "standardUnits": "3-6",
+        "isCompulsory": true,
+        "goals": [
+          "探究の見方・考え方を働かせ，横断的・総合的な学習を行うことを通して，自己の在り方生き方を考えながら，よりよく課題を発見し解決していくための資質・能力を育成する"
+        ],
+        "contents": [
+          {
+            "id": "hs_inquiry_process",
+            "level": "content",
+            "title": "探究のプロセス",
+            "description": "課題の設定，情報の収集，整理・分析，まとめ・表現の探究のプロセスを通して，課題を解決する力を身に付ける",
+            "objectives": [
+              "実社会や実生活の中から問いを見いだし，自分で課題を立てること",
+              "課題の解決に向けて仮説を立てたり，調査して得た情報を整理・分析したりすること",
+              "探究の成果をまとめ，発表・討論などを行うこと"
+            ],
+            "keywords": [
+              "探究",
+              "課題設定",
+              "情報収集",
+              "分析・考察",
+              "表現・発表"
+            ],
+            "bloomsTaxonomy": [
+              "analyze",
+              "create",
+              "evaluate"
+            ],
+            "evaluationCriteria": {
+              "knowledgeSkills": "探究の過程において，課題の発見と解決に必要な知識及び技能を身に付け，課題に関わる概念を形成し，探究の意義や価値を理解している",
+              "thinkingJudgingExpressing": "実社会や実生活の中から問いを見いだし，自分で課題を立て，情報を集め，整理・分析して，まとめ・表現している",
+              "learningHumanity": "探究に主体的・協働的に取り組むとともに，互いのよさを生かしながら，新たな価値を創造し，よりよい社会を実現しようとしている"
+            }
+          }
+        ],
+        "crossCurricularConnections": [
+          "japanese",
+          "geography_history",
+          "civic_studies",
+          "mathematics",
+          "science",
+          "information"
+        ],
+        "practicalExamples": [
+          {
+            "title": "地域の課題解決プロジェクト",
+            "description": "地域の実際の課題を取り上げ，調査・分析を通して解決策を提案し実践する探究活動",
+            "duration": "30時間",
+            "materials": [
+              "調査用紙",
+              "統計資料",
+              "プレゼンテーション機器"
+            ]
+          }
+        ]
+      }
+    ],
+    "overallGoals": {
+      "knowledgeSkills": "探究の過程において，課題の発見と解決に必要な知識及び技能を身に付け，課題に関わる概念を形成し，探究の意義や価値を理解するようにする",
+      "thinkingJudgingExpressing": "実社会や実生活の中から問いを見いだし，自分で課題を立て，情報を集め，整理・分析して，まとめ・表現することができるようにする",
+      "learningHumanity": "探究に主体的・協働的に取り組むとともに，互いのよさを生かしながら，新たな価値を創造し，よりよい社会を実現しようとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_03.pdf",
+      "officialCode": "文部科学省告示第六十八号",
+      "revision": "平成30年3月30日告示",
+      "category": "upper_secondary_education",
+      "schoolType": "regular_school"
+    }
+  }
+]

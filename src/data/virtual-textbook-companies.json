@@ -1,0 +1,206 @@
+[
+  {
+    "id": "sakura_publishing",
+    "name": "さくら出版株式会社",
+    "code": "SAKURA_PUB",
+    "established": "1985-04-01",
+    "headquarters": "東京都文京区さくら町1-1-1",
+    "description": "初等教育に特化した教科書・教材出版社。わかりやすく親しみやすい教材作りを目指している架空の会社。",
+    "specialties": ["小学校教科書", "幼児教育教材", "特別支援教育"],
+    "series": [
+      {
+        "name": "新編さくら国語",
+        "subjects": ["japanese"],
+        "grades": ["elementary_1", "elementary_2", "elementary_3", "elementary_4", "elementary_5", "elementary_6"],
+        "features": ["段階的学習", "豊富なイラスト", "多様な読み物"]
+      },
+      {
+        "name": "さくら生活科",
+        "subjects": ["life_studies"],
+        "grades": ["elementary_1", "elementary_2"],
+        "features": ["体験重視", "地域素材活用", "季節感重視"]
+      }
+    ],
+    "adoptionSchools": 1250,
+    "marketShare": {
+      "elementary_japanese": 15.3,
+      "elementary_life_studies": 22.1
+    },
+    "website": "https://virtual-sakura-publishing.example.com",
+    "contact": {
+      "phone": "03-1234-5678",
+      "email": "info@sakura-publishing.co.jp",
+      "education_support": "support@sakura-publishing.co.jp"
+    }
+  },
+  {
+    "id": "mizuho_education",
+    "name": "みずほ学習出版株式会社",
+    "code": "MIZUHO_EDU",
+    "established": "1978-09-15",
+    "headquarters": "大阪府大阪市中央区みずほ通り2-3-4",
+    "description": "数学・理科教育に強みを持つ架空の教科書出版社。論理的思考力の育成を重視した教材開発で知られる。",
+    "specialties": ["算数・数学", "理科", "情報科学"],
+    "series": [
+      {
+        "name": "新みずほ算数",
+        "subjects": ["arithmetic"],
+        "grades": ["elementary_1", "elementary_2", "elementary_3", "elementary_4", "elementary_5", "elementary_6"],
+        "features": ["問題解決学習", "算数的活動重視", "思考力育成"]
+      },
+      {
+        "name": "みずほ数学",
+        "subjects": ["mathematics"],
+        "grades": ["junior_high_1", "junior_high_2", "junior_high_3"],
+        "features": ["系統的学習", "実生活との関連", "証明重視"]
+      }
+    ],
+    "adoptionSchools": 980,
+    "marketShare": {
+      "elementary_arithmetic": 12.8,
+      "junior_high_mathematics": 18.4
+    },
+    "website": "https://virtual-mizuho-edu.example.com",
+    "contact": {
+      "phone": "06-9876-5432",
+      "email": "info@mizuho-edu.co.jp",
+      "math_support": "math@mizuho-edu.co.jp"
+    }
+  },
+  {
+    "id": "aozora_education",
+    "name": "あおぞら教育出版株式会社",
+    "code": "AOZORA_EDU",
+    "established": "1990-03-20",
+    "headquarters": "愛知県名古屋市東区あおぞら1丁目5-8",
+    "description": "理科・社会科教育に特化した架空の出版社。実験・体験学習を重視し、探究的な学習活動を支援する教材を提供。",
+    "specialties": ["理科", "社会科", "環境教育"],
+    "series": [
+      {
+        "name": "新あおぞら理科",
+        "subjects": ["science"],
+        "grades": ["elementary_3", "elementary_4", "elementary_5", "elementary_6", "junior_high_1", "junior_high_2", "junior_high_3"],
+        "features": ["観察・実験重視", "科学的思考力", "環境教育統合"]
+      },
+      {
+        "name": "あおぞら社会",
+        "subjects": ["social_studies"],
+        "grades": ["elementary_3", "elementary_4", "elementary_5", "elementary_6"],
+        "features": ["地域学習重視", "資料活用", "探究活動"]
+      }
+    ],
+    "adoptionSchools": 756,
+    "marketShare": {
+      "junior_high_science": 18.5,
+      "elementary_social_studies": 14.7
+    },
+    "website": "https://virtual-aozora-edu.example.com",
+    "contact": {
+      "phone": "052-1111-2222",
+      "email": "info@aozora-edu.co.jp",
+      "science_support": "science@aozora-edu.co.jp"
+    }
+  },
+  {
+    "id": "taiyo_education",
+    "name": "たいよう教育株式会社",
+    "code": "TAIYO_EDU",
+    "established": "1982-11-10",
+    "headquarters": "福岡県福岡市博多区たいよう町3-7-2",
+    "description": "外国語教育に特化した架空の教科書出版社。国際理解教育とコミュニケーション能力の育成に力を入れている。",
+    "specialties": ["外国語", "国際理解", "異文化教育"],
+    "series": [
+      {
+        "name": "New Taiyo English",
+        "subjects": ["english"],
+        "grades": ["elementary_5", "elementary_6", "junior_high_1", "junior_high_2", "junior_high_3"],
+        "features": ["コミュニケーション重視", "文化理解", "実践的活動"]
+      },
+      {
+        "name": "たいよう国際理解",
+        "subjects": ["international_understanding"],
+        "grades": ["elementary_3", "elementary_4", "elementary_5", "elementary_6"],
+        "features": ["多文化共生", "SDGs連携", "グローバル視点"]
+      }
+    ],
+    "adoptionSchools": 623,
+    "marketShare": {
+      "junior_high_english": 22.1,
+      "elementary_foreign_language": 19.8
+    },
+    "website": "https://virtual-taiyo-edu.example.com",
+    "contact": {
+      "phone": "092-3333-4444",
+      "email": "info@taiyo-edu.co.jp",
+      "english_support": "english@taiyo-edu.co.jp"
+    }
+  },
+  {
+    "id": "virtual_education_publishing",
+    "name": "バーチャル教育出版株式会社",
+    "code": "VIRTUAL_EDU",
+    "established": "2015-07-01",
+    "headquarters": "東京都渋谷区デジタル1-2-3",
+    "description": "デジタル教材とICT教育に特化した架空の次世代型教科書出版社。AR/VR技術を活用した革新的な学習体験を提供。",
+    "specialties": ["デジタル教材", "ICT教育", "STEAM教育", "プログラミング"],
+    "series": [
+      {
+        "name": "Virtual Science",
+        "subjects": ["chemistry", "physics", "biology"],
+        "grades": ["high_school_1", "high_school_2", "high_school_3"],
+        "features": ["3Dシミュレーション", "VR実験", "インタラクティブ学習"]
+      },
+      {
+        "name": "Digital Programming",
+        "subjects": ["information", "programming"],
+        "grades": ["junior_high_1", "junior_high_2", "junior_high_3", "high_school_1"],
+        "features": ["ハンズオン学習", "プロジェクト型学習", "AI体験"]
+      }
+    ],
+    "adoptionSchools": 289,
+    "marketShare": {
+      "high_school_chemistry": 8.7,
+      "junior_high_information": 15.2
+    },
+    "website": "https://virtual-edu-publishing.example.com",
+    "contact": {
+      "phone": "03-5555-6666",
+      "email": "info@virtual-edu.co.jp",
+      "digital_support": "digital@virtual-edu.co.jp"
+    }
+  },
+  {
+    "id": "midori_publishing",
+    "name": "みどり書房株式会社",
+    "code": "MIDORI_PUB",
+    "established": "1965-02-28",
+    "headquarters": "京都府京都市左京区みどり台4-9-1",
+    "description": "国語・古典を中心とした架空の老舗教科書出版社。日本の伝統文化と現代文学の橋渡しを使命とする。",
+    "specialties": ["国語", "古典", "文学", "日本文化"],
+    "series": [
+      {
+        "name": "新編みどり国語",
+        "subjects": ["japanese"],
+        "grades": ["junior_high_1", "junior_high_2", "junior_high_3", "high_school_1", "high_school_2", "high_school_3"],
+        "features": ["古典重視", "表現力育成", "文学的感性"]
+      },
+      {
+        "name": "みどり書道",
+        "subjects": ["calligraphy"],
+        "grades": ["elementary_3", "elementary_4", "elementary_5", "elementary_6", "junior_high_1"],
+        "features": ["筆使い重視", "美的感覚", "日本文化理解"]
+      }
+    ],
+    "adoptionSchools": 534,
+    "marketShare": {
+      "high_school_japanese": 14.2,
+      "junior_high_japanese": 16.8
+    },
+    "website": "https://virtual-midori-publishing.example.com",
+    "contact": {
+      "phone": "075-7777-8888",
+      "email": "info@midori-pub.co.jp",
+      "japanese_support": "japanese@midori-pub.co.jp"
+    }
+  }
+]

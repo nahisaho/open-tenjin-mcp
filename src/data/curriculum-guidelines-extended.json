@@ -1,0 +1,341 @@
+[
+  {
+    "id": "senior_high_mathematics_2024",
+    "title": "高等学校学習指導要領（平成30年告示）数学",
+    "educationStage": "senior_high",
+    "subject": "mathematics",
+    "version": "2024",
+    "publishedDate": "2018-03-30T00:00:00.000Z",
+    "effectiveDate": "2022-04-01T00:00:00.000Z",
+    "subjects": [
+      {
+        "id": "sh_math_i",
+        "title": "数学Ⅰ",
+        "credits": 3,
+        "category": "required",
+        "description": "数と式，図形と計量，二次関数及びデータの分析について理解させ，基礎的な知識の習得と技能の習熟を図り，事象を数学的に考察する能力を培い，数学のよさを認識できるようにする。"
+      },
+      {
+        "id": "sh_math_ii",
+        "title": "数学Ⅱ",
+        "credits": 4,
+        "category": "elective",
+        "description": "いろいろな式，図形と方程式，指数関数・対数関数，三角関数及び微分・積分の考えについて理解させ，基礎的な知識の習得と技能の習熟を図り，事象を数学的に考察する能力を培う。"
+      },
+      {
+        "id": "sh_math_iii",
+        "title": "数学Ⅲ",
+        "credits": 3,
+        "category": "elective",
+        "description": "平面上の曲線と複素数平面，極限，微分法，積分法について理解させ，知識の習得と技能の習熟を図り，事象を数学的に考察し表現する能力を高める。"
+      },
+      {
+        "id": "sh_math_a",
+        "title": "数学A",
+        "credits": 2,
+        "category": "elective",
+        "description": "図形の性質，場合の数と確率について理解させ，知識の習得と技能の習熟を図り，事象を数学的に考察する能力を培う。"
+      },
+      {
+        "id": "sh_math_b",
+        "title": "数学B",
+        "credits": 2,
+        "category": "elective",
+        "description": "数列，統計的な推測について理解させ，知識の習得と技能の習熟を図り，事象を数学的に考察し表現する能力を高める。"
+      },
+      {
+        "id": "sh_math_c",
+        "title": "数学C",
+        "credits": 2,
+        "category": "elective",
+        "description": "ベクトル，平面上の曲線と複素数平面について理解させ，知識の習得と技能の習熟を図り，事象を数学的に考察し表現する能力を高める。"
+      }
+    ],
+    "units": [
+      {
+        "id": "sh_math_i_quadratic",
+        "title": "二次関数",
+        "educationStage": "senior_high",
+        "subject": "mathematics",
+        "subjectName": "数学Ⅰ",
+        "grade": ["senior_high_1"],
+        "goals": [
+          "二次関数について理解し，二次関数を用いて事象を数学的に考察し表現することができるようにする",
+          "二次関数の値の変化やグラフの特徴について理解する"
+        ],
+        "contents": [
+          {
+            "id": "sh_math_i_quadratic_1",
+            "level": "content",
+            "title": "二次関数のグラフ",
+            "description": "二次関数のグラフの性質を理解し，最大値・最小値を求めることができる",
+            "objectives": [
+              "二次関数のグラフをかくことができること",
+              "二次関数の最大値・最小値を求めることができること",
+              "二次関数を用いて具体的な事象を考察できること"
+            ],
+            "keywords": ["二次関数", "グラフ", "最大値", "最小値", "頂点"],
+            "bloomsTaxonomy": ["understand", "apply", "analyze"],
+            "crossCurricularLinks": ["物理", "情報", "総合的な探究の時間"],
+            "assessmentCriteria": [
+              "二次関数のグラフを正確にかくことができる",
+              "最大値・最小値を求めることができる",
+              "具体的な問題に応用できる"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "二次関数の性質を理解している",
+          "グラフを用いて問題を解決できる"
+        ],
+        "keywords": ["二次関数", "グラフ", "最大値", "最小値"],
+        "practicalExamples": [
+          "放物線運動の軌跡分析",
+          "利益の最大化問題",
+          "建築物の設計における最適化"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "数学における基本的な概念や原理・法則を体系的に理解するとともに，事象を数学化したり，数学的に解釈したり，数学的に表現・処理したりする技能を身に付けるようにする",
+      "数学を活用して事象を論理的に考察する力，事象の本質や他の事象との関係を認識し統合的・発展的に考察する力，数学的な表現を用いて事象を簡潔・明瞭・的確に表現する力を養う",
+      "数学のよさを認識し積極的に数学を活用しようとする態度，粘り強く考え数学的論拠に基づいて判断しようとする態度，問題解決の過程を振り返って考察を深めたり，評価・改善したりしようとする態度や創造性の基礎を養う"
+    ],
+    "overallGoals": [
+      "数学的な見方・考え方を働かせ，数学的活動を通して，数学的に考える資質・能力を育成することを目指す"
+    ],
+    "threePillars": {
+      "knowledgeSkills": "数学における基本的な概念や原理・法則を体系的に理解するとともに，事象を数学化したり，数学的に解釈したり，数学的に表現・処理したりする技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "数学を活用して事象を論理的に考察する力，事象の本質や他の事象との関係を認識し統合的・発展的に考察する力，数学的な表現を用いて事象を簡潔・明瞭・的確に表現する力を養う",
+      "learningHumanity": "数学のよさを認識し積極的に数学を活用しようとする態度，粘り強く考え数学的論拠に基づいて判断しようとする態度，問題解決の過程を振り返って考察を深めたり，評価・改善したりしようとする態度や創造性の基礎を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/content/1384661_6_1_3.pdf",
+      "officialCode": "文部科学省告示第六十八号",
+      "revision": "平成30年3月30日告示",
+      "category": "upper_secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "junior_high_science_2024",
+    "title": "中学校学習指導要領（平成29年告示）理科",
+    "educationStage": "junior_high",
+    "subject": "science",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade1": 105,
+      "grade2": 140,
+      "grade3": 140
+    },
+    "units": [
+      {
+        "id": "jh_science_grade1_physics",
+        "title": "光・音・力",
+        "educationStage": "junior_high",
+        "subject": "science",
+        "grade": ["junior_high_1"],
+        "allocatedHours": 35,
+        "goals": [
+          "光と音の性質，力の働きについて理解すること",
+          "観察，実験などを行い，科学的に探究する能力を身に付けること"
+        ],
+        "contents": [
+          {
+            "id": "jh_science_1_physics_1",
+            "level": "content",
+            "title": "光と音",
+            "description": "光と音の基本的な性質について学習する",
+            "objectives": [
+              "光の直進，反射及び屈折の実験を行い，光の性質を理解すること",
+              "音の性質を調べる実験を行い，音の伝わり方と大小，高低について理解すること"
+            ],
+            "keywords": ["光", "音", "直進", "反射", "屈折", "振動"],
+            "bloomsTaxonomy": ["understand", "apply", "analyze"],
+            "crossCurricularLinks": ["数学", "技術・家庭科"],
+            "assessmentCriteria": [
+              "光の性質について理解している",
+              "音の性質について理解している",
+              "観察・実験の技能を身に付けている"
+            ]
+          },
+          {
+            "id": "jh_science_1_physics_2",
+            "level": "content",
+            "title": "力の働き",
+            "description": "力の基本的な性質と働きについて学習する",
+            "objectives": [
+              "物体に力を加える実験を行い，物体の形や運動の様子が変わることを見いだすこと",
+              "重さと質量の違いを理解すること"
+            ],
+            "keywords": ["力", "重力", "質量", "重さ", "弾性力"],
+            "bloomsTaxonomy": ["understand", "apply", "analyze"],
+            "crossCurricularLinks": ["数学", "保健体育"],
+            "assessmentCriteria": [
+              "力の働きについて理解している",
+              "重さと質量の違いを理解している",
+              "実験結果を適切に考察できる"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "光と音の性質について理解している",
+          "力の働きについて理解している",
+          "観察・実験の技能を身に付けている"
+        ],
+        "keywords": ["物理", "光", "音", "力", "観察", "実験"],
+        "practicalExamples": [
+          "鏡を使った光の反射実験",
+          "オシロスコープによる音の観察",
+          "ばねばかりを使った力の測定"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      },
+      {
+        "id": "jh_science_grade1_biology",
+        "title": "植物の生活と種類",
+        "educationStage": "junior_high",
+        "subject": "science",
+        "grade": ["junior_high_1"],
+        "allocatedHours": 35,
+        "goals": [
+          "植物の体のつくりと働きについて理解すること",
+          "植物の生活と環境との関わりについて理解すること"
+        ],
+        "contents": [
+          {
+            "id": "jh_science_1_biology_1",
+            "level": "content",
+            "title": "植物の体のつくりと働き",
+            "description": "植物の基本的な体のつくりと各部分の働きについて学習する",
+            "objectives": [
+              "花のつくりを観察し，その働きを理解すること",
+              "葉・茎・根の働きを理解すること",
+              "光合成と呼吸について理解すること"
+            ],
+            "keywords": ["植物", "花", "葉", "茎", "根", "光合成", "呼吸"],
+            "bloomsTaxonomy": ["observe", "understand", "analyze"],
+            "crossCurricularLinks": ["国語", "美術"],
+            "assessmentCriteria": [
+              "植物の体のつくりを理解している",
+              "光合成と呼吸について説明できる",
+              "観察技能を身に付けている"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "植物の体のつくりと働きについて理解している",
+          "植物と環境の関わりについて理解している"
+        ],
+        "keywords": ["生物", "植物", "光合成", "呼吸", "観察"],
+        "practicalExamples": [
+          "顕微鏡による葉の断面観察",
+          "光合成の実験（酸素の発生）",
+          "植物の分類と標本作成"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "自然の事物・現象についての理解を深め，科学的に探究するために必要な観察，実験などに関する基本的な技能を身に付けるようにする",
+      "観察，実験などを行い，科学的に探究する力を養う",
+      "自然の事物・現象に進んで関わり，科学的に探究しようとする態度を養う"
+    ],
+    "overallGoals": [
+      "自然の事物・現象に関わり，理科の見方・考え方を働かせ，見通しをもって観察，実験を行うことなどを通して，自然の事物・現象を科学的に探究するために必要な資質・能力を育成することを目指す"
+    ],
+    "threePillars": {
+      "knowledgeSkills": "自然の事物・現象についての理解を深め，科学的に探究するために必要な観察，実験などに関する基本的な技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "観察，実験などを行い，科学的に探究する力を養う",
+      "learningHumanity": "自然の事物・現象に進んで関わり，科学的に探究しようとする態度を養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_4.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示",
+      "category": "secondary_education",
+      "schoolType": "regular_school"
+    }
+  },
+  {
+    "id": "elementary_social_studies_2024",
+    "title": "小学校学習指導要領（平成29年告示）社会",
+    "educationStage": "elementary",
+    "subject": "social_studies",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "totalHours": {
+      "grade3": 70,
+      "grade4": 90,
+      "grade5": 100,
+      "grade6": 105
+    },
+    "units": [
+      {
+        "id": "elem_social_grade3_local",
+        "title": "身近な地域や市の様子",
+        "educationStage": "elementary",
+        "subject": "social_studies",
+        "grade": ["elementary_3"],
+        "allocatedHours": 35,
+        "goals": [
+          "身近な地域や市の地理的環境，人々の生活の変化や地域の発展に尽くした先人の働きについて，学習の問題を追究・解決する活動を通して，次の事項を身に付けることができるよう指導する"
+        ],
+        "contents": [
+          {
+            "id": "elem_social_3_local_1",
+            "level": "content",
+            "title": "身近な地域や市の様子",
+            "description": "自分たちの住んでいる身近な地域や市について調べる活動を通して，地域の様子を理解する",
+            "objectives": [
+              "身近な地域や市の地形や土地利用，交通の様子，公共施設などの配置と特色を理解すること",
+              "地域における社会的事象の特色や相互の関連などについて考える力，問題を解決する力を身に付けること"
+            ],
+            "keywords": ["地域", "地形", "土地利用", "交通", "公共施設"],
+            "bloomsTaxonomy": ["observe", "understand", "analyze"],
+            "crossCurricularLinks": ["国語", "算数", "理科", "総合的な学習の時間"],
+            "assessmentCriteria": [
+              "地域の地理的特色を理解している",
+              "地域の施設や交通について説明できる",
+              "調査活動に主体的に取り組むことができる"
+            ]
+          }
+        ],
+        "evaluationCriteria": [
+          "身近な地域の様子について理解している",
+          "調査活動の技能を身に付けている",
+          "地域社会に関心を持っている"
+        ],
+        "keywords": ["地域学習", "地理", "調査活動", "公共施設"],
+        "practicalExamples": [
+          "学校周辺の地図作成",
+          "市役所・図書館等の施設見学",
+          "地域の人へのインタビュー活動"
+        ],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "社会的な見方・考え方を働かせ，課題を追究したり解決したりする活動を通して，グローバル化する国際社会に主体的に生きる平和で民主的な国家及び社会の形成者に必要な公民としての資質・能力の基礎を育成することを目指す"
+    ],
+    "overallGoals": [
+      "地域や我が国の国土の地理的環境，現代社会の仕組みや働き，地域や我が国の歴史や伝統と文化を通して社会生活について理解するとともに，様々な資料や調査活動を通して情報を適切に調べまとめる技能を身に付けるようにする"
+    ],
+    "threePillars": {
+      "knowledgeSkills": "地域や我が国の国土の地理的環境，現代社会の仕組みや働き，地域や我が国の歴史や伝統と文化を通して社会生活について理解するとともに，様々な資料や調査活動を通して情報を適切に調べまとめる技能を身に付けるようにする",
+      "thinkingJudgingExpressing": "社会的事象の特色や相互の関連，意味を多角的に考える力，社会に見られる課題を把握して，その解決に向けて社会への関わり方を選択・判断する力，考えたことや選択・判断したことを適切に表現する力を養う",
+      "learningHumanity": "社会的事象について，よりよい社会を考え学習したことを社会生活に生かそうとする態度を養うとともに，多角的な思考や理解を通して，地域社会に対する誇りと愛情，地域社会の一員としての自覚，我が国の国土と歴史に対する愛情，我が国の将来を担う国民としての自覚，世界の国々の人々と共に生きていくことの大切さについての自覚などを養う"
+    },
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示",
+      "category": "primary_education",
+      "schoolType": "regular_school"
+    }
+  }
+]

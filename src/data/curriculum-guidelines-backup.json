@@ -1,0 +1,202 @@
+[
+  {
+    "id": "elementary_math_2024",
+    "title": "小学校学習指導要領（平成29年告示）算数",
+    "educationStage": "elementary",
+    "subject": "arithmetic",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2020-04-01T00:00:00.000Z",
+    "units": [
+      {
+        "id": "elem_math_grade1_numbers",
+        "title": "数と計算",
+        "educationStage": "elementary",
+        "subject": "arithmetic",
+        "grade": ["elementary_1"],
+        "allocatedHours": 114,
+        "goals": [
+          "数の概念とその表し方について理解すること",
+          "加法及び減法の意味について理解し，それらを用いることができること"
+        ],
+        "contents": [
+          {
+            "id": "elem_math_1_numbers_1",
+            "level": "content",
+            "title": "ものの個数を数えたり，順番を表したりすることについて理解し，数の概念の基礎を身に付ける",
+            "description": "身の回りのものを数えることを通して，数の概念を理解する",
+            "objectives": [
+              "ものの個数を，一つ，二つなどと数えること",
+              "10までの数について，個数や順番を正しく数えたり表したりすること",
+              "一つの数をほかの数の和や差として表すこと"
+            ],
+            "keywords": ["数", "個数", "順序", "10までの数"],
+            "bloomsTaxonomy": ["remember", "understand"]
+          },
+          {
+            "id": "elem_math_1_numbers_2",
+            "level": "content",
+            "title": "一位数の加法及びその逆の減法について理解し，確実にできるようにする",
+            "description": "具体物を用いて加法・減法の意味を理解し，計算ができるようになる",
+            "objectives": [
+              "加法及び減法の意味について理解すること",
+              "一位数の加法及び減法の計算が確実にできること"
+            ],
+            "keywords": ["加法", "減法", "一位数", "計算"],
+            "bloomsTaxonomy": ["understand", "apply"]
+          }
+        ],
+        "evaluationCriteria": [
+          "数の概念について理解している",
+          "加法・減法の意味を理解し，計算ができる"
+        ],
+        "keywords": ["数と計算", "10までの数", "加法", "減法"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      },
+      {
+        "id": "elem_math_grade2_numbers",
+        "title": "数と計算",
+        "educationStage": "elementary",
+        "subject": "arithmetic",
+        "grade": ["elementary_2"],
+        "allocatedHours": 155,
+        "goals": [
+          "数の概念についての理解を深め，数を用いる能力を伸ばすこと",
+          "加法及び減法についての理解を深め，それらを用いる能力を高めること",
+          "乗法の意味について理解し，それを用いることができること"
+        ],
+        "contents": [
+          {
+            "id": "elem_math_2_numbers_1",
+            "level": "content",
+            "title": "100までの数について理解し，数を用いる能力を身に付ける",
+            "description": "100までの数の概念と表し方について学習する",
+            "objectives": [
+              "100までの数について，その表し方を理解すること",
+              "数の相対的な大きさを理解すること",
+              "簡単な場合について，数の系列を理解すること"
+            ],
+            "keywords": ["100までの数", "位取り", "大小比較"],
+            "bloomsTaxonomy": ["remember", "understand"]
+          },
+          {
+            "id": "elem_math_2_numbers_2",
+            "level": "content",
+            "title": "二位数の加法及び減法について理解し，それらの計算ができるようにする",
+            "description": "二位数の加法・減法の計算方法を理解し，習得する",
+            "objectives": [
+              "二位数の加法及び減法の計算の仕方を理解すること",
+              "簡単な場合について，算数的活動を通して加法及び減法の計算の仕方を考えること"
+            ],
+            "keywords": ["二位数", "筆算", "繰り上がり", "繰り下がり"],
+            "bloomsTaxonomy": ["understand", "apply"]
+          },
+          {
+            "id": "elem_math_2_numbers_3",
+            "level": "content",
+            "title": "乗法の意味について理解し，その計算ができるようにする",
+            "description": "乗法の意味を理解し，九九を覚える",
+            "objectives": [
+              "乗法の意味について理解すること",
+              "乗法が用いられる場合について知ること",
+              "乗法九九について理解し，確実に唱えることができること"
+            ],
+            "keywords": ["乗法", "九九", "かけ算"],
+            "bloomsTaxonomy": ["understand", "remember", "apply"]
+          }
+        ],
+        "evaluationCriteria": [
+          "100までの数について理解している",
+          "二位数の加法・減法の計算ができる",
+          "乗法の意味を理解し，九九を覚えている"
+        ],
+        "keywords": ["数と計算", "100までの数", "二位数", "乗法", "九九"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "数量や図形などについての基礎的・基本的な知識及び技能を身に付けるようにする",
+      "日常の事象を数理的に処理する技能を身に付けるようにする",
+      "数学的な見方・考え方を働かせ，論理的に考える力を身に付けるようにする"
+    ],
+    "overallGoals": [
+      "数学的活動を通して，数量や図形などについての感覚を豊かにする",
+      "表現する力，考える力などを育てる",
+      "算数の学習に主体的に取り組む態度を育てる"
+    ],
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_3_1.pdf",
+      "officialCode": "文部科学省告示第六十三号",
+      "revision": "平成29年3月31日告示"
+    }
+  },
+  {
+    "id": "junior_high_science_2024",
+    "title": "中学校学習指導要領（平成29年告示）理科",
+    "educationStage": "junior_high",
+    "subject": "science",
+    "version": "2024",
+    "publishedDate": "2017-03-31T00:00:00.000Z",
+    "effectiveDate": "2021-04-01T00:00:00.000Z",
+    "units": [
+      {
+        "id": "jh_science_grade1_physics",
+        "title": "光・音・力",
+        "educationStage": "junior_high",
+        "subject": "science",
+        "grade": ["junior_high_1"],
+        "allocatedHours": 35,
+        "goals": [
+          "光と音の性質，力の働きについて理解すること",
+          "観察，実験などを行い，科学的に探究する能力を身に付けること"
+        ],
+        "contents": [
+          {
+            "id": "jh_science_1_physics_1",
+            "level": "content",
+            "title": "光と音",
+            "description": "光と音の基本的な性質について学習する",
+            "objectives": [
+              "光の直進，反射及び屈折の実験を行い，光の性質を理解すること",
+              "音の性質を調べる実験を行い，音の伝わり方と大小，高低について理解すること"
+            ],
+            "keywords": ["光", "音", "直進", "反射", "屈折", "振動"],
+            "bloomsTaxonomy": ["understand", "apply", "analyze"]
+          },
+          {
+            "id": "jh_science_1_physics_2",
+            "level": "content",
+            "title": "力の働き",
+            "description": "力の基本的な性質と働きについて学習する",
+            "objectives": [
+              "物体に力を加える実験を行い，物体の形や運動の様子が変わることを見いだすこと",
+              "重さと質量の違いを理解すること"
+            ],
+            "keywords": ["力", "重力", "質量", "重さ", "弾性力"],
+            "bloomsTaxonomy": ["understand", "apply", "analyze"]
+          }
+        ],
+        "evaluationCriteria": [
+          "光と音の性質について理解している",
+          "力の働きについて理解している",
+          "観察・実験の技能を身に付けている"
+        ],
+        "keywords": ["物理", "光", "音", "力", "観察", "実験"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+      }
+    ],
+    "generalObjectives": [
+      "自然の事物・現象についての理解を深め，科学的に探究するために必要な観察，実験などに関する基本的な技能を身に付けるようにする",
+      "観察，実験などを行い，科学的に探究する力を養う",
+      "自然の事物・現象に進んで関わり，科学的に探究しようとする態度を養う"
+    ],
+    "overallGoals": [
+      "自然の事物・現象に関わり，理科の見方・考え方を働かせ，見通しをもって観察，実験を行うことなどを通して，自然の事物・現象を科学的に探究するために必要な資質・能力を育成することを目指す"
+    ],
+    "metadata": {
+      "documentUrl": "https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/03/18/1387017_4.pdf",
+      "officialCode": "文部科学省告示第六十四号",
+      "revision": "平成29年3月31日告示"
+    }
+  }
+]

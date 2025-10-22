@@ -1,0 +1,2719 @@
+[
+  {
+    "id": "sakura_elementary_japanese_1_2024",
+    "title": "さくら教科書 小学国語1年「ひらがなの世界」",
+    "description": "架空の教科書会社「さくら出版」による小学1年生国語教科書。ひらがなの読み書きから簡単な文章まで段階的に学習できる構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson"],
+    "difficulty": "basic",
+    "educationStage": "elementary",
+    "subject": "japanese",
+    "targetGrades": ["elementary_1"],
+    "keywords": ["ひらがな", "読み書き", "文字", "文章", "基礎"],
+    "objectives": [
+      "ひらがなを正しく読むことができる",
+      "ひらがなを正しく書くことができる",
+      "簡単な文章を読むことができる",
+      "自分の気持ちを文字で表現できる"
+    ],
+    "curriculumMapping": ["elementary_japanese_2024"],
+    "textbookCompany": {
+      "name": "さくら出版株式会社",
+      "code": "SAKURA_PUB",
+      "series": "新編さくら国語",
+      "isbn": "978-4-123456-001-0",
+      "approvalNumber": "令6-文科-001"
+    },
+    "estimatedTime": 45,
+    "chapters": [
+      {
+        "id": "ch1",
+        "title": "ひらがなのなかまたち",
+        "pages": "p.6-25",
+        "objectives": ["50音の読み方を覚える", "文字の形を理解する"]
+      },
+      {
+        "id": "ch2", 
+        "title": "ことばであそぼう",
+        "pages": "p.26-45",
+        "objectives": ["単語の音の数を意識する", "リズムのある言葉を楽しむ"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "teacher_guide",
+        "name": "指導書",
+        "type": "book",
+        "description": "教師用指導書（架空）",
+        "pages": 180
+      },
+      {
+        "id": "workbook",
+        "name": "練習帳",
+        "type": "workbook", 
+        "description": "児童用練習帳（架空）",
+        "pages": 64
+      }
+    ],
+    "creator": {
+      "name": "さくら出版編集部",
+      "organization": "さくら出版株式会社",
+      "contact": "textbook@sakura-publishing.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "国語", "1年生", "基礎学習"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 15.3
+  },
+  {
+    "id": "mizuho_math_elementary_2_2024",
+    "title": "みずほ算数 小学2年「かけ算マスター」",
+    "description": "架空の教科書会社「みずほ学習出版」による小学2年生算数教科書。九九を中心としたかけ算の概念理解に重点を置いた構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson"],
+    "difficulty": "standard",
+    "educationStage": "elementary",
+    "subject": "arithmetic",
+    "targetGrades": ["elementary_2"],
+    "keywords": ["かけ算", "九九", "倍", "計算", "問題解決"],
+    "objectives": [
+      "かけ算の意味を理解する",
+      "九九を正確に覚える",
+      "かけ算を使って問題を解決できる",
+      "数量の関係を考える力を養う"
+    ],
+    "curriculumMapping": ["elementary_mathematics_2024"],
+    "textbookCompany": {
+      "name": "みずほ学習出版株式会社",
+      "code": "MIZUHO_EDU",
+      "series": "新みずほ算数",
+      "isbn": "978-4-234567-012-1",
+      "approvalNumber": "令6-文科-012"
+    },
+    "estimatedTime": 45,
+    "chapters": [
+      {
+        "id": "ch1",
+        "title": "かけ算って何だろう",
+        "pages": "p.10-28",
+        "objectives": ["かけ算の概念を理解する", "同じ数ずつ増える場面を見つける"]
+      },
+      {
+        "id": "ch2",
+        "title": "九九をおぼえよう",
+        "pages": "p.29-55",
+        "objectives": ["2の段から9の段まで覚える", "九九の規則性を発見する"]
+      },
+      {
+        "id": "ch3",
+        "title": "かけ算でもんだいかいけつ",
+        "pages": "p.56-78",
+        "objectives": ["文章題をかけ算で解く", "図や表を使って考える"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "calculation_cards",
+        "name": "九九カード",
+        "type": "cards",
+        "description": "暗記用九九カード（架空）",
+        "quantity": 81
+      },
+      {
+        "id": "practice_book",
+        "name": "計算練習帳",
+        "type": "workbook",
+        "description": "反復練習用問題集（架空）",
+        "pages": 48
+      }
+    ],
+    "creator": {
+      "name": "みずほ学習出版算数編集チーム",
+      "organization": "みずほ学習出版株式会社",
+      "contact": "math@mizuho-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "算数", "2年生", "かけ算", "九九"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 12.8
+  },
+  {
+    "id": "aozora_science_junior_1_2024",
+    "title": "あおぞら理科 中学1年「自然の探究」",
+    "description": "架空の教科書会社「あおぞら教育出版」による中学1年生理科教科書。観察・実験を重視し、科学的思考力を育成する構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "experiment"],
+    "difficulty": "standard",
+    "educationStage": "junior_high",
+    "subject": "science",
+    "targetGrades": ["junior_high_1"],
+    "keywords": ["植物", "動物", "光", "音", "力", "実験", "観察"],
+    "objectives": [
+      "自然現象への興味・関心を高める",
+      "科学的な見方・考え方を身に付ける",
+      "観察・実験の技能を習得する",
+      "科学的に探究する態度を養う"
+    ],
+    "curriculumMapping": ["junior_high_science_2024"],
+    "textbookCompany": {
+      "name": "あおぞら教育出版株式会社",
+      "code": "AOZORA_EDU",
+      "series": "新あおぞら理科",
+      "isbn": "978-4-345678-023-2",
+      "approvalNumber": "令6-文科-023"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "ch1",
+        "title": "植物の世界",
+        "pages": "p.12-45",
+        "objectives": ["植物の体のつくりを理解する", "植物の分類方法を学ぶ"],
+        "experiments": ["花のつくりの観察", "葉の断面観察"]
+      },
+      {
+        "id": "ch2",
+        "title": "動物の世界", 
+        "pages": "p.46-78",
+        "objectives": ["動物の分類を理解する", "生物の多様性を認識する"],
+        "experiments": ["プランクトンの観察", "魚の解剖"]
+      },
+      {
+        "id": "ch3",
+        "title": "光と音",
+        "pages": "p.79-112",
+        "objectives": ["光の性質を理解する", "音の性質を理解する"],
+        "experiments": ["光の屈折実験", "音の伝わり方実験"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "experiment_kit",
+        "name": "実験器具セット",
+        "type": "equipment",
+        "description": "基本実験用器具一式（架空）"
+      },
+      {
+        "id": "observation_notebook",
+        "name": "観察記録ノート",
+        "type": "notebook",
+        "description": "実験・観察記録用ノート（架空）",
+        "pages": 96
+      }
+    ],
+    "creator": {
+      "name": "あおぞら教育出版理科編集部",
+      "organization": "あおぞら教育出版株式会社",
+      "contact": "science@aozora-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "理科", "中学1年", "実験", "観察"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 18.5
+  },
+  {
+    "id": "counting_worksheet_1",
+    "title": "10までの数の数え方ワークシート",
+    "description": "小学1年生向けの数を数える練習用ワークシート。具体物の絵を見て数を数え、数字を書く練習ができます。",
+    "type": "worksheet",
+    "usageContext": ["practice", "homework"],
+    "difficulty": "basic",
+    "educationStage": "elementary",
+    "subject": "arithmetic",
+    "targetGrades": ["elementary_1"],
+    "keywords": ["数", "数え方", "10までの数", "練習", "ワークシート"],
+    "objectives": [
+      "1から10までの数を正確に数えることができる",
+      "数字を正しく書くことができる",
+      "ものの個数と数字を対応させることができる"
+    ],
+    "curriculumMapping": ["elem_math_1_numbers_1"],
+    "textbookMapping": ["mizuho_math_elementary_1_2024"],
+    "estimatedTime": 20,
+    "prerequisiteKnowledge": ["基本的な文字の読み書き"],
+    "resources": [
+      {
+        "id": "worksheet_pdf",
+        "name": "数え方ワークシート.pdf",
+        "type": "file",
+        "url": "https://virtual-edu-materials.example.com/counting_worksheet_1.pdf",
+        "mimeType": "application/pdf",
+        "size": 1024000,
+        "description": "印刷用PDFファイル"
+      },
+      {
+        "id": "answer_sheet",
+        "name": "解答例.pdf",
+        "type": "file",
+        "url": "https://virtual-edu-materials.example.com/counting_worksheet_1_answer.pdf",
+        "mimeType": "application/pdf",
+        "size": 512000,
+        "description": "教師用解答例"
+      }
+    ],
+    "instructions": "1. 児童に絵を見て数を数えさせる\n2. 数字を正しく書かせる\n3. 答え合わせをして理解度を確認する",
+    "creator": {
+      "name": "バーチャル教材開発研究会",
+      "organization": "オープン教育リソースセンター",
+      "contact": "materials@virtual-edu-center.org"
+    },
+    "license": "CC BY-SA 4.0",
+    "tags": ["小学算数", "基礎", "数の概念", "練習問題"],
+    "createdDate": "2024-01-15T00:00:00.000Z",
+    "lastUpdated": "2024-01-15T00:00:00.000Z",
+    "downloads": 1250,
+    "rating": {
+      "average": 4.3,
+      "count": 87
+    }
+  },
+  {
+    "id": "taiyo_english_junior_2_2024", 
+    "title": "たいよう英語 中学2年「English Communication Plus」",
+    "description": "架空の教科書会社「たいよう教育」による中学2年生英語教科書。コミュニケーション重視の実践的な英語学習教材。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "speaking_practice"],
+    "difficulty": "standard",
+    "educationStage": "junior_high",
+    "subject": "english",
+    "targetGrades": ["junior_high_2"],
+    "keywords": ["英語", "コミュニケーション", "文法", "語彙", "会話"],
+    "objectives": [
+      "基本的な英語表現を理解し使用できる",
+      "簡単な会話ができる",
+      "中学2年レベルの文法を習得する",
+      "英語でのコミュニケーションに積極的に取り組む"
+    ],
+    "curriculumMapping": ["junior_high_english_2024"],
+    "textbookCompany": {
+      "name": "たいよう教育株式会社",
+      "code": "TAIYO_EDU",
+      "series": "New Taiyo English",
+      "isbn": "978-4-456789-034-3",
+      "approvalNumber": "令6-文科-034"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "lesson1",
+        "title": "My School Life",
+        "pages": "p.14-28",
+        "objectives": ["学校生活について話す", "現在完了形を理解する"],
+        "vocabulary": ["subjects", "activities", "experience"]
+      },
+      {
+        "id": "lesson2", 
+        "title": "Our Town",
+        "pages": "p.29-43",
+        "objectives": ["地域について説明する", "比較表現を使う"],
+        "vocabulary": ["buildings", "transportation", "directions"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "audio_cd",
+        "name": "音声教材CD",
+        "type": "audio",
+        "description": "リスニング・発音練習用音声（架空）"
+      },
+      {
+        "id": "workbook",
+        "name": "ワークブック",
+        "type": "workbook",
+        "description": "文法・語彙練習帳（架空）",
+        "pages": 88
+      }
+    ],
+    "creator": {
+      "name": "たいよう教育英語編集部",
+      "organization": "たいよう教育株式会社",
+      "contact": "english@taiyo-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "英語", "中学2年", "コミュニケーション"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 22.1
+  },
+  {
+    "id": "virtual_chemistry_high_1_2024",
+    "title": "バーチャル化学 高校1年「化学基礎探究」",
+    "description": "架空の教科書会社「バーチャル教育出版」による高校1年生化学基礎教科書。実験とデジタル教材を組み合わせた新しいタイプの教科書。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "digital_learning"],
+    "difficulty": "advanced",
+    "educationStage": "high_school",
+    "subject": "chemistry",
+    "targetGrades": ["high_school_1"],
+    "keywords": ["化学", "原子", "分子", "化学反応", "実験", "デジタル"],
+    "objectives": [
+      "原子・分子の概念を理解する",
+      "化学反応の基本法則を理解する",
+      "実験を通して化学現象を探究する",
+      "化学の日常生活への応用を認識する"
+    ],
+    "curriculumMapping": ["high_school_chemistry_2024"],
+    "textbookCompany": {
+      "name": "バーチャル教育出版株式会社",
+      "code": "VIRTUAL_EDU",
+      "series": "Virtual Science",
+      "isbn": "978-4-567890-045-4", 
+      "approvalNumber": "令6-文科-045"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "ch1",
+        "title": "物質の構成",
+        "pages": "p.16-48",
+        "objectives": ["原子の構造を理解する", "元素の性質を学ぶ"],
+        "digitalContent": ["3D原子モデル", "周期表インタラクティブ"]
+      },
+      {
+        "id": "ch2",
+        "title": "化学結合",
+        "pages": "p.49-82",
+        "objectives": ["イオン結合を理解する", "共有結合を理解する"],
+        "digitalContent": ["結合シミュレーター", "分子構造ビューアー"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "digital_platform",
+        "name": "デジタル学習プラットフォーム",
+        "type": "digital",
+        "description": "AR/VR対応実験シミュレーター（架空）"
+      },
+      {
+        "id": "lab_manual",
+        "name": "実験手順書",
+        "type": "manual",
+        "description": "安全な実験のための詳細手順（架空）",
+        "pages": 120
+      }
+    ],
+    "creator": {
+      "name": "バーチャル教育出版化学編集チーム",
+      "organization": "バーチャル教育出版株式会社",
+      "contact": "chemistry@virtual-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "化学", "高校1年", "デジタル教材", "実験"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 8.7
+  },
+  {
+    "id": "multiplication_game_2",
+    "title": "九九マスターゲーム",
+    "description": "小学2年生向けの九九を楽しく覚えるためのインタラクティブゲーム。ランダムに出題される九九問題に答えて得点を競います。",
+    "type": "game",
+    "usageContext": ["practice", "review", "enrichment"],
+    "difficulty": "standard",
+    "educationStage": "elementary",
+    "subject": "arithmetic",
+    "targetGrades": ["elementary_2"],
+    "keywords": ["九九", "かけ算", "ゲーム", "インタラクティブ", "暗記"],
+    "objectives": [
+      "九九を正確に覚えることができる",
+      "素早く九九の答えを言うことができる",
+      "算数学習への興味・関心を高める"
+    ],
+    "curriculumMapping": ["elem_math_2_numbers_3"],
+    "textbookMapping": ["mizuho_math_elementary_2_2024"],
+    "estimatedTime": 15,
+    "prerequisiteKnowledge": ["基本的な数の概念", "一位数の加法"],
+    "resources": [
+      {
+        "id": "game_html",
+        "name": "九九ゲーム",
+        "type": "url",
+        "url": "https://virtual-edu-games.example.com/multiplication-master",
+        "description": "ブラウザで動作するインタラクティブゲーム"
+      },
+      {
+        "id": "instruction_guide",
+        "name": "使用方法ガイド.pdf",
+        "type": "file",
+        "url": "https://virtual-edu-materials.example.com/multiplication_game_guide.pdf",
+        "mimeType": "application/pdf",
+        "size": 768000,
+        "description": "教師・保護者向け使用方法ガイド"
+      }
+    ],
+    "instructions": "1. 児童にゲームのルールを説明\n2. 個人またはグループでゲームに取り組ませる\n3. 結果を記録して習熟度を確認\n4. 苦手な段については別途練習を行う",
+    "creator": {
+      "name": "バーチャル・エデュテック開発チーム",
+      "organization": "オープン教育テクノロジー研究所",
+      "contact": "digital@virtual-edutech.org"
+    },
+    "license": "CC BY-NC 4.0",
+    "tags": ["デジタル教材", "ゲーム学習", "九九", "反復練習"],
+    "createdDate": "2024-02-01T00:00:00.000Z",
+    "lastUpdated": "2024-02-15T00:00:00.000Z",
+    "downloads": 890,
+    "rating": {
+      "average": 4.6,
+      "count": 142
+    }
+  },
+  {
+    "id": "light_experiment_video",
+    "title": "光の性質実験動画シリーズ",
+    "description": "中学1年理科「光と音」単元で使用する実験動画。光の直進、反射、屈折の実験を詳しく解説します。",
+    "type": "video",
+    "usageContext": ["introduction", "explanation"],
+    "difficulty": "standard",
+    "educationStage": "junior_high",
+    "subject": "science",
+    "targetGrades": ["junior_high_1"],
+    "keywords": ["光", "実験", "直進", "反射", "屈折", "物理"],
+    "objectives": [
+      "光の直進性について理解する",
+      "光の反射の法則を理解する",
+      "光の屈折現象を理解する",
+      "実験の手順と注意点を学ぶ"
+    ],
+    "curriculumMapping": ["jh_science_1_physics_1"],
+    "textbookMapping": ["aozora_science_junior_1_2024"],
+    "estimatedTime": 25,
+    "prerequisiteKnowledge": ["基本的な測定器具の使い方"],
+    "resources": [
+      {
+        "id": "experiment_video1",
+        "name": "光の直進実験.mp4",
+        "type": "url",
+        "url": "https://virtual-science-videos.example.com/light_straight.mp4",
+        "mimeType": "video/mp4",
+        "description": "光の直進性を確認する実験動画（5分）"
+      },
+      {
+        "id": "experiment_video2",
+        "name": "光の反射実験.mp4",
+        "type": "url",
+        "url": "https://virtual-science-videos.example.com/light_reflection.mp4",
+        "mimeType": "video/mp4",
+        "description": "光の反射の法則を確認する実験動画（8分）"
+      },
+      {
+        "id": "experiment_video3",
+        "name": "光の屈折実験.mp4",
+        "type": "url",
+        "url": "https://virtual-science-videos.example.com/light_refraction.mp4",
+        "mimeType": "video/mp4",
+        "description": "光の屈折現象を観察する実験動画（7分）"
+      },
+      {
+        "id": "worksheet",
+        "name": "実験観察シート.pdf",
+        "type": "file",
+        "url": "https://virtual-edu-materials.example.com/light_experiment_worksheet.pdf",
+        "mimeType": "application/pdf",
+        "size": 856000,
+        "description": "実験結果記録用ワークシート"
+      }
+    ],
+    "instructions": "1. 実験前に安全上の注意を説明\n2. 動画を見ながら実験の手順を確認\n3. 実際に実験を行わせる\n4. 観察結果をワークシートに記録\n5. 結果について考察・発表",
+    "creator": {
+      "name": "バーチャル理科教育研究会",
+      "organization": "オープン科学教育推進協会",
+      "contact": "experiment@virtual-science-edu.org"
+    },
+    "license": "CC BY 4.0",
+    "tags": ["理科実験", "動画教材", "光学", "物理実験"],
+    "createdDate": "2024-03-10T00:00:00.000Z",
+    "lastUpdated": "2024-03-10T00:00:00.000Z",
+    "downloads": 456,
+    "rating": {
+      "average": 4.8,
+      "count": 73
+    }
+  },
+  {
+    "id": "midori_japanese_high_1_2024",
+    "title": "みどり国語 高校1年「現代文読解」",
+    "description": "架空の教科書会社「みどり書房」による高校1年生現代文教科書。論理的読解力と表現力を重視した構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "reading_comprehension"],
+    "difficulty": "advanced",
+    "educationStage": "high_school",
+    "subject": "japanese",
+    "targetGrades": ["high_school_1"],
+    "keywords": ["現代文", "読解", "論理", "表現", "文学"],
+    "objectives": [
+      "論理的な文章を正確に読解できる",
+      "文章の構成や論理展開を理解する",
+      "自分の考えを論理的に表現できる",
+      "多様な文章に触れ教養を深める"
+    ],
+    "curriculumMapping": ["high_school_japanese_2024"],
+    "textbookCompany": {
+      "name": "みどり書房株式会社",
+      "code": "MIDORI_PUB",
+      "series": "新編みどり国語",
+      "isbn": "978-4-678901-056-5",
+      "approvalNumber": "令6-文科-056"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "unit1",
+        "title": "論理的な文章の読み方",
+        "pages": "p.18-52",
+        "objectives": ["論証の構造を理解する", "要約の技法を身に付ける"],
+        "texts": ["科学技術と社会", "環境問題を考える"]
+      },
+      {
+        "id": "unit2",
+        "title": "文学的な文章の味わい",
+        "pages": "p.53-88",
+        "objectives": ["表現の効果を理解する", "作品の背景を考察する"],
+        "texts": ["近代小説抄", "現代詩選"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "supplementary_reader",
+        "name": "読解演習問題集",
+        "type": "workbook",
+        "description": "読解力向上のための練習問題（架空）",
+        "pages": 156
+      }
+    ],
+    "creator": {
+      "name": "みどり書房国語編集部",
+      "organization": "みどり書房株式会社",
+      "contact": "japanese@midori-pub.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "国語", "高校1年", "現代文", "読解"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 14.2
+  },
+  {
+    "id": "sakura_elementary_science_3_2024",
+    "title": "さくら理科 小学3年「自然の観察」",
+    "description": "架空の教科書会社「さくら出版」による小学3年生理科教科書。身近な自然の観察から科学的な見方・考え方を育成する構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "observation"],
+    "difficulty": "basic",
+    "educationStage": "elementary",
+    "subject": "science",
+    "targetGrades": ["elementary_3"],
+    "keywords": ["理科", "観察", "自然", "生物", "実験"],
+    "objectives": [
+      "身近な自然に興味・関心をもつ",
+      "観察の技能を身に付ける",
+      "自然の事物・現象の特徴を理解する",
+      "科学的な見方・考え方の基礎を養う"
+    ],
+    "curriculumMapping": ["elementary_science_2024"],
+    "textbookCompany": {
+      "name": "さくら出版株式会社",
+      "code": "SAKURA_PUB",
+      "series": "新編さくら理科",
+      "isbn": "978-4-123456-003-4",
+      "approvalNumber": "令6-文科-003"
+    },
+    "estimatedTime": 45,
+    "chapters": [
+      {
+        "id": "ch1",
+        "title": "植物を育てよう",
+        "pages": "p.8-28",
+        "objectives": ["植物の成長を観察する", "植物の体のつくりを理解する"]
+      },
+      {
+        "id": "ch2",
+        "title": "昆虫を調べよう",
+        "pages": "p.29-48",
+        "objectives": ["昆虫の体のつくりを観察する", "昆虫の成長を理解する"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "observation_kit",
+        "name": "観察用具セット",
+        "type": "equipment",
+        "description": "虫眼鏡・ルーペ等の観察器具（架空）"
+      }
+    ],
+    "creator": {
+      "name": "さくら出版理科編集部",
+      "organization": "さくら出版株式会社",
+      "contact": "science@sakura-publishing.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "理科", "小学3年", "観察", "自然"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 16.8
+  },
+  {
+    "id": "mizuho_elementary_social_4_2024",
+    "title": "みずほ社会 小学4年「わたしたちの県」",
+    "description": "架空の教科書会社「みずほ学習出版」による小学4年生社会科教科書。地域学習を通して社会認識を深める構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "fieldwork"],
+    "difficulty": "standard",
+    "educationStage": "elementary",
+    "subject": "social_studies",
+    "targetGrades": ["elementary_4"],
+    "keywords": ["社会", "地域", "県", "産業", "文化"],
+    "objectives": [
+      "地域の特色を理解する",
+      "産業の様子を調べる力を身に付ける",
+      "地域の人々の生活を理解する",
+      "社会への関心を高める"
+    ],
+    "curriculumMapping": ["elementary_social_studies_2024"],
+    "textbookCompany": {
+      "name": "みずほ学習出版株式会社",
+      "code": "MIZUHO_EDU",
+      "series": "新みずほ社会",
+      "isbn": "978-4-234567-014-5",
+      "approvalNumber": "令6-文科-014"
+    },
+    "estimatedTime": 45,
+    "chapters": [
+      {
+        "id": "unit1",
+        "title": "県の様子",
+        "pages": "p.6-24",
+        "objectives": ["県の地形や気候を理解する", "交通の様子を調べる"]
+      },
+      {
+        "id": "unit2",
+        "title": "県の産業",
+        "pages": "p.25-46",
+        "objectives": ["主な産業を理解する", "産業と生活の関わりを考える"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "prefecture_map",
+        "name": "県の地図帳",
+        "type": "map",
+        "description": "詳細な県地図と統計資料（架空）"
+      }
+    ],
+    "creator": {
+      "name": "みずほ学習出版社会編集部",
+      "organization": "みずほ学習出版株式会社",
+      "contact": "social@mizuho-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "社会", "小学4年", "地域学習", "産業"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 19.2
+  },
+  {
+    "id": "aozora_elementary_music_5_2024",
+    "title": "あおぞら音楽 小学5年「心をつなぐ歌声」",
+    "description": "架空の教科書会社「あおぞら教育出版」による小学5年生音楽教科書。表現活動と鑑賞活動をバランスよく配置した構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "performance"],
+    "difficulty": "standard",
+    "educationStage": "elementary",
+    "subject": "music",
+    "targetGrades": ["elementary_5"],
+    "keywords": ["音楽", "歌唱", "器楽", "鑑賞", "表現"],
+    "objectives": [
+      "豊かな表現力を身に付ける",
+      "音楽を愛好する心情を育てる",
+      "音楽の美しさを感じ取る",
+      "協働して音楽活動に取り組む"
+    ],
+    "curriculumMapping": ["elementary_music_2024"],
+    "textbookCompany": {
+      "name": "あおぞら教育出版株式会社",
+      "code": "AOZORA_EDU",
+      "series": "新あおぞら音楽",
+      "isbn": "978-4-345678-025-6",
+      "approvalNumber": "令6-文科-025"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "unit1",
+        "title": "歌でつながろう",
+        "pages": "p.4-18",
+        "objectives": ["美しい声で歌う", "音楽の特徴を感じ取る"],
+        "songs": ["ビリーブ", "翼をください"]
+      },
+      {
+        "id": "unit2",
+        "title": "楽器と仲良くなろう",
+        "pages": "p.19-34",
+        "objectives": ["楽器の特徴を理解する", "合奏の楽しさを味わう"],
+        "instruments": ["リコーダー", "打楽器"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "accompaniment_cd",
+        "name": "伴奏・範唱CD",
+        "type": "audio",
+        "description": "歌唱・器楽指導用音源（架空）"
+      }
+    ],
+    "creator": {
+      "name": "あおぞら教育出版音楽編集部",
+      "organization": "あおぞら教育出版株式会社",
+      "contact": "music@aozora-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "音楽", "小学5年", "歌唱", "器楽"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 21.4
+  },
+  {
+    "id": "taiyo_elementary_pe_6_2024",
+    "title": "たいよう体育 小学6年「心と体をきたえよう」",
+    "description": "架空の教科書会社「たいよう教育」による小学6年生体育教科書。体力向上と協力の精神を重視した構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "sports"],
+    "difficulty": "standard",
+    "educationStage": "elementary",
+    "subject": "pe",
+    "targetGrades": ["elementary_6"],
+    "keywords": ["体育", "運動", "体力", "協力", "安全"],
+    "objectives": [
+      "運動の楽しさや喜びを味わう",
+      "運動技能を身に付ける",
+      "体力の向上を図る",
+      "協力・公正などの態度を育てる"
+    ],
+    "curriculumMapping": ["elementary_pe_2024"],
+    "textbookCompany": {
+      "name": "たいよう教育株式会社",
+      "code": "TAIYO_EDU",
+      "series": "New Taiyo 体育",
+      "isbn": "978-4-456789-036-7",
+      "approvalNumber": "令6-文科-036"
+    },
+    "estimatedTime": 45,
+    "chapters": [
+      {
+        "id": "area1",
+        "title": "体つくり運動",
+        "pages": "p.6-15",
+        "objectives": ["体ほぐしの運動", "体力を高める運動"]
+      },
+      {
+        "id": "area2",
+        "title": "球技",
+        "pages": "p.16-32",
+        "objectives": ["ゴール型ゲーム", "ネット型ゲーム"],
+        "sports": ["バスケットボール", "バレーボール"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "safety_guide",
+        "name": "安全指導の手引き",
+        "type": "manual",
+        "description": "体育授業の安全管理指導書（架空）"
+      }
+    ],
+    "creator": {
+      "name": "たいよう教育体育編集部",
+      "organization": "たいよう教育株式会社",
+      "contact": "pe@taiyo-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "体育", "小学6年", "運動", "体力"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 17.9
+  },
+  {
+    "id": "midori_elementary_moral_4_2024",
+    "title": "みどり道徳 小学4年「心のとびら」",
+    "description": "架空の教科書会社「みどり書房」による小学4年生道徳教科書。豊かな心と道徳的実践力を育成する教材を厳選。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "moral_education"],
+    "difficulty": "standard",
+    "educationStage": "elementary",
+    "subject": "moral",
+    "targetGrades": ["elementary_4"],
+    "keywords": ["道徳", "心", "思いやり", "正義", "生命尊重"],
+    "objectives": [
+      "道徳的な判断力を育てる",
+      "道徳的な心情を育てる",
+      "道徳的な実践意欲と態度を育てる",
+      "よりよく生きるための基盤となる道徳性を養う"
+    ],
+    "curriculumMapping": ["elementary_moral_2024"],
+    "textbookCompany": {
+      "name": "みどり書房株式会社",
+      "code": "MIDORI_PUB",
+      "series": "新編みどり道徳",
+      "isbn": "978-4-678901-058-9",
+      "approvalNumber": "令6-文科-058"
+    },
+    "estimatedTime": 35,
+    "chapters": [
+      {
+        "id": "theme1",
+        "title": "思いやりの心",
+        "pages": "p.8-24",
+        "objectives": ["親切・思いやり", "友情・信頼"],
+        "stories": ["雨の日の出来事", "友だちの気持ち"]
+      },
+      {
+        "id": "theme2",
+        "title": "正しいと思うこと",
+        "pages": "p.25-42",
+        "objectives": ["正直・誠実", "規則の尊重"],
+        "stories": ["本当のこと", "みんなのやくそく"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "teaching_guide",
+        "name": "指導の手引き",
+        "type": "guide",
+        "description": "道徳授業の指導方法と評価（架空）"
+      }
+    ],
+    "creator": {
+      "name": "みどり書房道徳編集部",
+      "organization": "みどり書房株式会社",
+      "contact": "moral@midori-pub.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "道徳", "小学4年", "心の教育", "道徳性"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 20.3
+  },
+  {
+    "id": "special_needs_communication_cards_2024",
+    "title": "コミュニケーション支援カードセット",
+    "description": "特別支援教育で使用するコミュニケーション支援カード。視覚的な支援により、言葉でのコミュニケーションが困難な児童生徒の意思表示を支援します。",
+    "type": "communication_aid",
+    "usageContext": ["special_needs", "communication_support"],
+    "difficulty": "adaptive",
+    "educationStage": "special_needs",
+    "subject": "self_reliance_activities",
+    "targetGrades": ["elementary_1", "elementary_2", "elementary_3", "elementary_4", "elementary_5", "elementary_6", "junior_high_1", "junior_high_2", "junior_high_3"],
+    "keywords": ["コミュニケーション", "視覚支援", "意思表示", "特別支援", "カード"],
+    "objectives": [
+      "基本的な意思表示ができる",
+      "感情や気持ちを表現できる",
+      "日常生活の要求を伝えることができる",
+      "コミュニケーションへの意欲を高める"
+    ],
+    "curriculumMapping": ["special_needs_comprehensive_self_reliance_2024"],
+    "disabilitySupport": ["知的障害", "自閉症", "言語障害", "聴覚障害"],
+    "estimatedTime": 15,
+    "resources": [
+      {
+        "id": "basic_cards",
+        "name": "基本カードセット",
+        "type": "cards",
+        "description": "日常的な語彙・表現カード（架空）",
+        "quantity": 120
+      },
+      {
+        "id": "emotion_cards",
+        "name": "感情表現カード",
+        "type": "cards",
+        "description": "感情・気持ちを表すカード（架空）",
+        "quantity": 24
+      },
+      {
+        "id": "instruction_manual",
+        "name": "使用指導書",
+        "type": "manual",
+        "description": "効果的な使用方法と指導例（架空）",
+        "pages": 48
+      }
+    ],
+    "instructions": "1. 児童の障害特性と発達段階を把握\n2. 適切なカードを選択\n3. 段階的に使用方法を指導\n4. 日常場面での活用を促進\n5. 使用状況を記録・評価",
+    "creator": {
+      "name": "特別支援教育教材開発協会",
+      "organization": "インクルーシブ教育研究センター",
+      "contact": "materials@inclusive-edu.org"
+    },
+    "license": "特別支援教育目的利用",
+    "tags": ["特別支援教育", "コミュニケーション支援", "視覚支援", "AAC"],
+    "createdDate": "2024-05-01T00:00:00.000Z",
+    "lastUpdated": "2024-05-01T00:00:00.000Z",
+    "downloads": 167,
+    "rating": {
+      "average": 4.9,
+      "count": 34
+    }
+  },
+  {
+    "id": "assessment_rubric_math2",
+    "title": "小学2年算数「かけ算」評価ルーブリック",
+    "description": "小学校2年生の算数「かけ算」単元における学習評価用ルーブリック。知識・技能、思考・判断・表現、主体的に学習に取り組む態度の3観点で評価できます。",
+    "type": "assessment",
+    "usageContext": ["assessment"],
+    "difficulty": "standard",
+    "educationStage": "elementary",
+    "subject": "arithmetic",
+    "targetGrades": ["elementary_2"],
+    "keywords": ["評価", "ルーブリック", "かけ算", "九九", "3観点"],
+    "objectives": [
+      "適切な評価観点で児童の学習状況を把握する",
+      "客観的で公正な評価を行う",
+      "児童の学習改善に活用する"
+    ],
+    "curriculumMapping": ["elem_math_2_numbers_3"],
+    "textbookMapping": ["mizuho_math_elementary_2_2024"],
+    "estimatedTime": 10,
+    "prerequisiteKnowledge": ["新学習指導要領の評価の考え方"],
+    "resources": [
+      {
+        "id": "rubric_table",
+        "name": "かけ算評価ルーブリック.xlsx",
+        "type": "file",
+        "url": "https://virtual-assessment-tools.example.com/multiplication_rubric.xlsx",
+        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "size": 45000,
+        "description": "評価基準表（Excel形式）"
+      },
+      {
+        "id": "sample_evaluation",
+        "name": "評価例.pdf",
+        "type": "file",
+        "url": "https://virtual-edu-materials.example.com/evaluation_sample.pdf",
+        "mimeType": "application/pdf",
+        "size": 680000,
+        "description": "実際の評価例と解説"
+      }
+    ],
+    "instructions": "1. 評価の観点と基準を事前に確認\n2. 授業中の児童の活動を観察・記録\n3. 作品や発言内容を基に評価\n4. ルーブリックに従って段階を判定\n5. 個別指導計画に反映",
+    "creator": {
+      "name": "オープン教育評価研究会",
+      "organization": "バーチャル教育評価学会",
+      "contact": "evaluation@virtual-edu-assessment.org"
+    },
+    "license": "CC BY 4.0",
+    "tags": ["学習評価", "ルーブリック", "3観点評価", "指導計画"],
+    "createdDate": "2024-04-05T00:00:00.000Z",
+    "lastUpdated": "2024-04-05T00:00:00.000Z",
+    "downloads": 234,
+    "rating": {
+      "average": 4.2,
+      "count": 28
+    }
+  },
+  {
+    "id": "virtual_elementary_art_5_2024",
+    "title": "バーチャル図工 小学5年「表現の世界」",
+    "description": "架空の教科書会社「バーチャル教育出版」による小学5年生図画工作教科書。造形活動を通して豊かな感性を育成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "creative_activity"],
+    "difficulty": "standard",
+    "educationStage": "elementary",
+    "subject": "art",
+    "targetGrades": ["elementary_5"],
+    "keywords": ["図工", "造形", "表現", "美術", "創作"],
+    "objectives": [
+      "造形的な見方・考え方を働かせる",
+      "表現及び鑑賞の活動を通して造形的な創造活動の基礎的な能力を培う",
+      "豊かな感性を育てる"
+    ],
+    "curriculumMapping": ["elementary_art_2024"],
+    "textbookCompany": {
+      "name": "バーチャル教育出版株式会社",
+      "code": "VIRTUAL_EDU",
+      "series": "新バーチャル図工",
+      "isbn": "978-4-789012-069-0",
+      "approvalNumber": "令6-文科-069"
+    },
+    "estimatedTime": 45,
+    "chapters": [
+      {
+        "id": "expression1",
+        "title": "絵に表そう",
+        "pages": "p.6-22",
+        "objectives": ["感じたことを絵に表現する", "材料や用具を適切に使う"]
+      },
+      {
+        "id": "craft1",
+        "title": "つくって楽しもう",
+        "pages": "p.23-38",
+        "objectives": ["立体作品を制作する", "材料の特徴を生かす"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "art_materials_guide",
+        "name": "材料・用具の使い方",
+        "type": "guide",
+        "description": "安全で効果的な材料使用法（架空）"
+      }
+    ],
+    "creator": {
+      "name": "バーチャル教育出版美術編集部",
+      "organization": "バーチャル教育出版株式会社",
+      "contact": "art@virtual-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "図工", "小学5年", "造形", "表現"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 18.6
+  },
+  {
+    "id": "sakura_elementary_home_economics_5_2024",
+    "title": "さくら家庭 小学5年「豊かな生活をつくろう」",
+    "description": "架空の教科書会社「さくら出版」による小学5・6年生家庭科教科書。実践的・体験的な学習を重視した構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "practical_activity"],
+    "difficulty": "standard",
+    "educationStage": "elementary",
+    "subject": "home_economics",
+    "targetGrades": ["elementary_5", "elementary_6"],
+    "keywords": ["家庭", "生活", "調理", "裁縫", "家族"],
+    "objectives": [
+      "生活をよりよくしようと工夫する能力と実践的な態度を育てる",
+      "家族や家庭の役割を理解する",
+      "基本的な生活技能を身に付ける"
+    ],
+    "curriculumMapping": ["elementary_home_economics_2024"],
+    "textbookCompany": {
+      "name": "さくら出版株式会社",
+      "code": "SAKURA_PUB",
+      "series": "新編さくら家庭",
+      "isbn": "978-4-123456-070-1",
+      "approvalNumber": "令6-文科-070"
+    },
+    "estimatedTime": 60,
+    "chapters": [
+      {
+        "id": "family_life",
+        "title": "家族の生活",
+        "pages": "p.8-24",
+        "objectives": ["家族の役割を理解する", "家庭生活の大切さを知る"]
+      },
+      {
+        "id": "cooking",
+        "title": "調理の基礎",
+        "pages": "p.25-48",
+        "objectives": ["基本的な調理技能を身に付ける", "食の安全を理解する"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "cooking_dvd",
+        "name": "調理実習DVD",
+        "type": "video",
+        "description": "基本的な調理手順の映像教材（架空）"
+      }
+    ],
+    "creator": {
+      "name": "さくら出版家庭編集部",
+      "organization": "さくら出版株式会社",
+      "contact": "homeec@sakura-publishing.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "家庭", "小学5年", "生活技能", "調理"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 15.7
+  },
+  {
+    "id": "mizuho_elementary_foreign_language_6_2024",
+    "title": "みずほEnglish 小学6年「Let's Communicate!」",
+    "description": "架空の教科書会社「みずほ学習出版」による小学6年生外国語（英語）教科書。コミュニケーション能力の素地を養う。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "communication"],
+    "difficulty": "basic",
+    "educationStage": "elementary",
+    "subject": "foreign_language",
+    "targetGrades": ["elementary_6"],
+    "keywords": ["英語", "外国語", "コミュニケーション", "国際理解", "音声"],
+    "objectives": [
+      "外国語による聞くこと、読むこと、話すこと、書くことの言語活動を通して、コミュニケーションを図る基礎となる資質・能力を育成する",
+      "外国語の音声や文字、語彙、表現、文構造、言語の働きについて理解する"
+    ],
+    "curriculumMapping": ["elementary_foreign_language_2024"],
+    "textbookCompany": {
+      "name": "みずほ学習出版株式会社",
+      "code": "MIZUHO_EDU",
+      "series": "New Mizuho English",
+      "isbn": "978-4-234567-081-2",
+      "approvalNumber": "令6-文科-081"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "unit1",
+        "title": "My Summer Vacation",
+        "pages": "p.6-18",
+        "objectives": ["過去の出来事について話す", "感想を述べる"],
+        "keyExpressions": ["I went to...", "It was..."]
+      },
+      {
+        "id": "unit2",
+        "title": "My Best Memory",
+        "pages": "p.19-32",
+        "objectives": ["思い出を発表する", "友達の発表を聞く"],
+        "keyExpressions": ["My best memory is...", "I enjoyed..."]
+      }
+    ],
+    "resources": [
+      {
+        "id": "audio_cd",
+        "name": "音声CD",
+        "type": "audio",
+        "description": "ネイティブスピーカーによる音声教材（架空）"
+      }
+    ],
+    "creator": {
+      "name": "みずほ学習出版英語編集部",
+      "organization": "みずほ学習出版株式会社",
+      "contact": "english@mizuho-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "英語", "小学6年", "コミュニケーション", "外国語活動"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 22.1
+  },
+  {
+    "id": "aozora_elementary_life_studies_1_2024",
+    "title": "あおぞら生活 小学1年「みんなで学ぼう」",
+    "description": "架空の教科書会社「あおぞら教育出版」による小学1・2年生生活科教科書。体験活動を重視し、気付きの質を高める構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "experience_activity"],
+    "difficulty": "basic",
+    "educationStage": "elementary",
+    "subject": "life_studies",
+    "targetGrades": ["elementary_1", "elementary_2"],
+    "keywords": ["生活", "体験", "自然", "人", "社会"],
+    "objectives": [
+      "身近な生活に関わる見方・考え方を生かし、自立し生活を豊かにしていくための資質・能力を育成する",
+      "活動や体験を通して、身近な生活に関わる事象を捉える"
+    ],
+    "curriculumMapping": ["elementary_life_studies_2024"],
+    "textbookCompany": {
+      "name": "あおぞら教育出版株式会社",
+      "code": "AOZORA_EDU",
+      "series": "新あおぞら生活",
+      "isbn": "978-4-345678-092-3",
+      "approvalNumber": "令6-文科-092"
+    },
+    "estimatedTime": 45,
+    "chapters": [
+      {
+        "id": "season1",
+        "title": "がっこうだいすき",
+        "pages": "p.4-16",
+        "objectives": ["学校に親しむ", "学校探検をする"]
+      },
+      {
+        "id": "season2",
+        "title": "みんなでつかう まちのしせつ",
+        "pages": "p.17-28",
+        "objectives": ["公共施設を利用する", "地域の人々と関わる"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "activity_cards",
+        "name": "活動カード",
+        "type": "cards",
+        "description": "体験活動を記録するカード（架空）"
+      }
+    ],
+    "creator": {
+      "name": "あおぞら教育出版生活編集部",
+      "organization": "あおぞら教育出版株式会社",
+      "contact": "seikatsu@aozora-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "生活", "小学1年", "体験活動", "気付き"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 19.8
+  },
+  {
+    "id": "taiyo_elementary_foreign_activity_3_2024",
+    "title": "たいよう外国語活動 小学3年「Let's Try!」",
+    "description": "架空の教科書会社「たいよう教育」による小学3・4年生外国語活動教材。音声を中心とした活動で外国語に慣れ親しむ。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "activity"],
+    "difficulty": "basic",
+    "educationStage": "elementary",
+    "subject": "foreign_language_activity",
+    "targetGrades": ["elementary_3", "elementary_4"],
+    "keywords": ["外国語活動", "英語", "音声", "慣れ親しみ", "国際理解"],
+    "objectives": [
+      "外国語によるコミュニケーションにおける見方・考え方を働かせ、外国語の音声や文字等に慣れ親しませる",
+      "コミュニケーション能力の素地を養う"
+    ],
+    "curriculumMapping": ["elementary_foreign_language_activity_2024"],
+    "textbookCompany": {
+      "name": "たいよう教育株式会社",
+      "code": "TAIYO_EDU",
+      "series": "Let's Try! Taiyo",
+      "isbn": "978-4-456789-103-4",
+      "approvalNumber": "令6-文科-103"
+    },
+    "estimatedTime": 35,
+    "chapters": [
+      {
+        "id": "unit1",
+        "title": "Hello!",
+        "pages": "p.4-12",
+        "objectives": ["あいさつをする", "名前を言う"],
+        "keyWords": ["Hello", "I'm", "Nice to meet you"]
+      },
+      {
+        "id": "unit2",
+        "title": "How are you?",
+        "pages": "p.13-20",
+        "objectives": ["気持ちを表現する", "簡単な質問に答える"],
+        "keyWords": ["How are you?", "I'm fine", "Thank you"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "digital_materials",
+        "name": "デジタル教材",
+        "type": "digital",
+        "description": "インタラクティブな学習コンテンツ（架空）"
+      }
+    ],
+    "creator": {
+      "name": "たいよう教育外国語編集部",
+      "organization": "たいよう教育株式会社",
+      "contact": "fl-activity@taiyo-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "外国語活動", "小学3年", "音声中心", "慣れ親しみ"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 16.4
+  },
+  {
+    "id": "midori_junior_high_science_1_2024",
+    "title": "みどり理科 中学1年「科学の世界への扉」",
+    "description": "架空の教科書会社「みどり書房」による中学1年生理科教科書。観察・実験を重視し、科学的思考力を育成する構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "experiment"],
+    "difficulty": "standard",
+    "educationStage": "junior_high",
+    "subject": "science",
+    "targetGrades": ["junior_high_1"],
+    "keywords": ["理科", "観察", "実験", "科学的思考", "探究"],
+    "objectives": [
+      "自然の事物・現象に関わり、理科の見方・考え方を働かせ、見通しをもって観察、実験を行う",
+      "科学的に探究するために必要な資質・能力を育成する"
+    ],
+    "curriculumMapping": ["junior_high_science_2024"],
+    "textbookCompany": {
+      "name": "みどり書房株式会社",
+      "code": "MIDORI_PUB",
+      "series": "新編みどり理科",
+      "isbn": "978-4-678901-114-5",
+      "approvalNumber": "令6-文科-114"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "unit1",
+        "title": "いろいろな生物とその共通点",
+        "pages": "p.8-32",
+        "objectives": ["生物の観察", "生物の特徴の理解"]
+      },
+      {
+        "id": "unit2",
+        "title": "身のまわりの物質",
+        "pages": "p.33-58",
+        "objectives": ["物質の性質の調査", "実験技能の習得"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "experiment_guide",
+        "name": "実験観察の手引き",
+        "type": "guide",
+        "description": "安全で効果的な実験方法（架空）"
+      }
+    ],
+    "creator": {
+      "name": "みどり書房理科編集部",
+      "organization": "みどり書房株式会社",
+      "contact": "science@midori-pub.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "理科", "中学1年", "観察実験", "科学的思考"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 24.3
+  },
+  {
+    "id": "virtual_junior_high_social_2_2024",
+    "title": "バーチャル社会 中学2年「歴史を学ぼう」",
+    "description": "架空の教科書会社「バーチャル教育出版」による中学2年生社会科（歴史的分野）教科書。多面的・多角的な思考を重視。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "historical_thinking"],
+    "difficulty": "standard",
+    "educationStage": "junior_high",
+    "subject": "social_studies",
+    "targetGrades": ["junior_high_2"],
+    "keywords": ["社会", "歴史", "時代", "文化", "政治"],
+    "objectives": [
+      "社会的な見方・考え方を働かせ、課題を追究したり解決したりする活動を通して、広い視野に立ち、グローバル化する国際社会に主体的に生きる平和で民主的な国家及び社会の形成者に必要な公民としての資質・能力の基礎を育成する"
+    ],
+    "curriculumMapping": ["junior_high_social_studies_2024"],
+    "textbookCompany": {
+      "name": "バーチャル教育出版株式会社",
+      "code": "VIRTUAL_EDU",
+      "series": "新バーチャル社会",
+      "isbn": "978-4-789012-125-6",
+      "approvalNumber": "令6-文科-125"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "era1",
+        "title": "古代までの日本",
+        "pages": "p.10-34",
+        "objectives": ["古代国家の成立", "律令政治の特色"]
+      },
+      {
+        "id": "era2",
+        "title": "中世の日本",
+        "pages": "p.35-62",
+        "objectives": ["武家政治の成立", "鎌倉・室町文化"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "historical_atlas",
+        "name": "歴史地図帳",
+        "type": "atlas",
+        "description": "時代別の詳細地図と資料（架空）"
+      }
+    ],
+    "creator": {
+      "name": "バーチャル教育出版社会編集部",
+      "organization": "バーチャル教育出版株式会社",
+      "contact": "social@virtual-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "社会", "中学2年", "歴史", "文化"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 21.7
+  },
+  {
+    "id": "sakura_junior_high_music_2_2024",
+    "title": "さくら音楽 中学2年「音楽の力」",
+    "description": "架空の教科書会社「さくら出版」による中学2年生音楽教科書。表現と鑑賞の相互の関連を図った学習を展開。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "performance"],
+    "difficulty": "standard",
+    "educationStage": "junior_high",
+    "subject": "music",
+    "targetGrades": ["junior_high_2"],
+    "keywords": ["音楽", "表現", "鑑賞", "創作", "音楽文化"],
+    "objectives": [
+      "表現及び鑑賞の幅広い活動を通して、音楽的な見方・考え方を働かせ、生活や社会の中の音や音楽、音楽文化と豊かに関わる資質・能力を育成する"
+    ],
+    "curriculumMapping": ["junior_high_music_2024"],
+    "textbookCompany": {
+      "name": "さくら出版株式会社",
+      "code": "SAKURA_PUB",
+      "series": "新編さくら音楽",
+      "isbn": "978-4-123456-136-7",
+      "approvalNumber": "令6-文科-136"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "expression1",
+        "title": "歌声を響かせよう",
+        "pages": "p.6-22",
+        "objectives": ["豊かな歌声での表現", "言葉と音楽の関わり"],
+        "songs": ["夏の思い出", "心の瞳"]
+      },
+      {
+        "id": "appreciation1",
+        "title": "音楽の特徴を感じ取ろう",
+        "pages": "p.23-38",
+        "objectives": ["楽曲の特徴の理解", "音楽文化の理解"],
+        "pieces": ["四季より「春」", "雅楽「越天楽」"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "listening_cd",
+        "name": "鑑賞用CD",
+        "type": "audio",
+        "description": "クラシックから民族音楽まで（架空）"
+      }
+    ],
+    "creator": {
+      "name": "さくら出版音楽編集部",
+      "organization": "さくら出版株式会社",
+      "contact": "music@sakura-publishing.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "音楽", "中学2年", "表現", "鑑賞"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 26.2
+  },
+  {
+    "id": "mizuho_junior_high_art_3_2024",
+    "title": "みずほ美術 中学3年「創造の喜び」",
+    "description": "架空の教科書会社「みずほ学習出版」による中学3年生美術教科書。豊かな発想力と創造力を育む多様な題材を収録。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "creative_activity"],
+    "difficulty": "advanced",
+    "educationStage": "junior_high",
+    "subject": "art",
+    "targetGrades": ["junior_high_3"],
+    "keywords": ["美術", "創造", "表現", "鑑賞", "造形"],
+    "objectives": [
+      "表現及び鑑賞の幅広い活動を通して、造形的な見方・考え方を働かせ、生活や社会の中の美術や美術文化と豊かに関わる資質・能力を育成する"
+    ],
+    "curriculumMapping": ["junior_high_art_2024"],
+    "textbookCompany": {
+      "name": "みずほ学習出版株式会社",
+      "code": "MIZUHO_EDU",
+      "series": "新みずほ美術",
+      "isbn": "978-4-234567-147-8",
+      "approvalNumber": "令6-文科-147"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "drawing1",
+        "title": "描く喜び",
+        "pages": "p.8-26",
+        "objectives": ["豊かな表現力の育成", "観察力の向上"]
+      },
+      {
+        "id": "design1",
+        "title": "デザインの世界",
+        "pages": "p.27-44",
+        "objectives": ["機能と美の調和", "生活を豊かにするデザイン"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "art_techniques",
+        "name": "技法解説DVD",
+        "type": "video",
+        "description": "様々な表現技法の紹介（架空）"
+      }
+    ],
+    "creator": {
+      "name": "みずほ学習出版美術編集部",
+      "organization": "みずほ学習出版株式会社",
+      "contact": "art@mizuho-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "美術", "中学3年", "創造", "表現"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 23.8
+  },
+  {
+    "id": "aozora_junior_high_pe_1_2024",
+    "title": "あおぞら保健体育 中学1年「健やかな心と体」",
+    "description": "架空の教科書会社「あおぞら教育出版」による中学1年生保健体育教科書。運動の楽しさと健康の大切さを学ぶ。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "sports_health"],
+    "difficulty": "standard",
+    "educationStage": "junior_high",
+    "subject": "pe",
+    "targetGrades": ["junior_high_1"],
+    "keywords": ["保健体育", "運動", "健康", "体力", "安全"],
+    "objectives": [
+      "体育や保健の見方・考え方を働かせ、課題を発見し、合理的で効率的な解決に向けた学習過程を通して、心と体を一体として捉え、生涯にわたって心身の健康を保持増進し豊かなスポーツライフを実現するための資質・能力を育成する"
+    ],
+    "curriculumMapping": ["junior_high_pe_2024"],
+    "textbookCompany": {
+      "name": "あおぞら教育出版株式会社",
+      "code": "AOZORA_EDU",
+      "series": "新あおぞら保健体育",
+      "isbn": "978-4-345678-158-9",
+      "approvalNumber": "令6-文科-158"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "sports1",
+        "title": "体つくり運動",
+        "pages": "p.8-22",
+        "objectives": ["体力の向上", "体ほぐしの運動"]
+      },
+      {
+        "id": "health1",
+        "title": "心身の機能の発達と心の健康",
+        "pages": "p.23-38",
+        "objectives": ["身体機能の発達", "精神機能の発達"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "health_data",
+        "name": "保健統計資料集",
+        "type": "data",
+        "description": "最新の健康に関するデータ（架空）"
+      }
+    ],
+    "creator": {
+      "name": "あおぞら教育出版保健体育編集部",
+      "organization": "あおぞら教育出版株式会社",
+      "contact": "pe@aozora-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "保健体育", "中学1年", "健康", "運動"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 25.1
+  },
+  {
+    "id": "taiyo_junior_high_technology_2_2024",
+    "title": "たいよう技術 中学2年「技術で未来を創る」",
+    "description": "架空の教科書会社「たいよう教育」による中学2年生技術・家庭科（技術分野）教科書。ものづくりを通して技術的素養を育成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "practical_work"],
+    "difficulty": "standard",
+    "educationStage": "junior_high",
+    "subject": "technology",
+    "targetGrades": ["junior_high_2"],
+    "keywords": ["技術", "ものづくり", "情報", "エネルギー", "設計"],
+    "objectives": [
+      "技術の見方・考え方を働かせ、ものづくりなどの技術に関する実践的・体験的な活動を通して、技術によってよりよい生活や持続可能な社会を構築する資質・能力を育成する"
+    ],
+    "curriculumMapping": ["junior_high_technology_2024"],
+    "textbookCompany": {
+      "name": "たいよう教育株式会社",
+      "code": "TAIYO_EDU",
+      "series": "New Taiyo 技術",
+      "isbn": "978-4-456789-169-0",
+      "approvalNumber": "令6-文科-169"
+    },
+    "estimatedTime": 70,
+    "chapters": [
+      {
+        "id": "materials1",
+        "title": "材料と加工の技術",
+        "pages": "p.10-32",
+        "objectives": ["材料の特性理解", "加工技術の習得"]
+      },
+      {
+        "id": "information1",
+        "title": "情報の技術",
+        "pages": "p.33-56",
+        "objectives": ["プログラミング", "情報セキュリティ"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "workshop_guide",
+        "name": "実習指導書",
+        "type": "guide",
+        "description": "安全な実習のための指導書（架空）"
+      }
+    ],
+    "creator": {
+      "name": "たいよう教育技術編集部",
+      "organization": "たいよう教育株式会社",
+      "contact": "technology@taiyo-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "技術", "中学2年", "ものづくり", "情報"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 20.6
+  },
+  {
+    "id": "midori_junior_high_home_economics_1_2024",
+    "title": "みどり家庭 中学1年「生活を創る」",
+    "description": "架空の教科書会社「みどり書房」による中学1年生技術・家庭科（家庭分野）教科書。自立した消費者を育成する実践的な内容。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "practical_activity"],
+    "difficulty": "standard",
+    "educationStage": "junior_high",
+    "subject": "home_economics",
+    "targetGrades": ["junior_high_1"],
+    "keywords": ["家庭", "生活", "食生活", "衣生活", "消費"],
+    "objectives": [
+      "生活の営みに係る見方・考え方を働かせ、衣食住などに関する実践的・体験的な活動を通して、よりよい生活の実現に向けて、生活を工夫し創造する資質・能力を育成する"
+    ],
+    "curriculumMapping": ["junior_high_home_economics_2024"],
+    "textbookCompany": {
+      "name": "みどり書房株式会社",
+      "code": "MIDORI_PUB",
+      "series": "新編みどり家庭",
+      "isbn": "978-4-678901-170-1",
+      "approvalNumber": "令6-文科-170"
+    },
+    "estimatedTime": 70,
+    "chapters": [
+      {
+        "id": "family1",
+        "title": "家族・家庭と子どもの成長",
+        "pages": "p.8-24",
+        "objectives": ["家族の機能", "子どもの成長と家族"]
+      },
+      {
+        "id": "food1",
+        "title": "食生活と栄養",
+        "pages": "p.25-48",
+        "objectives": ["栄養素の働き", "食事の計画と調理"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "nutrition_chart",
+        "name": "栄養成分表",
+        "type": "chart",
+        "description": "食品の栄養成分データ（架空）"
+      }
+    ],
+    "creator": {
+      "name": "みどり書房家庭編集部",
+      "organization": "みどり書房株式会社",
+      "contact": "homeec@midori-pub.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "家庭", "中学1年", "生活技術", "自立"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 22.9
+  },
+  {
+    "id": "virtual_junior_high_english_3_2024",
+    "title": "バーチャルEnglish 中学3年「Gateway to the World」",
+    "description": "架空の教科書会社「バーチャル教育出版」による中学3年生英語教科書。実践的なコミュニケーション能力を育成する構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "communication"],
+    "difficulty": "advanced",
+    "educationStage": "junior_high",
+    "subject": "english",
+    "targetGrades": ["junior_high_3"],
+    "keywords": ["英語", "コミュニケーション", "文法", "語彙", "文化理解"],
+    "objectives": [
+      "外国語によるコミュニケーションにおける見方・考え方を働かせ、外国語による聞くこと、読むこと、話すこと、書くことの言語活動を通して、簡単な情報や考えなどを理解したり表現したり伝え合ったりするコミュニケーションを図る資質・能力を育成する"
+    ],
+    "curriculumMapping": ["junior_high_english_2024"],
+    "textbookCompany": {
+      "name": "バーチャル教育出版株式会社",
+      "code": "VIRTUAL_EDU",
+      "series": "Virtual English Gateway",
+      "isbn": "978-4-789012-181-2",
+      "approvalNumber": "令6-文科-181"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "lesson1",
+        "title": "Communication across Cultures",
+        "pages": "p.8-22",
+        "objectives": ["異文化理解", "意見交換"],
+        "grammar": ["現在完了", "関係代名詞"]
+      },
+      {
+        "id": "lesson2",
+        "title": "Our Future World",
+        "pages": "p.23-36",
+        "objectives": ["将来についての表現", "問題解決的思考"],
+        "grammar": ["仮定法", "分詞構文"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "listening_materials",
+        "name": "リスニング教材",
+        "type": "audio",
+        "description": "様々なアクセントの英語音声（架空）"
+      }
+    ],
+    "creator": {
+      "name": "バーチャル教育出版英語編集部",
+      "organization": "バーチャル教育出版株式会社",
+      "contact": "english@virtual-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "英語", "中学3年", "コミュニケーション", "国際理解"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 28.4
+  },
+  {
+    "id": "sakura_junior_high_moral_3_2024",
+    "title": "さくら道徳 中学3年「よりよく生きるために」",
+    "description": "架空の教科書会社「さくら出版」による中学3年生道徳教科書。思春期の生徒に対応した深い価値理解を促す教材構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "moral_education"],
+    "difficulty": "advanced",
+    "educationStage": "junior_high",
+    "subject": "moral",
+    "targetGrades": ["junior_high_3"],
+    "keywords": ["道徳", "価値観", "人生", "社会参画", "自己実現"],
+    "objectives": [
+      "よりよく生きるための基盤となる道徳性を養うため、道徳的諸価値についての理解を基に、自己を見つめ、物事を広い視野から多面的・多角的に考え、人間としての生き方についての考えを深める学習を通して、道徳的な判断力、心情、実践意欲と態度を育てる"
+    ],
+    "curriculumMapping": ["junior_high_moral_2024"],
+    "textbookCompany": {
+      "name": "さくら出版株式会社",
+      "code": "SAKURA_PUB",
+      "series": "新編さくら道徳",
+      "isbn": "978-4-123456-192-3",
+      "approvalNumber": "令6-文科-192"
+    },
+    "estimatedTime": 35,
+    "chapters": [
+      {
+        "id": "theme1",
+        "title": "自分らしく生きる",
+        "pages": "p.8-28",
+        "objectives": ["自主・自立", "向上心・個性の伸長"],
+        "stories": ["私の道", "個性って何だろう"]
+      },
+      {
+        "id": "theme2",
+        "title": "社会に参画する",
+        "pages": "p.29-48",
+        "objectives": ["社会参画", "公共の精神"],
+        "stories": ["私たちにできること", "よりよい社会を目指して"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "discussion_guide",
+        "name": "話し合い活動の手引き",
+        "type": "guide",
+        "description": "効果的な道徳的対話の方法（架空）"
+      }
+    ],
+    "creator": {
+      "name": "さくら出版道徳編集部",
+      "organization": "さくら出版株式会社",
+      "contact": "moral@sakura-publishing.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "道徳", "中学3年", "価値理解", "生き方"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 24.7
+  },
+  {
+    "id": "mizuho_high_school_japanese_1_2024",
+    "title": "みずほ現代の国語 高校1年「ことばの力」",
+    "description": "架空の教科書会社「みずほ学習出版」による高校1年生現代の国語教科書。実社会で生きて働く国語の能力を育成する構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "language_skills"],
+    "difficulty": "standard",
+    "educationStage": "high_school",
+    "subject": "japanese",
+    "targetGrades": ["high_school_1"],
+    "keywords": ["国語", "現代文", "論理的思考", "表現力", "読解力"],
+    "objectives": [
+      "言葉による見方・考え方を働かせ、言語活動を通して、国語で正確に理解し適切に表現する資質・能力を育成する",
+      "実社会に必要な国語の知識や技能を身に付ける"
+    ],
+    "curriculumMapping": ["high_school_japanese_2024"],
+    "textbookCompany": {
+      "name": "みずほ学習出版株式会社",
+      "code": "MIZUHO_EDU",
+      "series": "新みずほ現代の国語",
+      "isbn": "978-4-234567-203-4",
+      "approvalNumber": "令6-文科-203"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "unit1",
+        "title": "論理的に考える",
+        "pages": "p.10-32",
+        "objectives": ["論理的思考力", "批判的読解"],
+        "texts": ["科学と人間", "情報社会を考える"]
+      },
+      {
+        "id": "unit2",
+        "title": "効果的に表現する",
+        "pages": "p.33-54",
+        "objectives": ["表現技法", "相手意識を持った表現"],
+        "activities": ["プレゼンテーション", "レポート作成"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "expression_guide",
+        "name": "表現活動指導書",
+        "type": "guide",
+        "description": "効果的な表現方法の指導（架空）"
+      }
+    ],
+    "creator": {
+      "name": "みずほ学習出版国語編集部",
+      "organization": "みずほ学習出版株式会社",
+      "contact": "japanese@mizuho-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "国語", "高校1年", "論理的思考", "表現力"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 31.2
+  },
+  {
+    "id": "aozora_high_school_geography_2_2024",
+    "title": "あおぞら地理総合 高校2年「世界を理解する」",
+    "description": "架空の教科書会社「あおぞら教育出版」による高校2年生地理総合教科書。持続可能な社会づくりを考える地理学習。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "geographical_thinking"],
+    "difficulty": "standard",
+    "educationStage": "high_school",
+    "subject": "geography",
+    "targetGrades": ["high_school_2"],
+    "keywords": ["地理", "地球環境", "持続可能性", "国際理解", "地域調査"],
+    "objectives": [
+      "社会的事象の地理的な見方・考え方を働かせ、課題を追究したり解決したりする活動を通して、広い視野に立ち、グローバル化する国際社会に主体的に生きる平和で民主的な国家及び社会の形成者に必要な公民としての資質・能力の基礎を育成する"
+    ],
+    "curriculumMapping": ["high_school_geography_2024"],
+    "textbookCompany": {
+      "name": "あおぞら教育出版株式会社",
+      "code": "AOZORA_EDU",
+      "series": "新あおぞら地理総合",
+      "isbn": "978-4-345678-214-5",
+      "approvalNumber": "令6-文科-214"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "part1",
+        "title": "地図と地理情報システム",
+        "pages": "p.8-28",
+        "objectives": ["地図の活用", "GISの理解と活用"]
+      },
+      {
+        "id": "part2",
+        "title": "国際理解と国際協力",
+        "pages": "p.29-52",
+        "objectives": ["生活文化の多様性", "地球的課題の解決"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "world_atlas",
+        "name": "世界地図帳",
+        "type": "atlas",
+        "description": "最新の世界地図と統計資料（架空）"
+      }
+    ],
+    "creator": {
+      "name": "あおぞら教育出版地理編集部",
+      "organization": "あおぞら教育出版株式会社",
+      "contact": "geography@aozora-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "地理", "高校2年", "国際理解", "持続可能性"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 27.8
+  },
+  {
+    "id": "taiyo_high_school_math_1_2024",
+    "title": "たいよう数学Ⅰ 高校1年「数学の基礎」",
+    "description": "架空の教科書会社「たいよう教育」による高校1年生数学Ⅰ教科書。基礎から応用まで段階的に学習できる構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "problem_solving"],
+    "difficulty": "standard",
+    "educationStage": "high_school",
+    "subject": "math",
+    "targetGrades": ["high_school_1"],
+    "keywords": ["数学", "関数", "図形", "データ分析", "論理的思考"],
+    "objectives": [
+      "数学的な見方・考え方を働かせ、数学的活動を通して、数学的に考える資質・能力を育成する",
+      "数学における基本的な概念や原理・法則を体系的に理解する"
+    ],
+    "curriculumMapping": ["high_school_math_2024"],
+    "textbookCompany": {
+      "name": "たいよう教育株式会社",
+      "code": "TAIYO_EDU",
+      "series": "New Taiyo 数学",
+      "isbn": "978-4-456789-225-3",
+      "approvalNumber": "令6-文科-225"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "chapter1",
+        "title": "数と式",
+        "pages": "p.8-32",
+        "objectives": ["実数の計算", "方程式と不等式"]
+      },
+      {
+        "id": "chapter2",
+        "title": "2次関数",
+        "pages": "p.33-58",
+        "objectives": ["2次関数のグラフ", "2次方程式・2次不等式"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "problem_bank",
+        "name": "問題集",
+        "type": "workbook",
+        "description": "段階別の豊富な練習問題（架空）"
+      }
+    ],
+    "creator": {
+      "name": "たいよう教育数学編集部",
+      "organization": "たいよう教育株式会社",
+      "contact": "math@taiyo-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "数学", "高校1年", "関数", "論理的思考"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 33.6
+  },
+  {
+    "id": "midori_high_school_science_2_2024",
+    "title": "みどり化学基礎 高校2年「物質の科学」",
+    "description": "架空の教科書会社「みどり書房」による高校2年生化学基礎教科書。実験を重視し、科学的探究力を育成する構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "experiment"],
+    "difficulty": "standard",
+    "educationStage": "high_school",
+    "subject": "science",
+    "targetGrades": ["high_school_2"],
+    "keywords": ["化学", "物質", "実験", "科学的探究", "原子"],
+    "objectives": [
+      "自然の事物・現象に関わり、理科の見方・考え方を働かせ、見通しをもって観察、実験を行うことなどを通して、自然の事物・現象を科学的に探究するために必要な資質・能力を育成する"
+    ],
+    "curriculumMapping": ["high_school_science_2024"],
+    "textbookCompany": {
+      "name": "みどり書房株式会社",
+      "code": "MIDORI_PUB",
+      "series": "新編みどり化学基礎",
+      "isbn": "978-4-678901-236-7",
+      "approvalNumber": "令6-文科-236"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "unit1",
+        "title": "物質の構成",
+        "pages": "p.10-34",
+        "objectives": ["原子の構造", "化学結合"]
+      },
+      {
+        "id": "unit2",
+        "title": "物質の変化",
+        "pages": "p.35-62",
+        "objectives": ["化学反応式", "酸と塩基"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "experiment_manual",
+        "name": "実験マニュアル",
+        "type": "manual",
+        "description": "安全で効果的な実験手順（架空）"
+      }
+    ],
+    "creator": {
+      "name": "みどり書房理科編集部",
+      "organization": "みどり書房株式会社",
+      "contact": "science@midori-pub.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "化学", "高校2年", "実験", "科学的探究"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 29.4
+  },
+  {
+    "id": "virtual_high_school_pe_1_2024",
+    "title": "バーチャル保健体育 高校1年「生涯スポーツへの扉」",
+    "description": "架空の教科書会社「バーチャル教育出版」による高校1年生保健体育教科書。生涯にわたる豊かなスポーツライフの基礎を築く。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "sports_health"],
+    "difficulty": "standard",
+    "educationStage": "high_school",
+    "subject": "pe",
+    "targetGrades": ["high_school_1"],
+    "keywords": ["保健体育", "スポーツ", "健康", "生涯学習", "安全"],
+    "objectives": [
+      "体育や保健の見方・考え方を働かせ、課題を発見し、合理的で効率的な解決に向けた学習過程を通して、心と体を一体として捉え、生涯にわたって心身の健康を保持増進し豊かなスポーツライフを実現するための資質・能力を育成する"
+    ],
+    "curriculumMapping": ["high_school_pe_2024"],
+    "textbookCompany": {
+      "name": "バーチャル教育出版株式会社",
+      "code": "VIRTUAL_EDU",
+      "series": "Virtual 保健体育",
+      "isbn": "978-4-789012-247-8",
+      "approvalNumber": "令6-文科-247"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "area1",
+        "title": "体つくり運動",
+        "pages": "p.8-24",
+        "objectives": ["体ほぐしの運動", "実生活に生かす運動の計画"]
+      },
+      {
+        "id": "health1",
+        "title": "現代社会と健康",
+        "pages": "p.25-48",
+        "objectives": ["健康の考え方", "生活習慣病の予防"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "sports_video",
+        "name": "スポーツ技術DVD",
+        "type": "video",
+        "description": "各種スポーツの技術指導映像（架空）"
+      }
+    ],
+    "creator": {
+      "name": "バーチャル教育出版保健体育編集部",
+      "organization": "バーチャル教育出版株式会社",
+      "contact": "pe@virtual-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "保健体育", "高校1年", "生涯スポーツ", "健康"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 26.9
+  },
+  {
+    "id": "sakura_high_school_art_3_2024",
+    "title": "さくら美術 高校3年「創造と表現の探究」",
+    "description": "架空の教科書会社「さくら出版」による高校3年生美術教科書。高度な表現技法と美術文化の理解を深める構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "creative_activity"],
+    "difficulty": "advanced",
+    "educationStage": "high_school",
+    "subject": "art",
+    "targetGrades": ["high_school_3"],
+    "keywords": ["美術", "創造", "表現", "美術文化", "芸術性"],
+    "objectives": [
+      "芸術に関する学科においては、表現及び鑑賞の幅広い活動を通して、感性を高め、創造的な表現と鑑賞の能力を伸ばし、芸術文化についての理解を深める"
+    ],
+    "curriculumMapping": ["high_school_art_2024"],
+    "textbookCompany": {
+      "name": "さくら出版株式会社",
+      "code": "SAKURA_PUB",
+      "series": "新編さくら美術",
+      "isbn": "978-4-123456-258-9",
+      "approvalNumber": "令6-文科-258"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "expression1",
+        "title": "絵画・彫刻",
+        "pages": "p.10-36",
+        "objectives": ["高度な表現技法", "主題の探求"]
+      },
+      {
+        "id": "design1",
+        "title": "デザイン・映像メディア表現",
+        "pages": "p.37-62",
+        "objectives": ["現代的な表現手法", "メディアアート"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "art_history",
+        "name": "美術史資料集",
+        "type": "reference",
+        "description": "古典から現代美術まで（架空）"
+      }
+    ],
+    "creator": {
+      "name": "さくら出版美術編集部",
+      "organization": "さくら出版株式会社",
+      "contact": "art@sakura-publishing.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "美術", "高校3年", "創造性", "芸術文化"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 24.1
+  },
+  {
+    "id": "mizuho_high_school_english_2_2024",
+    "title": "みずほEnglish Communication 高校2年「World Connections」",
+    "description": "架空の教科書会社「みずほ学習出版」による高校2年生英語コミュニケーション教科書。実践的な英語力を育成する統合的アプローチ。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "communication"],
+    "difficulty": "advanced",
+    "educationStage": "high_school",
+    "subject": "english",
+    "targetGrades": ["high_school_2"],
+    "keywords": ["英語", "コミュニケーション", "国際理解", "4技能統合", "批判的思考"],
+    "objectives": [
+      "外国語によるコミュニケーションにおける見方・考え方を働かせ、外国語による聞くこと、読むこと、話すこと、書くことの言語活動及びこれらを結び付けた統合的な言語活動を通して、情報や考えなどを的確に理解したり適切に表現したり伝え合ったりするコミュニケーションを図る資質・能力を育成する"
+    ],
+    "curriculumMapping": ["high_school_english_2024"],
+    "textbookCompany": {
+      "name": "みずほ学習出版株式会社",
+      "code": "MIZUHO_EDU",
+      "series": "Mizuho English Communication",
+      "isbn": "978-4-234567-269-0",
+      "approvalNumber": "令6-文科-269"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "lesson1",
+        "title": "Global Issues and Solutions",
+        "pages": "p.8-24",
+        "objectives": ["地球規模の課題理解", "解決策の提案"],
+        "skills": ["Reading", "Writing", "Discussion"]
+      },
+      {
+        "id": "lesson2",
+        "title": "Cultural Diversity",
+        "pages": "p.25-42",
+        "objectives": ["多文化理解", "異文化コミュニケーション"],
+        "skills": ["Listening", "Speaking", "Presentation"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "audio_materials",
+        "name": "音声教材セット",
+        "type": "audio",
+        "description": "多様なアクセント・速度の英語音声（架空）"
+      }
+    ],
+    "creator": {
+      "name": "みずほ学習出版英語編集部",
+      "organization": "みずほ学習出版株式会社",
+      "contact": "english@mizuho-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "英語", "高校2年", "コミュニケーション", "4技能統合"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 35.7
+  },
+  {
+    "id": "aozora_elementary_integrated_studies_5_2024",
+    "title": "あおぞら総合 小学5年「探究の時間」",
+    "description": "架空の教科書会社「あおぞら教育出版」による小学5年生総合的な学習の時間教材。横断的・総合的な学習を通して問題解決能力を育成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "project", "inquiry"],
+    "difficulty": "standard",
+    "educationStage": "elementary",
+    "subject": "integrated_studies",
+    "targetGrades": ["elementary_5"],
+    "keywords": ["総合学習", "探究", "問題解決", "横断的学習", "体験活動"],
+    "objectives": [
+      "探究的な見方・考え方を働かせ、横断的・総合的な学習を行うことを通して、よりよく課題を解決し、自己の生き方を考えていくための資質・能力を育成する"
+    ],
+    "curriculumMapping": ["elementary_integrated_studies_2024"],
+    "textbookCompany": {
+      "name": "あおぞら教育出版株式会社",
+      "code": "AOZORA_EDU",
+      "series": "新あおぞら総合",
+      "isbn": "978-4-345678-280-7",
+      "approvalNumber": "令6-文科-280"
+    },
+    "estimatedTime": 70,
+    "chapters": [
+      {
+        "id": "theme1",
+        "title": "環境問題を考えよう",
+        "pages": "p.6-22",
+        "objectives": ["環境問題の理解", "解決策の提案"]
+      },
+      {
+        "id": "theme2",
+        "title": "地域の文化を調べよう",
+        "pages": "p.23-38",
+        "objectives": ["地域理解", "文化の継承"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "inquiry_worksheet",
+        "name": "探究活動ワークシート",
+        "type": "worksheet",
+        "description": "段階的な探究活動を支援（架空）"
+      }
+    ],
+    "creator": {
+      "name": "あおぞら教育出版総合編集部",
+      "organization": "あおぞら教育出版株式会社",
+      "contact": "integrated@aozora-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "総合学習", "小学5年", "探究", "問題解決"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 18.3
+  },
+  {
+    "id": "taiyo_elementary_special_activities_4_2024",
+    "title": "たいよう特別活動 小学4年「みんなで創る学校生活」",
+    "description": "架空の教科書会社「たいよう教育」による小学4年生特別活動教材。集団活動を通して自主的・実践的な態度を育成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "activity", "group_work"],
+    "difficulty": "standard",
+    "educationStage": "elementary",
+    "subject": "special_activities",
+    "targetGrades": ["elementary_4"],
+    "keywords": ["特別活動", "集団活動", "自主性", "協力", "リーダーシップ"],
+    "objectives": [
+      "集団や社会の形成者としての見方・考え方を働かせ、様々な集団活動に自主的、実践的に取り組み、互いのよさや可能性を発揮しながら集団や自己の生活上の課題を解決することを通して、次の資質・能力を育成する"
+    ],
+    "curriculumMapping": ["elementary_special_activities_2024"],
+    "textbookCompany": {
+      "name": "たいよう教育株式会社",
+      "code": "TAIYO_EDU",
+      "series": "New Taiyo 特別活動",
+      "isbn": "978-4-456789-291-8",
+      "approvalNumber": "令6-文科-291"
+    },
+    "estimatedTime": 35,
+    "chapters": [
+      {
+        "id": "activity1",
+        "title": "学級活動",
+        "pages": "p.4-16",
+        "objectives": ["学級の問題を話し合って解決する", "係活動の充実"]
+      },
+      {
+        "id": "activity2",
+        "title": "児童会活動",
+        "pages": "p.17-28",
+        "objectives": ["全校での協力", "リーダーシップの発揮"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "activity_plan",
+        "name": "活動計画シート",
+        "type": "worksheet",
+        "description": "効果的な活動計画作成支援（架空）"
+      }
+    ],
+    "creator": {
+      "name": "たいよう教育特別活動編集部",
+      "organization": "たいよう教育株式会社",
+      "contact": "special@taiyo-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "特別活動", "小学4年", "集団活動", "自主性"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 16.7
+  },
+  {
+    "id": "sakura_junior_high_japanese_2_2024",
+    "title": "さくら国語 中学2年「言葉の海へ」",
+    "description": "架空の教科書会社「さくら出版」による中学2年生国語教科書。文学作品と説明文をバランスよく配置し、言語能力を総合的に育成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "language_skills"],
+    "difficulty": "standard",
+    "educationStage": "junior_high",
+    "subject": "japanese",
+    "targetGrades": ["junior_high_2"],
+    "keywords": ["国語", "文学", "説明文", "表現", "古典"],
+    "objectives": [
+      "言葉による見方・考え方を働かせ、言語活動を通して、国語で正確に理解し適切に表現する資質・能力を育成する"
+    ],
+    "curriculumMapping": ["junior_high_japanese_2024"],
+    "textbookCompany": {
+      "name": "さくら出版株式会社",
+      "code": "SAKURA_PUB",
+      "series": "新編さくら国語",
+      "isbn": "978-4-123456-302-9",
+      "approvalNumber": "令6-文科-302"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "literature1",
+        "title": "文学の世界",
+        "pages": "p.8-32",
+        "objectives": ["文学的文章の読解", "表現の特色理解"],
+        "texts": ["走れメロス", "枕草子"]
+      },
+      {
+        "id": "explanation1",
+        "title": "説明・論説文",
+        "pages": "p.33-54",
+        "objectives": ["論理的思考", "要旨の把握"],
+        "texts": ["科学技術と人間", "言葉の力"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "classical_texts",
+        "name": "古典文法の手引き",
+        "type": "reference",
+        "description": "古典文法の基礎（架空）"
+      }
+    ],
+    "creator": {
+      "name": "さくら出版国語編集部",
+      "organization": "さくら出版株式会社",
+      "contact": "japanese@sakura-publishing.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "国語", "中学2年", "文学", "古典"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 27.5
+  },
+  {
+    "id": "mizuho_junior_high_math_1_2024",
+    "title": "みずほ数学 中学1年「数学への招待」",
+    "description": "架空の教科書会社「みずほ学習出版」による中学1年生数学教科書。基礎から応用まで段階的に学習できる構成で数学的思考力を育成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "problem_solving"],
+    "difficulty": "standard",
+    "educationStage": "junior_high",
+    "subject": "mathematics",
+    "targetGrades": ["junior_high_1"],
+    "keywords": ["数学", "方程式", "関数", "図形", "統計"],
+    "objectives": [
+      "数学的な見方・考え方を働かせ、数学的活動を通して、数学的に考える資質・能力を育成する"
+    ],
+    "curriculumMapping": ["junior_high_mathematics_2024"],
+    "textbookCompany": {
+      "name": "みずほ学習出版株式会社",
+      "code": "MIZUHO_EDU",
+      "series": "新みずほ数学",
+      "isbn": "978-4-234567-313-0",
+      "approvalNumber": "令6-文科-313"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "numbers1",
+        "title": "正の数・負の数",
+        "pages": "p.8-28",
+        "objectives": ["負の数の理解", "四則計算"]
+      },
+      {
+        "id": "letters1",
+        "title": "文字の式",
+        "pages": "p.29-48",
+        "objectives": ["文字式の表し方", "式の計算"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "problem_collection",
+        "name": "練習問題集",
+        "type": "workbook",
+        "description": "段階別の豊富な問題（架空）"
+      }
+    ],
+    "creator": {
+      "name": "みずほ学習出版数学編集部",
+      "organization": "みずほ学習出版株式会社",
+      "contact": "math@mizuho-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "数学", "中学1年", "基礎計算", "文字式"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 29.8
+  },
+  {
+    "id": "virtual_junior_high_integrated_studies_3_2024",
+    "title": "バーチャル総合 中学3年「未来への探究」",
+    "description": "架空の教科書会社「バーチャル教育出版」による中学3年生総合的な学習の時間教材。進路選択と社会参画を意識した探究活動。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "project", "career"],
+    "difficulty": "advanced",
+    "educationStage": "junior_high",
+    "subject": "integrated_studies",
+    "targetGrades": ["junior_high_3"],
+    "keywords": ["総合学習", "進路", "職業", "社会参画", "探究"],
+    "objectives": [
+      "探究的な見方・考え方を働かせ、横断的・総合的な学習を行うことを通して、よりよく課題を解決し、自己の在り方生き方を考えていくための資質・能力を育成する"
+    ],
+    "curriculumMapping": ["junior_high_integrated_studies_2024"],
+    "textbookCompany": {
+      "name": "バーチャル教育出版株式会社",
+      "code": "VIRTUAL_EDU",
+      "series": "Virtual 総合学習",
+      "isbn": "978-4-789012-324-1",
+      "approvalNumber": "令6-文科-324"
+    },
+    "estimatedTime": 70,
+    "chapters": [
+      {
+        "id": "career1",
+        "title": "職業を知ろう",
+        "pages": "p.6-24",
+        "objectives": ["職業理解", "働くことの意義"]
+      },
+      {
+        "id": "social1",
+        "title": "社会の課題を考えよう",
+        "pages": "p.25-42",
+        "objectives": ["社会問題の理解", "解決への提案"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "career_guide",
+        "name": "進路選択ガイド",
+        "type": "guide",
+        "description": "効果的な進路選択のための資料（架空）"
+      }
+    ],
+    "creator": {
+      "name": "バーチャル教育出版総合編集部",
+      "organization": "バーチャル教育出版株式会社",
+      "contact": "integrated@virtual-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "総合学習", "中学3年", "進路", "社会参画"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 23.4
+  },
+  {
+    "id": "midori_junior_high_special_activities_2_2024",
+    "title": "みどり特別活動 中学2年「仲間と創る学校生活」",
+    "description": "架空の教科書会社「みどり書房」による中学2年生特別活動教材。思春期の生徒の人間関係形成と自治的活動を支援。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "activity", "group_work"],
+    "difficulty": "standard",
+    "educationStage": "junior_high",
+    "subject": "special_activities",
+    "targetGrades": ["junior_high_2"],
+    "keywords": ["特別活動", "生徒会", "学級活動", "人間関係", "自治"],
+    "objectives": [
+      "集団や社会の形成者としての見方・考え方を働かせ、様々な集団活動に自主的、実践的に取り組み、互いのよさや個性を生かしながら集団や自己の生活上の課題を解決することを通して、次の資質・能力を育成する"
+    ],
+    "curriculumMapping": ["junior_high_special_activities_2024"],
+    "textbookCompany": {
+      "name": "みどり書房株式会社",
+      "code": "MIDORI_PUB",
+      "series": "新編みどり特別活動",
+      "isbn": "978-4-678901-335-4",
+      "approvalNumber": "令6-文科-335"
+    },
+    "estimatedTime": 35,
+    "chapters": [
+      {
+        "id": "class1",
+        "title": "学級活動",
+        "pages": "p.4-18",
+        "objectives": ["学級の諸問題の解決", "合意形成"]
+      },
+      {
+        "id": "student1",
+        "title": "生徒会活動",
+        "pages": "p.19-32",
+        "objectives": ["学校生活の充実", "自治的活動"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "discussion_method",
+        "name": "話し合い活動の手引き",
+        "type": "guide",
+        "description": "効果的な話し合いの進め方（架空）"
+      }
+    ],
+    "creator": {
+      "name": "みどり書房特別活動編集部",
+      "organization": "みどり書房株式会社",
+      "contact": "special@midori-pub.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "特別活動", "中学2年", "自治活動", "人間関係"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 21.6
+  },
+  {
+    "id": "sakura_high_school_civic_studies_2_2024",
+    "title": "さくら公共 高校2年「現代社会と私たち」",
+    "description": "架空の教科書会社「さくら出版」による高校2年生公共教科書。現代社会の諸課題について多面的・多角的に考察する構成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "social_thinking"],
+    "difficulty": "standard",
+    "educationStage": "high_school",
+    "subject": "civic_studies",
+    "targetGrades": ["high_school_2"],
+    "keywords": ["公共", "民主主義", "法と政治", "経済", "国際社会"],
+    "objectives": [
+      "人間と社会の在り方についての見方・考え方を働かせ、現代の諸課題を追究したり解決したりする活動を通して、広い視野に立ち、グローバル化する国際社会に主体的に生きる平和で民主的な国家及び社会の形成者に必要な公民としての資質・能力を育成する"
+    ],
+    "curriculumMapping": ["high_school_civic_studies_2024"],
+    "textbookCompany": {
+      "name": "さくら出版株式会社",
+      "code": "SAKURA_PUB",
+      "series": "新編さくら公共",
+      "isbn": "978-4-123456-346-2",
+      "approvalNumber": "令6-文科-346"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "democracy1",
+        "title": "民主主義と政治参加",
+        "pages": "p.8-32",
+        "objectives": ["民主主義の理解", "政治参加の重要性"]
+      },
+      {
+        "id": "economics1",
+        "title": "市場経済と政府の役割",
+        "pages": "p.33-56",
+        "objectives": ["市場の機能", "経済政策の理解"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "current_issues",
+        "name": "時事問題資料集",
+        "type": "reference",
+        "description": "最新の社会問題と統計資料（架空）"
+      }
+    ],
+    "creator": {
+      "name": "さくら出版公民編集部",
+      "organization": "さくら出版株式会社",
+      "contact": "civics@sakura-publishing.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "公共", "高校2年", "民主主義", "経済"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 32.1
+  },
+  {
+    "id": "aozora_high_school_information_1_2024",
+    "title": "あおぞら情報 高校1年「情報社会への第一歩」",
+    "description": "架空の教科書会社「あおぞら教育出版」による高校1年生情報Ⅰ教科書。情報社会で適正に活動するための基礎的素養を育成。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "lesson", "programming"],
+    "difficulty": "standard",
+    "educationStage": "high_school",
+    "subject": "information",
+    "targetGrades": ["high_school_1"],
+    "keywords": ["情報", "プログラミング", "データサイエンス", "AI", "情報モラル"],
+    "objectives": [
+      "情報に関する科学的な見方・考え方を働かせ、情報技術を活用して問題の発見・解決を行う学習活動を通して、問題の発見・解決に向けて情報と情報技術を適切かつ効果的に活用し、情報社会に主体的に参画するための資質・能力を育成する"
+    ],
+    "curriculumMapping": ["high_school_information_2024"],
+    "textbookCompany": {
+      "name": "あおぞら教育出版株式会社",
+      "code": "AOZORA_EDU",
+      "series": "新あおぞら情報",
+      "isbn": "978-4-345678-357-6",
+      "approvalNumber": "令6-文科-357"
+    },
+    "estimatedTime": 50,
+    "chapters": [
+      {
+        "id": "society1",
+        "title": "情報社会の問題解決",
+        "pages": "p.8-26",
+        "objectives": ["情報モラル", "問題解決の方法"]
+      },
+      {
+        "id": "programming1",
+        "title": "プログラミング",
+        "pages": "p.27-48",
+        "objectives": ["アルゴリズム", "プログラム作成"],
+        "languages": ["Python", "JavaScript"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "programming_env",
+        "name": "プログラミング環境",
+        "type": "software",
+        "description": "学習用プログラミング環境（架空）"
+      }
+    ],
+    "creator": {
+      "name": "あおぞら教育出版情報編集部",
+      "organization": "あおぞら教育出版株式会社",
+      "contact": "information@aozora-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "情報", "高校1年", "プログラミング", "データサイエンス"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 28.7
+  },
+  {
+    "id": "taiyo_high_school_integrated_inquiry_3_2024",
+    "title": "たいよう総合探究 高校3年「未来を拓く探究」",
+    "description": "架空の教科書会社「たいよう教育」による高校3年生総合的な探究の時間教材。大学進学・社会参画に向けた高度な探究活動を支援。",
+    "type": "textbook",
+    "usageContext": ["main_textbook", "project", "research"],
+    "difficulty": "advanced",
+    "educationStage": "high_school",
+    "subject": "integrated_inquiry",
+    "targetGrades": ["high_school_3"],
+    "keywords": ["総合探究", "研究", "論文", "発表", "社会貢献"],
+    "objectives": [
+      "探究の見方・考え方を働かせ、横断的・総合的な学習を行うことを通して、自己の在り方生き方を考えながら、よりよく課題を発見し解決していくための資質・能力を育成する"
+    ],
+    "curriculumMapping": ["high_school_integrated_inquiry_2024"],
+    "textbookCompany": {
+      "name": "たいよう教育株式会社",
+      "code": "TAIYO_EDU",
+      "series": "New Taiyo 総合探究",
+      "isbn": "978-4-456789-368-0",
+      "approvalNumber": "令6-文科-368"
+    },
+    "estimatedTime": 70,
+    "chapters": [
+      {
+        "id": "research1",
+        "title": "課題研究の進め方",
+        "pages": "p.6-28",
+        "objectives": ["研究テーマの設定", "研究方法の理解"]
+      },
+      {
+        "id": "presentation1",
+        "title": "研究成果の発表",
+        "pages": "p.29-48",
+        "objectives": ["論文作成", "効果的なプレゼンテーション"]
+      }
+    ],
+    "resources": [
+      {
+        "id": "research_guide",
+        "name": "研究手法ガイド",
+        "type": "guide",
+        "description": "アカデミックな研究の進め方（架空）"
+      }
+    ],
+    "creator": {
+      "name": "たいよう教育探究編集部",
+      "organization": "たいよう教育株式会社",
+      "contact": "inquiry@taiyo-edu.co.jp"
+    },
+    "license": "教科書使用許可",
+    "tags": ["教科書", "総合探究", "高校3年", "研究", "論文"],
+    "publicationDate": "2024-03-01T00:00:00.000Z",
+    "lastRevision": "2024-03-01T00:00:00.000Z",
+    "adoptionRate": 25.3
+  }
+]

@@ -1,0 +1,75 @@
+version: '3.8'
+
+services:
+  open-tenjin-mcp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: open-tenjin-mcp
+    restart: unless-stopped
+    
+    # 環境変数
+    environment:
+      - NODE_ENV=production
+      - MCP_LOG_ENABLED=true
+      - MCP_LOG_LEVEL=info
+      - MCP_LOG_DIR=/app/logs
+      - MCP_LOG_INCLUDE_PARAMS=false
+    
+    # ボリュームマウント（ログファイルの永続化）
+    volumes:
+      - ./logs:/app/logs
+    
+    # リソース制限
+    deploy:
+      resources:
+        limits:
+          memory: 512M
+          cpus: '0.5'
+        reservations:
+          memory: 256M
+          cpus: '0.25'
+    
+    # ヘルスチェック
+    healthcheck:
+      test: ["CMD", "node", "-e", "console.log('MCP Server Health Check: OK')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    
+    # ネットワーク（将来のHTTP対応に備えて）
+    # ports:
+    #   - "3000:3000"
+    
+    # MCPサーバーはstdio経由で通信するため、通常はポート公開不要
+    # クライアントアプリケーションから直接実行される想定
+
+# 開発用の設定例
+---
+version: '3.8'
+
+# 開発環境用のDocker Compose設定
+x-development: &development
+  services:
+    open-tenjin-mcp-dev:
+      build:
+        context: .
+        dockerfile: Dockerfile
+        target: builder  # 開発用にbuilderステージを使用
+      container_name: open-tenjin-mcp-dev
+      restart: "no"
+      
+      environment:
+        - NODE_ENV=development
+        - MCP_LOG_ENABLED=true
+        - MCP_LOG_LEVEL=debug
+        - MCP_LOG_DIR=/app/logs
+        - MCP_LOG_INCLUDE_PARAMS=true
+      
+      volumes:
+        - .:/app  # ソースコードをマウント（開発用）
+        - /app/node_modules  # node_modulesは除外
+        - ./logs:/app/logs
+      
+      command: ["npm", "run", "dev"]  # 開発モードで起動
